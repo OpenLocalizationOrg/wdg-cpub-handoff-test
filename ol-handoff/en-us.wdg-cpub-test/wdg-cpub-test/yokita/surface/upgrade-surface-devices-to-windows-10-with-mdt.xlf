@@ -1,0 +1,1359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="en-us" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-b240e74</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">d47972f19c0143e2f4c75bc07f50a97c4a54cd0d</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\yokita\surface\upgrade-surface-devices-to-windows-10-with-mdt.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">dc27e6feb2cb9f09807c4cc2f952ca79c132487e</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Upgrade Surface devices to Windows 10 with Microsoft Deployment Toolkit (Surface)</source>
+					<target>Upgrade Surface devices to Windows 10 with Microsoft Deployment Toolkit (Surface)</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Find out how to perform a Windows 10 upgrade deployment to your Surface devices.</source>
+					<target>Find out how to perform a Windows 10 upgrade deployment to your Surface devices.</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>windows 10 surface, upgrade, customize, mdt</source>
+					<target>windows 10 surface, upgrade, customize, mdt</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Upgrade Surface devices to Windows 10 with Microsoft Deployment Toolkit</source>
+					<target>Upgrade Surface devices to Windows 10 with Microsoft Deployment Toolkit</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Applies to</source>
+					<target>Applies to</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Surface Pro 3</source>
+					<target>Surface Pro 3</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Surface 3</source>
+					<target>Surface 3</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Surface Pro 2</source>
+					<target>Surface Pro 2</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>Surface Pro</source>
+					<target>Surface Pro</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Windows 10</source>
+					<target>Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>In addition to the traditional deployment method of reimaging devices, administrators that want to upgrade Surface devices that are running Windows 8.1 or Windows 10 have the option of deploying upgrades.</source>
+					<target>In addition to the traditional deployment method of reimaging devices, administrators that want to upgrade Surface devices that are running Windows 8.1 or Windows 10 have the option of deploying upgrades.</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>By performing an upgrade deployment, Windows 10 can be applied to devices without removing users, apps, or configuration.</source>
+					<target>By performing an upgrade deployment, Windows 10 can be applied to devices without removing users, apps, or configuration.</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>The users of the deployed devices can simply continue using the devices with the same apps and settings that they used prior to the upgrade.</source>
+					<target>The users of the deployed devices can simply continue using the devices with the same apps and settings that they used prior to the upgrade.</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>The process described in this article shows how to perform a Windows 10 upgrade deployment to Surface devices.</source>
+					<target>The process described in this article shows how to perform a Windows 10 upgrade deployment to Surface devices.</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](deploy-windows-10-to-surface-devices-with-mdt.md)</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you are not already familiar with the deployment of Windows or the Microsoft deployment tools and technologies, you should read <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy Windows 10 to Surface devices with MDT</pc> and familiarize yourself with the traditional deployment method before you proceed.</source>
+					<target>If you are not already familiar with the deployment of Windows or the Microsoft deployment tools and technologies, you should read <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy Windows 10 to Surface devices with MDT</pc> and familiarize yourself with the traditional deployment method before you proceed.</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>The upgrade concept</source>
+					<target>The upgrade concept</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<originalData>
+					<data id="id1">*</data>
+					<data id="id2">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>When you use the factory installation media to install Windows on a device, you are presented with two options or <pc dataRefEnd="id2" dataRefStart="id1" id="p1">installation paths</pc> to install Windows on that device.</source>
+					<target>When you use the factory installation media to install Windows on a device, you are presented with two options or <pc dataRefEnd="id2" dataRefStart="id1" id="p1">installation paths</pc> to install Windows on that device.</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<originalData>
+					<data id="id1">*</data>
+					<data id="id2">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>The first of these installation paths – <pc dataRefEnd="id2" dataRefStart="id1" id="p1">clean installation</pc> –  allows you to apply a factory image of Windows to that device, including all default settings.</source>
+					<target>The first of these installation paths – <pc dataRefEnd="id2" dataRefStart="id1" id="p1">clean installation</pc> –  allows you to apply a factory image of Windows to that device, including all default settings.</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<originalData>
+					<data id="id1">*</data>
+					<data id="id2">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>The second of these installation paths – <pc dataRefEnd="id2" dataRefStart="id1" id="p1">upgrade</pc> – allows you to apply Windows to the device but retains the device’s users, apps, and settings.</source>
+					<target>The second of these installation paths – <pc dataRefEnd="id2" dataRefStart="id1" id="p1">upgrade</pc> – allows you to apply Windows to the device but retains the device’s users, apps, and settings.</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>When you perform a Windows deployment using traditional deployment methods, you follow an installation path that is very similar to a clean installation.</source>
+					<target>When you perform a Windows deployment using traditional deployment methods, you follow an installation path that is very similar to a clean installation.</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<originalData>
+					<data id="id1">*</data>
+					<data id="id2">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>The primary difference between the clean installation and the traditional deployment method of <pc dataRefEnd="id2" dataRefStart="id1" id="p1">reimaging</pc> is that with reimaging, you can apply an image that includes customizations.</source>
+					<target>The primary difference between the clean installation and the traditional deployment method of <pc dataRefEnd="id2" dataRefStart="id1" id="p1">reimaging</pc> is that with reimaging, you can apply an image that includes customizations.</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>Microsoft deployment technologies, such as the Microsoft Deployment Toolkit (MDT), expand the capabilities of the reimaging process by modifying the image during deployment.</source>
+					<target>Microsoft deployment technologies, such as the Microsoft Deployment Toolkit (MDT), expand the capabilities of the reimaging process by modifying the image during deployment.</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>For example, MDT is able to inject drivers for a specific hardware configuration during deployment, and with pre and post imaging scripts to perform a number of tasks, such as the installation of applications.</source>
+					<target>For example, MDT is able to inject drivers for a specific hardware configuration during deployment, and with pre and post imaging scripts to perform a number of tasks, such as the installation of applications.</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>For versions of Windows prior to Windows 10, if you wanted to install a new version of Windows on your devices and preserve the configuration of those systems, you had to perform additional steps during your deployment.</source>
+					<target>For versions of Windows prior to Windows 10, if you wanted to install a new version of Windows on your devices and preserve the configuration of those systems, you had to perform additional steps during your deployment.</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>For example, if you wanted to keep the data of users on the device, you had to back up user data with the User State Migration Tool (USMT) prior to the deployment and restore that data after the deployment had completed.</source>
+					<target>For example, if you wanted to keep the data of users on the device, you had to back up user data with the User State Migration Tool (USMT) prior to the deployment and restore that data after the deployment had completed.</target>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<segment state="initial">
+					<source>Introduced with Windows 10 and MDT 2013 Update 1, you can use the upgrade installation path directly with Microsoft deployment technologies such as the Microsoft Deployment Toolkit (MDT).</source>
+					<target>Introduced with Windows 10 and MDT 2013 Update 1, you can use the upgrade installation path directly with Microsoft deployment technologies such as the Microsoft Deployment Toolkit (MDT).</target>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>With an upgrade deployment you can use the same deployment technologies and process, but you can preserve users settings, and applications of the existing environment on the device.</source>
+					<target>With an upgrade deployment you can use the same deployment technologies and process, but you can preserve users settings, and applications of the existing environment on the device.</target>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>Deployment tools and resources</source>
+					<target>Deployment tools and resources</target>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>Performing an upgrade deployment of Windows 10 requires the same tools and resources that are required for a traditional reimaging deployment.</source>
+					<target>Performing an upgrade deployment of Windows 10 requires the same tools and resources that are required for a traditional reimaging deployment.</target>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](deploy-windows-10-to-surface-devices-with-mdt.md)</data>
+				</originalData>
+				<segment state="initial">
+					<source>You can read about the tools required, including detailed explanations and installation instructions, in <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy Windows 10 to Surface devices with MDT</pc>.</source>
+					<target>You can read about the tools required, including detailed explanations and installation instructions, in <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy Windows 10 to Surface devices with MDT</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>To proceed with the upgrade deployment described in this article, you will need the following tools installed and configured:</source>
+					<target>To proceed with the upgrade deployment described in this article, you will need the following tools installed and configured:</target>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Deployment Toolkit (MDT)</source>
+					<target>Microsoft Deployment Toolkit (MDT)</target>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://developer.microsoft.com/en-us/windows/hardware/windows-assessment-deployment-kit#windowsadk)</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Windows Assessment and Deployment Kit (Windows ADK)</pc>, which includes:</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Windows Assessment and Deployment Kit (Windows ADK)</pc>, which includes:</target>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<segment state="initial">
+					<source>Deployment Image Servicing and Management (DISM)</source>
+					<target>Deployment Image Servicing and Management (DISM)</target>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<segment state="initial">
+					<source>Windows Preinstallation Environment (Windows PE)</source>
+					<target>Windows Preinstallation Environment (Windows PE)</target>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>Windows System Image Manager (Windows SIM)</source>
+					<target>Windows System Image Manager (Windows SIM)</target>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>You will also need to have available the following resources:</source>
+					<target>You will also need to have available the following resources:</target>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://www.microsoft.com/Licensing/servicecenter/default.aspx)</data>
+				</originalData>
+				<segment state="initial">
+					<source>Windows 10 installation files, such as the installation media downloaded from the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Volume Licensing Service Center</pc></source>
+					<target>Windows 10 installation files, such as the installation media downloaded from the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Volume Licensing Service Center</pc></target>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&amp;nbsp;&amp;nbsp;</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note:</pc><ph dataRef="id3" id="ph1" />Installation media for use with MDT must contain a Windows image in Windows Imaging Format (.wim).</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note:</pc><ph dataRef="id3" id="ph1" />Installation media for use with MDT must contain a Windows image in Windows Imaging Format (.wim).</target>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://www.microsoft.com/en-us/software-download/windows10/)</data>
+				</originalData>
+				<segment state="initial">
+					<source>Installation media produced by the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Get Windows 10</pc> page does not use a .wim file, instead using an Electronic Software Download (.esd) file, which is not compatible with MDT.</source>
+					<target>Installation media produced by the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Get Windows 10</pc> page does not use a .wim file, instead using an Electronic Software Download (.esd) file, which is not compatible with MDT.</target>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://technet.microsoft.com/en-us/itpro/surface/deploy-the-latest-firmware-and-drivers-for-surface-devices)</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface firmware and drivers</pc> for Windows 10</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface firmware and drivers</pc> for Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<segment state="initial">
+					<source>Application installation files for any applications you want to install, such as the Surface app</source>
+					<target>Application installation files for any applications you want to install, such as the Surface app</target>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<segment state="initial">
+					<source>Prepare the upgrade deployment</source>
+					<target>Prepare the upgrade deployment</target>
+				</segment>
+			</unit>
+			<unit id="144" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](#deployment-tools-and-resources)</data>
+				</originalData>
+				<segment state="initial">
+					<source>Before you begin the process described in this section, you need to have installed and configured the deployment tools outlined in the previous <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deployment tools and resources</pc> section.</source>
+					<target>Before you begin the process described in this section, you need to have installed and configured the deployment tools outlined in the previous <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deployment tools and resources</pc> section.</target>
+				</segment>
+			</unit>
+			<unit id="145" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">[</data>
+					<data id="id4">](deploy-windows-10-to-surface-devices-with-mdt.md#install-the-deployment-tools)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For instructions on how to install and configure the deployment tools, see the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Install the deployment tools</pc> section in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Deploy Windows 10 to Surface devices with MDT</pc> article.</source>
+					<target>For instructions on how to install and configure the deployment tools, see the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Install the deployment tools</pc> section in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Deploy Windows 10 to Surface devices with MDT</pc> article.</target>
+				</segment>
+			</unit>
+			<unit id="146" translate="yes">
+				<segment state="initial">
+					<source>You will also have needed to create a deployment share with MDT, described in the section Create a Deployment Share in the aforementioned article.</source>
+					<target>You will also have needed to create a deployment share with MDT, described in the section Create a Deployment Share in the aforementioned article.</target>
+				</segment>
+			</unit>
+			<unit id="147" translate="yes">
+				<segment state="initial">
+					<source>Import Windows 10 installation files</source>
+					<target>Import Windows 10 installation files</target>
+				</segment>
+			</unit>
+			<unit id="148" translate="yes">
+				<segment state="initial">
+					<source>Windows 10 installation files only need to be imported if you have not already done so in the deployment share.</source>
+					<target>Windows 10 installation files only need to be imported if you have not already done so in the deployment share.</target>
+				</segment>
+			</unit>
+			<unit id="149" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">[</data>
+					<data id="id4">](deploy-windows-10-to-surface-devices-with-mdt.md#import-windows-installation-files)</data>
+				</originalData>
+				<segment state="initial">
+					<source>To import Windows 10 installation files, follow the steps described in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Import Windows installation files</pc> section in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Deploy Windows 10 to Surface devices with MDT</pc> article.</source>
+					<target>To import Windows 10 installation files, follow the steps described in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Import Windows installation files</pc> section in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Deploy Windows 10 to Surface devices with MDT</pc> article.</target>
+				</segment>
+			</unit>
+			<unit id="150" translate="yes">
+				<segment state="initial">
+					<source>Import Surface drivers</source>
+					<target>Import Surface drivers</target>
+				</segment>
+			</unit>
+			<unit id="151" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](deploy-windows-10-to-surface-devices-with-mdt.md)</data>
+				</originalData>
+				<segment state="initial">
+					<source>In the import process example shown in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy Windows 10 to Surface devices with MDT</pc> article, drivers for Surface Pro 4 were imported for Windows 10.</source>
+					<target>In the import process example shown in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy Windows 10 to Surface devices with MDT</pc> article, drivers for Surface Pro 4 were imported for Windows 10.</target>
+				</segment>
+			</unit>
+			<unit id="152" translate="yes">
+				<segment state="initial">
+					<source>To perform an upgrade deployment of Windows 10 to Surface Pro 3, drivers for Surface Pro 3 must also be imported.</source>
+					<target>To perform an upgrade deployment of Windows 10 to Surface Pro 3, drivers for Surface Pro 3 must also be imported.</target>
+				</segment>
+			</unit>
+			<unit id="153" translate="yes">
+				<segment state="initial">
+					<source>To import the Surface drivers for Surface Pro 3, follow these steps:</source>
+					<target>To import the Surface drivers for Surface Pro 3, follow these steps:</target>
+				</segment>
+			</unit>
+			<unit id="154" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://www.microsoft.com/en-US/download/details.aspx?id=38826)</data>
+				</originalData>
+				<segment state="initial">
+					<source>Download the Surface Pro 3 firmware and driver pack for Windows 10 archive file (.zip), SurfacePro3_Win10_xxxxxx.zip, from the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface Pro 3 download page</pc> in the Microsoft Download Center.</source>
+					<target>Download the Surface Pro 3 firmware and driver pack for Windows 10 archive file (.zip), SurfacePro3_Win10_xxxxxx.zip, from the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface Pro 3 download page</pc> in the Microsoft Download Center.</target>
+				</segment>
+			</unit>
+			<unit id="155" translate="yes">
+				<segment state="initial">
+					<source>Extract the contents of the Surface Pro 3 firmware and driver pack archive file to a temporary folder.</source>
+					<target>Extract the contents of the Surface Pro 3 firmware and driver pack archive file to a temporary folder.</target>
+				</segment>
+			</unit>
+			<unit id="156" translate="yes">
+				<segment state="initial">
+					<source>Keep the driver files separate from other drivers or files.</source>
+					<target>Keep the driver files separate from other drivers or files.</target>
+				</segment>
+			</unit>
+			<unit id="157" translate="yes">
+				<segment state="initial">
+					<source>Open the Deployment Workbench and expand the Deployment Shares node and your deployment share.</source>
+					<target>Open the Deployment Workbench and expand the Deployment Shares node and your deployment share.</target>
+				</segment>
+			</unit>
+			<unit id="158" translate="yes">
+				<segment state="initial">
+					<source>If you have not already created a folder structure by operating system version, you should do so next.</source>
+					<target>If you have not already created a folder structure by operating system version, you should do so next.</target>
+				</segment>
+			</unit>
+			<unit id="159" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Under the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Windows 10 x64</pc> folder, create a new folder for Surface Pro 3 drivers named <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Surface Pro 3</pc>.</source>
+					<target>Under the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Windows 10 x64</pc> folder, create a new folder for Surface Pro 3 drivers named <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Surface Pro 3</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="160" translate="yes">
+				<segment state="initial">
+					<source>Your Out-of-Box Drivers folder should resemble the following structure:</source>
+					<target>Your Out-of-Box Drivers folder should resemble the following structure:</target>
+				</segment>
+			</unit>
+			<unit id="161" translate="yes">
+				<segment state="initial">
+					<source>WinPE x86</source>
+					<target>WinPE x86</target>
+				</segment>
+			</unit>
+			<unit id="162" translate="yes">
+				<segment state="initial">
+					<source>WinPE x64</source>
+					<target>WinPE x64</target>
+				</segment>
+			</unit>
+			<unit id="163" translate="yes">
+				<segment state="initial">
+					<source>Windows 10 x64</source>
+					<target>Windows 10 x64</target>
+				</segment>
+			</unit>
+			<unit id="164" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Corporation</source>
+					<target>Microsoft Corporation</target>
+				</segment>
+			</unit>
+			<unit id="165" translate="yes">
+				<segment state="initial">
+					<source>Surface Pro 4</source>
+					<target>Surface Pro 4</target>
+				</segment>
+			</unit>
+			<unit id="166" translate="yes">
+				<segment state="initial">
+					<source>Surface Pro 3</source>
+					<target>Surface Pro 3</target>
+				</segment>
+			</unit>
+			<unit id="167" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Right-click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface Pro 3</pc> folder, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Import Drivers</pc> to start the Import Drivers Wizard, as shown in Figure 1.</source>
+					<target>Right-click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface Pro 3</pc> folder, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Import Drivers</pc> to start the Import Drivers Wizard, as shown in Figure 1.</target>
+				</segment>
+			</unit>
+			<unit id="168" translate="yes">
+				<segment state="initial">
+					<source>Import Surface Pro 3 drivers for Windows 10</source>
+					<target>Import Surface Pro 3 drivers for Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="169" translate="yes">
+				<segment state="initial">
+					<source>Figure 1.</source>
+					<target>Figure 1.</target>
+				</segment>
+			</unit>
+			<unit id="170" translate="yes">
+				<segment state="initial">
+					<source>Import Surface Pro 3 drivers for Windows 10</source>
+					<target>Import Surface Pro 3 drivers for Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="171" translate="yes">
+				<segment state="initial">
+					<source>The Import Driver Wizard displays a series of steps, as follows:</source>
+					<target>The Import Driver Wizard displays a series of steps, as follows:</target>
+				</segment>
+			</unit>
+			<unit id="172" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Specify Directory</pc> – Click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Browse</pc> and navigate to the folder where you extracted the Surface Pro 3 firmware and drivers in Step 1.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Specify Directory</pc> – Click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Browse</pc> and navigate to the folder where you extracted the Surface Pro 3 firmware and drivers in Step 1.</target>
+				</segment>
+			</unit>
+			<unit id="173" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Summary</pc> – Review the specified configuration on this page before you click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Next</pc> to begin the import process.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Summary</pc> – Review the specified configuration on this page before you click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Next</pc> to begin the import process.</target>
+				</segment>
+			</unit>
+			<unit id="174" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Progress</pc> – While the drivers are imported, a progress bar is displayed on this page.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Progress</pc> – While the drivers are imported, a progress bar is displayed on this page.</target>
+				</segment>
+			</unit>
+			<unit id="175" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Confirmation</pc> – When the import process completes, the success of the process is displayed on this page.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Confirmation</pc> – When the import process completes, the success of the process is displayed on this page.</target>
+				</segment>
+			</unit>
+			<unit id="176" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Finish</pc> to complete Import Drivers Wizard.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Finish</pc> to complete Import Drivers Wizard.</target>
+				</segment>
+			</unit>
+			<unit id="177" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface Pro 3</pc> folder and verify that the folder now contains the drivers that were imported, as shown in Figure 2.</source>
+					<target>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface Pro 3</pc> folder and verify that the folder now contains the drivers that were imported, as shown in Figure 2.</target>
+				</segment>
+			</unit>
+			<unit id="178" translate="yes">
+				<segment state="initial">
+					<source>Drivers for Surface Pro 3 imported and organized in the MDT deployment share</source>
+					<target>Drivers for Surface Pro 3 imported and organized in the MDT deployment share</target>
+				</segment>
+			</unit>
+			<unit id="179" translate="yes">
+				<segment state="initial">
+					<source>Figure 2.</source>
+					<target>Figure 2.</target>
+				</segment>
+			</unit>
+			<unit id="180" translate="yes">
+				<segment state="initial">
+					<source>Drivers for Surface Pro 3 imported and organized in the MDT deployment share</source>
+					<target>Drivers for Surface Pro 3 imported and organized in the MDT deployment share</target>
+				</segment>
+			</unit>
+			<unit id="181" translate="yes">
+				<segment state="initial">
+					<source>Import applications</source>
+					<target>Import applications</target>
+				</segment>
+			</unit>
+			<unit id="182" translate="yes">
+				<segment state="initial">
+					<source>Installation of applications in an upgrade deployment is not always necessary because the applications from the previous environment will remain on the device.</source>
+					<target>Installation of applications in an upgrade deployment is not always necessary because the applications from the previous environment will remain on the device.</target>
+				</segment>
+			</unit>
+			<unit id="183" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](deploy-windows-10-to-surface-devices-with-mdt.md)</data>
+				</originalData>
+				<segment state="initial">
+					<source>(For example, in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy Windows 10 to Surface devices with MDT</pc> article, the deployment includes Office 365 which is not required in an upgrade deployment where the user is already using Office 365 on the device.)</source>
+					<target>(For example, in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy Windows 10 to Surface devices with MDT</pc> article, the deployment includes Office 365 which is not required in an upgrade deployment where the user is already using Office 365 on the device.)</target>
+				</segment>
+			</unit>
+			<unit id="184" translate="yes">
+				<segment state="initial">
+					<source>There are still some circumstances where you will want to deploy an application, even during an upgrade deployment.</source>
+					<target>There are still some circumstances where you will want to deploy an application, even during an upgrade deployment.</target>
+				</segment>
+			</unit>
+			<unit id="185" translate="yes">
+				<segment state="initial">
+					<source>For example, you may have Surface Pro 3 devices on which you would like to add the Surface app.</source>
+					<target>For example, you may have Surface Pro 3 devices on which you would like to add the Surface app.</target>
+				</segment>
+			</unit>
+			<unit id="186" translate="yes">
+				<segment state="initial">
+					<source>To deploy the Surface app in an upgrade scenario use the same process as you would for a traditional deployment.</source>
+					<target>To deploy the Surface app in an upgrade scenario use the same process as you would for a traditional deployment.</target>
+				</segment>
+			</unit>
+			<unit id="187" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://technet.microsoft.com/en-us/itpro/surface/deploy-surface-app-with-windows-store-for-business)</data>
+				</originalData>
+				<segment state="initial">
+					<source>See the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy Surface app with Windows Store for Business</pc> article for instructions on how to add the Surface app to an MDT task sequence.</source>
+					<target>See the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy Surface app with Windows Store for Business</pc> article for instructions on how to add the Surface app to an MDT task sequence.</target>
+				</segment>
+			</unit>
+			<unit id="188" translate="yes">
+				<segment state="initial">
+					<source>Create the upgrade task sequence</source>
+					<target>Create the upgrade task sequence</target>
+				</segment>
+			</unit>
+			<unit id="189" translate="yes">
+				<segment state="initial">
+					<source>After you have all of the resources in place to perform the deployment (including the installation files, Surface drivers, and application files), the next step is to create the upgrade task sequence.</source>
+					<target>After you have all of the resources in place to perform the deployment (including the installation files, Surface drivers, and application files), the next step is to create the upgrade task sequence.</target>
+				</segment>
+			</unit>
+			<unit id="190" translate="yes">
+				<segment state="initial">
+					<source>This task sequence is a series of steps that will be performed on the device being upgraded that applies the new Windows environment, compatible drivers, and any applications you have specified.</source>
+					<target>This task sequence is a series of steps that will be performed on the device being upgraded that applies the new Windows environment, compatible drivers, and any applications you have specified.</target>
+				</segment>
+			</unit>
+			<unit id="191" translate="yes">
+				<segment state="initial">
+					<source>Create the upgrade task sequence with the following process:</source>
+					<target>Create the upgrade task sequence with the following process:</target>
+				</segment>
+			</unit>
+			<unit id="192" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>In the Deployment Workbench under your Deployment Share, right-click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Task Sequences</pc> folder, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">New Task Sequence</pc> to start the New Task Sequence Wizard.</source>
+					<target>In the Deployment Workbench under your Deployment Share, right-click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Task Sequences</pc> folder, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">New Task Sequence</pc> to start the New Task Sequence Wizard.</target>
+				</segment>
+			</unit>
+			<unit id="193" translate="yes">
+				<segment state="initial">
+					<source>Use these steps to create the deployment task sequence with the New Task Sequence Wizard:</source>
+					<target>Use these steps to create the deployment task sequence with the New Task Sequence Wizard:</target>
+				</segment>
+			</unit>
+			<unit id="194" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">General Settings</pc> – Enter an identifier for the deployment task sequence in the Task Sequence ID field, a name for the deployment task sequence in the Task Sequence Name field, and any comments for the deployment task sequence in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Task Sequence Comments</pc> field, and then click <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Next</pc>.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">General Settings</pc> – Enter an identifier for the deployment task sequence in the Task Sequence ID field, a name for the deployment task sequence in the Task Sequence Name field, and any comments for the deployment task sequence in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Task Sequence Comments</pc> field, and then click <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="195" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&amp;nbsp;&amp;nbsp;</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note:</pc><ph dataRef="id3" id="ph1" />The <pc dataRefEnd="id5" dataRefStart="id4" id="p2">Task Sequence ID</pc> field cannot contain spaces and can be a maximum of 16 characters.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note:</pc><ph dataRef="id3" id="ph1" />The <pc dataRefEnd="id5" dataRefStart="id4" id="p2">Task Sequence ID</pc> field cannot contain spaces and can be a maximum of 16 characters.</target>
+				</segment>
+			</unit>
+			<unit id="196" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Select Template</pc> – Select <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Standard Client Upgrade Task Sequence</pc> from the drop-down menu, and then click <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Next</pc>.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Select Template</pc> – Select <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Standard Client Upgrade Task Sequence</pc> from the drop-down menu, and then click <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="197" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Select OS</pc> – Navigate to and select the Windows image that you imported, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Next</pc>.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Select OS</pc> – Navigate to and select the Windows image that you imported, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="198" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Specify Product Key</pc> – Select the product key entry that fits your organization’s licensing system.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Specify Product Key</pc> – Select the product key entry that fits your organization’s licensing system.</target>
+				</segment>
+			</unit>
+			<unit id="199" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>The <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Do Not Specify a Product Key at This Time</pc> option can be used for systems that will be activated via Key Management Services (KMS) or Active Directory Based Activation (ADBA).</source>
+					<target>The <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Do Not Specify a Product Key at This Time</pc> option can be used for systems that will be activated via Key Management Services (KMS) or Active Directory Based Activation (ADBA).</target>
+				</segment>
+			</unit>
+			<unit id="200" translate="yes">
+				<segment state="initial">
+					<source>A product key can be specified specifically if your organization uses Multiple Activation Keys (MAK).</source>
+					<target>A product key can be specified specifically if your organization uses Multiple Activation Keys (MAK).</target>
+				</segment>
+			</unit>
+			<unit id="201" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc>.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="202" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">**</data>
+					<data id="id9">**</data>
+					<data id="id10">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">OS Settings</pc> – Enter a name and organization for registration of Windows, and a home page URL for users when they browse the Internet in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Full Name</pc>, <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Organization</pc>, and <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Internet Explorer Home Page</pc> fields, and then click <pc dataRefEnd="id10" dataRefStart="id9" id="p5">Next</pc>.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">OS Settings</pc> – Enter a name and organization for registration of Windows, and a home page URL for users when they browse the Internet in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Full Name</pc>, <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Organization</pc>, and <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Internet Explorer Home Page</pc> fields, and then click <pc dataRefEnd="id10" dataRefStart="id9" id="p5">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="203" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Admin Password</pc> – Select <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Use the Specified Local Administrator Password</pc> and enter a password in the provided fields, and then click <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Next</pc>.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Admin Password</pc> – Select <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Use the Specified Local Administrator Password</pc> and enter a password in the provided fields, and then click <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="204" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Summary</pc> – Review the specified configuration on this page before you click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Next</pc> to begin creation of the task sequence.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Summary</pc> – Review the specified configuration on this page before you click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Next</pc> to begin creation of the task sequence.</target>
+				</segment>
+			</unit>
+			<unit id="205" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Progress</pc> – While the task sequence is being created, a progress bar is displayed on this page.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Progress</pc> – While the task sequence is being created, a progress bar is displayed on this page.</target>
+				</segment>
+			</unit>
+			<unit id="206" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Confirmation</pc> – When the task sequence creation completes, the success of the process is displayed on this page.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Confirmation</pc> – When the task sequence creation completes, the success of the process is displayed on this page.</target>
+				</segment>
+			</unit>
+			<unit id="207" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Finish</pc> to complete New Task Sequence Wizard.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Finish</pc> to complete New Task Sequence Wizard.</target>
+				</segment>
+			</unit>
+			<unit id="208" translate="yes">
+				<segment state="initial">
+					<source>After the task sequence is created, you can modify some additional settings to provide additional automation of the task sequence and require less interaction during deployment.</source>
+					<target>After the task sequence is created, you can modify some additional settings to provide additional automation of the task sequence and require less interaction during deployment.</target>
+				</segment>
+			</unit>
+			<unit id="209" translate="yes">
+				<segment state="initial">
+					<source>Follow these steps to modify the task sequence:</source>
+					<target>Follow these steps to modify the task sequence:</target>
+				</segment>
+			</unit>
+			<unit id="210" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Task Sequences</pc> folder, right-click the new task sequence you created, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Properties</pc>.</source>
+					<target>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Task Sequences</pc> folder, right-click the new task sequence you created, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Properties</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="211" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Task Sequence</pc> tab to view the steps that are included in the new task sequence.</source>
+					<target>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Task Sequence</pc> tab to view the steps that are included in the new task sequence.</target>
+				</segment>
+			</unit>
+			<unit id="212" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Windows Update (Pre-Application Installation)</pc> step, located under the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">State Restore</pc> folder.</source>
+					<target>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Windows Update (Pre-Application Installation)</pc> step, located under the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">State Restore</pc> folder.</target>
+				</segment>
+			</unit>
+			<unit id="213" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Options</pc> tab, and then clear the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Disable This Step</pc> check box.</source>
+					<target>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Options</pc> tab, and then clear the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Disable This Step</pc> check box.</target>
+				</segment>
+			</unit>
+			<unit id="214" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Repeat Step 3 and Step 4 for the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Windows Update (Post-Application Installation)</pc> step.</source>
+					<target>Repeat Step 3 and Step 4 for the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Windows Update (Post-Application Installation)</pc> step.</target>
+				</segment>
+			</unit>
+			<unit id="215" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Between the two Windows Update steps is an <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Install Applications</pc> step.</source>
+					<target>Between the two Windows Update steps is an <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Install Applications</pc> step.</target>
+				</segment>
+			</unit>
+			<unit id="216" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select that step and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Add</pc>.</source>
+					<target>Select that step and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Add</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="217" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Hover the mouse over <pc dataRefEnd="id2" dataRefStart="id1" id="p1">General</pc> under the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Add</pc> menu, and then choose <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Install Application</pc>.</source>
+					<target>Hover the mouse over <pc dataRefEnd="id2" dataRefStart="id1" id="p1">General</pc> under the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Add</pc> menu, and then choose <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Install Application</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="218" translate="yes">
+				<segment state="initial">
+					<source>This will add a new step after the selected step for the installation of a specific application as shown in Figure 3.</source>
+					<target>This will add a new step after the selected step for the installation of a specific application as shown in Figure 3.</target>
+				</segment>
+			</unit>
+			<unit id="219" translate="yes">
+				<segment state="initial">
+					<source>A new Install Application step in the deployment task sequence</source>
+					<target>A new Install Application step in the deployment task sequence</target>
+				</segment>
+			</unit>
+			<unit id="220" translate="yes">
+				<segment state="initial">
+					<source>Figure 3.</source>
+					<target>Figure 3.</target>
+				</segment>
+			</unit>
+			<unit id="221" translate="yes">
+				<segment state="initial">
+					<source>A new Install Application step in the deployment task sequence</source>
+					<target>A new Install Application step in the deployment task sequence</target>
+				</segment>
+			</unit>
+			<unit id="222" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>On the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Properties</pc> tab of the new <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Install Application</pc> step, enter <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Install Surface App</pc> in the <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Name</pc> field.</source>
+					<target>On the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Properties</pc> tab of the new <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Install Application</pc> step, enter <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Install Surface App</pc> in the <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Name</pc> field.</target>
+				</segment>
+			</unit>
+			<unit id="223" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Install a Single Application</pc>, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Browse</pc> to view available applications that have been imported into the deployment share.</source>
+					<target>Select <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Install a Single Application</pc>, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Browse</pc> to view available applications that have been imported into the deployment share.</target>
+				</segment>
+			</unit>
+			<unit id="224" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface App</pc> from the list of applications, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">OK</pc>.</source>
+					<target>Select <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface App</pc> from the list of applications, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">OK</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="225" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Expand the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Preinstall</pc> folder and select the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Enable BitLocker (Offline)</pc> step.</source>
+					<target>Expand the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Preinstall</pc> folder and select the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Enable BitLocker (Offline)</pc> step.</target>
+				</segment>
+			</unit>
+			<unit id="226" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Open the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Add</pc> menu again and choose <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Set Task Sequence Variable</pc> from under the <pc dataRefEnd="id6" dataRefStart="id5" id="p3">General</pc> menu.</source>
+					<target>Open the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Add</pc> menu again and choose <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Set Task Sequence Variable</pc> from under the <pc dataRefEnd="id6" dataRefStart="id5" id="p3">General</pc> menu.</target>
+				</segment>
+			</unit>
+			<unit id="227" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>On the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Properties</pc> tab of the new <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Set Task Sequence Variable</pc> step (as shown in Figure 4) configure the following options:</source>
+					<target>On the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Properties</pc> tab of the new <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Set Task Sequence Variable</pc> step (as shown in Figure 4) configure the following options:</target>
+				</segment>
+			</unit>
+			<unit id="228" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Name</pc> – Set DriverGroup001</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Name</pc> – Set DriverGroup001</target>
+				</segment>
+			</unit>
+			<unit id="229" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Task Sequence Variable</pc> – DriverGroup001</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Task Sequence Variable</pc> – DriverGroup001</target>
+				</segment>
+			</unit>
+			<unit id="230" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Value</pc> – Windows 10 x64\%Make%\%Model%</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Value</pc> – Windows 10 x64\%Make%\%Model%</target>
+				</segment>
+			</unit>
+			<unit id="231" translate="yes">
+				<segment state="initial">
+					<source>Configure a new Set Task Sequence Variable step in the deployment task sequence</source>
+					<target>Configure a new Set Task Sequence Variable step in the deployment task sequence</target>
+				</segment>
+			</unit>
+			<unit id="232" translate="yes">
+				<segment state="initial">
+					<source>Figure 4.</source>
+					<target>Figure 4.</target>
+				</segment>
+			</unit>
+			<unit id="233" translate="yes">
+				<segment state="initial">
+					<source>Configure a new Set Task Sequence Variable step in the deployment task sequence</source>
+					<target>Configure a new Set Task Sequence Variable step in the deployment task sequence</target>
+				</segment>
+			</unit>
+			<unit id="234" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Inject Drivers</pc> step, the next step in the task sequence.</source>
+					<target>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Inject Drivers</pc> step, the next step in the task sequence.</target>
+				</segment>
+			</unit>
+			<unit id="235" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>On the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Properties</pc> tab of the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Inject Drivers</pc> step (as shown in Figure 5) configure the following options:</source>
+					<target>On the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Properties</pc> tab of the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Inject Drivers</pc> step (as shown in Figure 5) configure the following options:</target>
+				</segment>
+			</unit>
+			<unit id="236" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>In the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Choose a selection profile</pc> drop-down menu, select <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Nothing</pc>.</source>
+					<target>In the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Choose a selection profile</pc> drop-down menu, select <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Nothing</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="237" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Install all drivers from the selection profile</pc> button.</source>
+					<target>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Install all drivers from the selection profile</pc> button.</target>
+				</segment>
+			</unit>
+			<unit id="238" translate="yes">
+				<segment state="initial">
+					<source>Configure the deployment task sequence to not install drivers</source>
+					<target>Configure the deployment task sequence to not install drivers</target>
+				</segment>
+			</unit>
+			<unit id="239" translate="yes">
+				<segment state="initial">
+					<source>Figure 5.</source>
+					<target>Figure 5.</target>
+				</segment>
+			</unit>
+			<unit id="240" translate="yes">
+				<segment state="initial">
+					<source>Configure the deployment task sequence to not install drivers</source>
+					<target>Configure the deployment task sequence to not install drivers</target>
+				</segment>
+			</unit>
+			<unit id="241" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc> to apply changes to the task sequence and close the task sequence properties window.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc> to apply changes to the task sequence and close the task sequence properties window.</target>
+				</segment>
+			</unit>
+			<unit id="242" translate="yes">
+				<segment state="initial">
+					<source>Steps 11 through 15 are very important to the deployment of Surface devices.</source>
+					<target>Steps 11 through 15 are very important to the deployment of Surface devices.</target>
+				</segment>
+			</unit>
+			<unit id="243" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](#import-surface-drivers)</data>
+				</originalData>
+				<segment state="initial">
+					<source>These steps instruct the task sequence to install only drivers that are organized into the correct folder using the organization for drivers from the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Import Surface drivers</pc> section.</source>
+					<target>These steps instruct the task sequence to install only drivers that are organized into the correct folder using the organization for drivers from the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Import Surface drivers</pc> section.</target>
+				</segment>
+			</unit>
+			<unit id="244" translate="yes">
+				<segment state="initial">
+					<source>Deployment share rules</source>
+					<target>Deployment share rules</target>
+				</segment>
+			</unit>
+			<unit id="245" translate="yes">
+				<segment state="initial">
+					<source>To automate the upgrade process, the rules of the MDT deployment share need to be modified to suppress prompts for information from the user.</source>
+					<target>To automate the upgrade process, the rules of the MDT deployment share need to be modified to suppress prompts for information from the user.</target>
+				</segment>
+			</unit>
+			<unit id="246" translate="yes">
+				<segment state="initial">
+					<source>Unlike a traditional deployment, Bootstrap.ini does not need to be modified because the deployment process is not started from boot media.</source>
+					<target>Unlike a traditional deployment, Bootstrap.ini does not need to be modified because the deployment process is not started from boot media.</target>
+				</segment>
+			</unit>
+			<unit id="247" translate="yes">
+				<segment state="initial">
+					<source>Similarly, boot media does not need to be imported into WDS because it will not be booted over the network with PXE.</source>
+					<target>Similarly, boot media does not need to be imported into WDS because it will not be booted over the network with PXE.</target>
+				</segment>
+			</unit>
+			<unit id="248" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>To modify the deployment share rules and suppress the Windows Deployment Wizard prompts for information, copy and paste the following text into the text box on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Rules</pc> tab of your deployment share properties:</source>
+					<target>To modify the deployment share rules and suppress the Windows Deployment Wizard prompts for information, copy and paste the following text into the text box on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Rules</pc> tab of your deployment share properties:</target>
+				</segment>
+			</unit>
+			<unit id="249" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">[</data>
+					<data id="id4">](deploy-windows-10-to-surface-devices-with-mdt.md#configure-deployment-share-rules)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more information about the rules configured by this text, see the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Configure deployment share rules</pc> section in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Deploy Windows 10 to Surface devices with MDT</pc> article.</source>
+					<target>For more information about the rules configured by this text, see the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Configure deployment share rules</pc> section in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Deploy Windows 10 to Surface devices with MDT</pc> article.</target>
+				</segment>
+			</unit>
+			<unit id="250" translate="yes">
+				<segment state="initial">
+					<source>Update deployment share</source>
+					<target>Update deployment share</target>
+				</segment>
+			</unit>
+			<unit id="251" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>To update the deployment share, right-click the deployment share in the Deployment Workbench and click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Update Deployment Share</pc>, then proceed through the Update Deployment Share Wizard.</source>
+					<target>To update the deployment share, right-click the deployment share in the Deployment Workbench and click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Update Deployment Share</pc>, then proceed through the Update Deployment Share Wizard.</target>
+				</segment>
+			</unit>
+			<unit id="252" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">[</data>
+					<data id="id4">](deploy-windows-10-to-surface-devices-with-mdt.md#update-and-import-updated-mdt-boot-media)</data>
+				</originalData>
+				<segment state="initial">
+					<source>See the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Update and import updated MDT boot media</pc> section of the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Deploy Windows 10 to Surface devices with MDT</pc> article for detailed steps.</source>
+					<target>See the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Update and import updated MDT boot media</pc> section of the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Deploy Windows 10 to Surface devices with MDT</pc> article for detailed steps.</target>
+				</segment>
+			</unit>
+			<unit id="253" translate="yes">
+				<segment state="initial">
+					<source>Run the upgrade deployment</source>
+					<target>Run the upgrade deployment</target>
+				</segment>
+			</unit>
+			<unit id="254" translate="yes">
+				<segment state="initial">
+					<source>Unlike a traditional deployment, the upgrade task sequence must be launched from within the Windows environment that will be upgraded.</source>
+					<target>Unlike a traditional deployment, the upgrade task sequence must be launched from within the Windows environment that will be upgraded.</target>
+				</segment>
+			</unit>
+			<unit id="255" translate="yes">
+				<segment state="initial">
+					<source>This requires that a user on the device to be upgraded navigate to the deployment share over the network and launch a script, LiteTouch.vbs.</source>
+					<target>This requires that a user on the device to be upgraded navigate to the deployment share over the network and launch a script, LiteTouch.vbs.</target>
+				</segment>
+			</unit>
+			<unit id="256" translate="yes">
+				<segment state="initial">
+					<source>This script is the same script that displays the Windows Deployment Wizard in Windows PE in a traditional deployment.</source>
+					<target>This script is the same script that displays the Windows Deployment Wizard in Windows PE in a traditional deployment.</target>
+				</segment>
+			</unit>
+			<unit id="257" translate="yes">
+				<segment state="initial">
+					<source>In this scenario, Litetouch.vbs will run within Windows.</source>
+					<target>In this scenario, Litetouch.vbs will run within Windows.</target>
+				</segment>
+			</unit>
+			<unit id="258" translate="yes">
+				<segment state="initial">
+					<source>To perform the upgrade task sequence and deploy the upgrade to Windows 10 follow these steps:</source>
+					<target>To perform the upgrade task sequence and deploy the upgrade to Windows 10 follow these steps:</target>
+				</segment>
+			</unit>
+			<unit id="259" translate="yes">
+				<segment state="initial">
+					<source>Browse to the network location of your deployment share in File Explorer.</source>
+					<target>Browse to the network location of your deployment share in File Explorer.</target>
+				</segment>
+			</unit>
+			<unit id="260" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Navigate to the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Scripts</pc> folder, locate <pc dataRefEnd="id4" dataRefStart="id3" id="p2">LiteTouch.vbs</pc>, and then double-click <pc dataRefEnd="id6" dataRefStart="id5" id="p3">LiteTouch.vbs</pc> to start the Windows Deployment Wizard.</source>
+					<target>Navigate to the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Scripts</pc> folder, locate <pc dataRefEnd="id4" dataRefStart="id3" id="p2">LiteTouch.vbs</pc>, and then double-click <pc dataRefEnd="id6" dataRefStart="id5" id="p3">LiteTouch.vbs</pc> to start the Windows Deployment Wizard.</target>
+				</segment>
+			</unit>
+			<unit id="261" translate="yes">
+				<segment state="initial">
+					<source>Enter your credentials when prompted.</source>
+					<target>Enter your credentials when prompted.</target>
+				</segment>
+			</unit>
+			<unit id="262" translate="yes">
+				<segment state="initial">
+					<source>The upgrade task sequence for Surface Pro 3 devices will automatically start when the model of the device is detected and determined to match the deployment share rules.</source>
+					<target>The upgrade task sequence for Surface Pro 3 devices will automatically start when the model of the device is detected and determined to match the deployment share rules.</target>
+				</segment>
+			</unit>
+			<unit id="263" translate="yes">
+				<segment state="initial">
+					<source>The upgrade process will occur automatically and without user interaction.</source>
+					<target>The upgrade process will occur automatically and without user interaction.</target>
+				</segment>
+			</unit>
+			<unit id="264" translate="yes">
+				<segment state="initial">
+					<source>The task sequence will automatically install the drivers for Surface Pro 3 and the Surface app, and will perform any outstanding Windows Updates.</source>
+					<target>The task sequence will automatically install the drivers for Surface Pro 3 and the Surface app, and will perform any outstanding Windows Updates.</target>
+				</segment>
+			</unit>
+			<unit id="265" translate="yes">
+				<segment state="initial">
+					<source>When it completes, it will log out and be ready for the user to log on with the credentials they have always used for this device.</source>
+					<target>When it completes, it will log out and be ready for the user to log on with the credentials they have always used for this device.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>
