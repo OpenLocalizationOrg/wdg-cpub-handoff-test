@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="ja-jp" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-2eb3c86</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">6b2517ad8030dc3d0a8459058c9b18d8034ac262</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\group-policy-problems-ie11.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">9431f3f20373f5c28679fb364660e171ae3c6109</mda:meta><mda:meta type="olxliffhash">f413b3d3b1efab3b48a5cbd59a19ac6ef88cf8b1</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Links to troubleshooting topics and log files that can help address Group Policy problems with Internet Explorer 11.</source>
+					<target>Links to troubleshooting topics and log files that can help address Group Policy problems with Internet Explorer 11.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Group Policy problems with Internet Explorer 11 (Internet Explorer 11 for IT Pros)</source>
+					<target>Group Policy problems with Internet Explorer 11 (Internet Explorer 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Group Policy problems with Internet Explorer 11</source>
+					<target>Group Policy problems with Internet Explorer 11</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](http://go.microsoft.com/fwlink/p/?LinkId=279872)</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you're having problems with Group Policy and Internet Explorer 11, or if you're looking for high-level information about the concepts and techniques used to troubleshoot Group Policy, as well as links to detailed reference topics, procedures, and troubleshooting scenario guides, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Group Policy Analysis and Troubleshooting Overview</pc>.</source>
+					<target>If you're having problems with Group Policy and Internet Explorer 11, or if you're looking for high-level information about the concepts and techniques used to troubleshoot Group Policy, as well as links to detailed reference topics, procedures, and troubleshooting scenario guides, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Group Policy Analysis and Troubleshooting Overview</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Group Policy Object-related Log Files</source>
+					<target>Group Policy Object-related Log Files</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>You can use the Event Viewer to review Group Policy-related messages in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Windows Logs</pc>, <pc dataRefEnd="id4" dataRefStart="id3" id="p2">System</pc> file.</source>
+					<target>You can use the Event Viewer to review Group Policy-related messages in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Windows Logs</pc>, <pc dataRefEnd="id4" dataRefStart="id3" id="p2">System</pc> file.</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>All of the Group Policy-related events are shown with a source of <pc dataRefEnd="id2" dataRefStart="id1" id="p1">GroupPolicy</pc>.</source>
+					<target>All of the Group Policy-related events are shown with a source of <pc dataRefEnd="id2" dataRefStart="id1" id="p1">GroupPolicy</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](http://go.microsoft.com/fwlink/p/?LinkId=294917)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more information about the Event Viewer, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">What information appears in event logs? (Event Viewer)</pc>.</source>
+					<target>For more information about the Event Viewer, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">What information appears in event logs? (Event Viewer)</pc>.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

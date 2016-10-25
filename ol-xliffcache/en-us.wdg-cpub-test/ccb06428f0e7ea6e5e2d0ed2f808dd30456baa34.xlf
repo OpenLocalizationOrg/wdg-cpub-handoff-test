@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="ja-jp" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-2eb3c86</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">ccb06428f0e7ea6e5e2d0ed2f808dd30456baa34</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-ieak\connectionsettings-ins-file-setting.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">376f48479d1e62e6e60609b1c76f84b3fd751068</mda:meta><mda:meta type="olxliffhash">2b32c41ca14c39676449e6bb9b30a8084fb6212f</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Use the \[ConnectionSettings\] .INS file setting to specify the network connection settings needed to install your custom package.</source>
+					<target>Use the \[ConnectionSettings\] .INS file setting to specify the network connection settings needed to install your custom package.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Use the ConnectionSettings .INS file to review the network connections for install (Internet Explorer Administration Kit 11 for IT Pros)</source>
+					<target>Use the ConnectionSettings .INS file to review the network connections for install (Internet Explorer Administration Kit 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Use the ConnectionSettings .INS file to review the network connections for install</source>
+					<target>Use the ConnectionSettings .INS file to review the network connections for install</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Info about the network connection settings used to install your custom package.</source>
+					<target>Info about the network connection settings used to install your custom package.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>This section creates a common configuration on all of your employee’s computers.</source>
+					<target>This section creates a common configuration on all of your employee’s computers.</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Name</source>
+					<target>Name</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Value</source>
+					<target>Value</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>ConnectName0</source>
+					<target>ConnectName0</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Name for the connection.</source>
+					<target>Name for the connection.</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>ConnectName1</source>
+					<target>ConnectName1</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>Secondary name for the connection.</source>
+					<target>Secondary name for the connection.</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>DeleteConnectionSettings</source>
+					<target>DeleteConnectionSettings</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Don’t remove the connection settings during installation.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Don’t remove the connection settings during installation.</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Remove the connection settings during installation.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Remove the connection settings during installation.</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>Note</source>
+					<target>Note</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>This only appears for the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Internal</pc> version of the IEAK 11.</source>
+					<target>This only appears for the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Internal</pc> version of the IEAK 11.</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Determines whether to remove the existing connection settings during installation of your custom package.</source>
+					<target>Determines whether to remove the existing connection settings during installation of your custom package.</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>Option</source>
+					<target>Option</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Don’t let employees import connection settings.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Don’t let employees import connection settings.</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Let employees import connection settings.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Let employees import connection settings.</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>Determines whether an employee can import connection settings into the Internet Explorer Customization Wizard.</source>
+					<target>Determines whether an employee can import connection settings into the Internet Explorer Customization Wizard.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

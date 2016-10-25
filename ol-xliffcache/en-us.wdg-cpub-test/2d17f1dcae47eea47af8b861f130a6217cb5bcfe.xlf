@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="ja-jp" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-2eb3c86</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">2d17f1dcae47eea47af8b861f130a6217cb5bcfe</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\group-policy-and-local-group-policy-editor-ie11.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">85eaf39bb8ed2e7cbea3742b8300604ad959cccc</mda:meta><mda:meta type="olxliffhash">afff3a8627d852b741b64a99bb9366d8e38bbcf2</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Group Policy, the Local Group Policy Editor, and Internet Explorer 11</source>
+					<target>Group Policy, the Local Group Policy Editor, and Internet Explorer 11</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Group Policy, the Local Group Policy Editor, and Internet Explorer 11 (Internet Explorer 11 for IT Pros)</source>
+					<target>Group Policy, the Local Group Policy Editor, and Internet Explorer 11 (Internet Explorer 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Group Policy, the Local Group Policy Editor, and Internet Explorer 11</source>
+					<target>Group Policy, the Local Group Policy Editor, and Internet Explorer 11</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>A Microsoft Management Console (MMC)-based tool that manages both computer and user-related configurations for an individual computer policy.</source>
+					<target>A Microsoft Management Console (MMC)-based tool that manages both computer and user-related configurations for an individual computer policy.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>This tool is included with Windows® 7 Service Pack 1 (SP1) and Windows 8.1.</source>
+					<target>This tool is included with Windows® 7 Service Pack 1 (SP1) and Windows 8.1.</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Here's a list of the policy settings you can use, based on the configuration type.</source>
+					<target>Here's a list of the policy settings you can use, based on the configuration type.</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](http://go.microsoft.com/fwlink/p/?LinkId=294912)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more info, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Local Group Policy Editor</pc>.</source>
+					<target>For more info, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Local Group Policy Editor</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Computer configuration</source>
+					<target>Computer configuration</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>User configuration</source>
+					<target>User configuration</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Windows settings:</source>
+					<target>Windows settings:</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Name Resolution policy</source>
+					<target>Name Resolution policy</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>Scripts (Startup/Shutdown)</source>
+					<target>Scripts (Startup/Shutdown)</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>Deployed printers</source>
+					<target>Deployed printers</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>Security settings</source>
+					<target>Security settings</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>Policy-based Quality of Service (QoS)</source>
+					<target>Policy-based Quality of Service (QoS)</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>Windows settings:</source>
+					<target>Windows settings:</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>Scripts (Startup/Shutdown)</source>
+					<target>Scripts (Startup/Shutdown)</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Deployed printers</source>
+					<target>Deployed printers</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>Security settings</source>
+					<target>Security settings</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>Policy-based Quality of Service (QoS)</source>
+					<target>Policy-based Quality of Service (QoS)</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>Administrative templates:</source>
+					<target>Administrative templates:</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>Control Panel</source>
+					<target>Control Panel</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>Network</source>
+					<target>Network</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>Printers</source>
+					<target>Printers</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>Server</source>
+					<target>Server</target>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<segment state="initial">
+					<source>System</source>
+					<target>System</target>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>Windows components</source>
+					<target>Windows components</target>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>All settings</source>
+					<target>All settings</target>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>Administrative templates:</source>
+					<target>Administrative templates:</target>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>Control Panel</source>
+					<target>Control Panel</target>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>Desktop</source>
+					<target>Desktop</target>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<segment state="initial">
+					<source>Network</source>
+					<target>Network</target>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<segment state="initial">
+					<source>Shared folders</source>
+					<target>Shared folders</target>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<segment state="initial">
+					<source>Start menu and taskbar</source>
+					<target>Start menu and taskbar</target>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<segment state="initial">
+					<source>System</source>
+					<target>System</target>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>Windows components</source>
+					<target>Windows components</target>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>All settings</source>
+					<target>All settings</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

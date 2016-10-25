@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="ja-jp" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-2eb3c86</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">73e1dc50691019d63861eacef511f4670b832001</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\setup-problems-with-ie11.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">6d335bc0647b1bfd39ef8d64624515fa70f63957</mda:meta><mda:meta type="olxliffhash">d3890a3a02a9309ffca645cb409593e2f00cd032</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Reviewing log files to learn more about potential setup problems with Internet Explorer 11.</source>
+					<target>Reviewing log files to learn more about potential setup problems with Internet Explorer 11.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Setup problems with Internet Explorer 11 (Internet Explorer 11 for IT Pros)</source>
+					<target>Setup problems with Internet Explorer 11 (Internet Explorer 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Setup problems with Internet Explorer 11</source>
+					<target>Setup problems with Internet Explorer 11</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Installing Internet Explorer creates the following log files, which are stored in the Windows installation folder (typically, the C:\\Windows folder):</source>
+					<target>Installing Internet Explorer creates the following log files, which are stored in the Windows installation folder (typically, the C:\\Windows folder):</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>These log files continuously record the entire process from the moment the IE setup program starts running until the last .cab file is downloaded, including error codes.</source>
+					<target>These log files continuously record the entire process from the moment the IE setup program starts running until the last .cab file is downloaded, including error codes.</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>The possible error codes are:</source>
+					<target>The possible error codes are:</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Error code</source>
+					<target>Error code</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>0</source>
+					<target>0</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Success</source>
+					<target>Success</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>1460</source>
+					<target>1460</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>Timeout</source>
+					<target>Timeout</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>3010</source>
+					<target>3010</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>Success, reboot required</source>
+					<target>Success, reboot required</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>40001</source>
+					<target>40001</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_CANNOT_OPEN_LOG_FILE</source>
+					<target>USER_ERROR_CANNOT_OPEN_LOG_FILE</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>40003</source>
+					<target>40003</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_CANNOT_INITIALIZE_APPLICATION</source>
+					<target>USER_ERROR_CANNOT_INITIALIZE_APPLICATION</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>40004</source>
+					<target>40004</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_OLD_OS_VERSION</source>
+					<target>USER_ERROR_OLD_OS_VERSION</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>40005</source>
+					<target>40005</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_WRONG_PLATFORM</source>
+					<target>USER_ERROR_WRONG_PLATFORM</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>40006</source>
+					<target>40006</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_BAD_SPVERSION</source>
+					<target>USER_ERROR_BAD_SPVERSION</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>40007</source>
+					<target>40007</target>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_MISSING_REQUIRED_PREREQUISITE</source>
+					<target>USER_ERROR_MISSING_REQUIRED_PREREQUISITE</target>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>40008</source>
+					<target>40008</target>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_IE_GREATERVERSION_INSTALLED</source>
+					<target>USER_ERROR_IE_GREATERVERSION_INSTALLED</target>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>40010</source>
+					<target>40010</target>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_BAD_LANGUAGE</source>
+					<target>USER_ERROR_BAD_LANGUAGE</target>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>40012</source>
+					<target>40012</target>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_CRYPTO_VALIDATION_FAILED</source>
+					<target>USER_ERROR_CRYPTO_VALIDATION_FAILED</target>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<segment state="initial">
+					<source>40013</source>
+					<target>40013</target>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_ALREADY_INSTALLED</source>
+					<target>USER_ERROR_ALREADY_INSTALLED</target>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<segment state="initial">
+					<source>40015</source>
+					<target>40015</target>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_WRONG_OS</source>
+					<target>USER_ERROR_WRONG_OS</target>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>40016</source>
+					<target>40016</target>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_EXTRACTION_FAILED</source>
+					<target>USER_ERROR_EXTRACTION_FAILED</target>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<segment state="initial">
+					<source>40019</source>
+					<target>40019</target>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_WINDOWS_PRERELEASE_NOT_SUPPORTED</source>
+					<target>USER_ERROR_WINDOWS_PRERELEASE_NOT_SUPPORTED</target>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<segment state="initial">
+					<source>40021</source>
+					<target>40021</target>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_UNSUPPORTED_VIDEO_HARDWARE</source>
+					<target>USER_ERROR_UNSUPPORTED_VIDEO_HARDWARE</target>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<segment state="initial">
+					<source>40022</source>
+					<target>40022</target>
+				</segment>
+			</unit>
+			<unit id="144" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_UNSUPPORTED_VIDEO_DRIVER</source>
+					<target>USER_ERROR_UNSUPPORTED_VIDEO_DRIVER</target>
+				</segment>
+			</unit>
+			<unit id="145" translate="yes">
+				<segment state="initial">
+					<source>40023</source>
+					<target>40023</target>
+				</segment>
+			</unit>
+			<unit id="146" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_PREREQUISITE_INSTALL_FAILED</source>
+					<target>USER_ERROR_PREREQUISITE_INSTALL_FAILED</target>
+				</segment>
+			</unit>
+			<unit id="147" translate="yes">
+				<segment state="initial">
+					<source>40024</source>
+					<target>40024</target>
+				</segment>
+			</unit>
+			<unit id="148" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_NEUTRAL_CAB_DOWNLOAD_FAILED</source>
+					<target>USER_ERROR_NEUTRAL_CAB_DOWNLOAD_FAILED</target>
+				</segment>
+			</unit>
+			<unit id="149" translate="yes">
+				<segment state="initial">
+					<source>40025</source>
+					<target>40025</target>
+				</segment>
+			</unit>
+			<unit id="150" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_NEUTRAL_CAB_INSTALL_FAILED</source>
+					<target>USER_ERROR_NEUTRAL_CAB_INSTALL_FAILED</target>
+				</segment>
+			</unit>
+			<unit id="151" translate="yes">
+				<segment state="initial">
+					<source>41001</source>
+					<target>41001</target>
+				</segment>
+			</unit>
+			<unit id="152" translate="yes">
+				<segment state="initial">
+					<source>USER_ERROR_UNKNOWN</source>
+					<target>USER_ERROR_UNKNOWN</target>
+				</segment>
+			</unit>
+			<unit id="153" translate="yes">
+				<segment state="initial">
+					<source>50005</source>
+					<target>50005</target>
+				</segment>
+			</unit>
+			<unit id="154" translate="yes">
+				<segment state="initial">
+					<source>USER_SUCCESS_USER_CANCELLED</source>
+					<target>USER_SUCCESS_USER_CANCELLED</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

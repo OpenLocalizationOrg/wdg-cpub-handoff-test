@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="ja-jp" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-2eb3c86</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">7ccfdffc27e9727edcf88f9ed5f4e342c0476686</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-ieak\cabsigning-ins-file-setting.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">27753e9c25de0fff786e462be8f90dac3c9ea842</mda:meta><mda:meta type="olxliffhash">1375eb93e0673ff5e54d259295d6501d11a464ae</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Use the \[CabSigning\] .INS file setting to customize the digital signature info for your apps.</source>
+					<target>Use the \[CabSigning\] .INS file setting to customize the digital signature info for your apps.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Use the CabSigning .INS file to customize the digital signature info for your apps (Internet Explorer Administration Kit 11 for IT Pros)</source>
+					<target>Use the CabSigning .INS file to customize the digital signature info for your apps (Internet Explorer Administration Kit 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Use the CabSigning .INS file to customize the digital signature info for your apps</source>
+					<target>Use the CabSigning .INS file to customize the digital signature info for your apps</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Info about how to customize the digital signature info for your apps.</source>
+					<target>Info about how to customize the digital signature info for your apps.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Name</source>
+					<target>Name</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Value</source>
+					<target>Value</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>InfoURL</source>
+					<target>InfoURL</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>URL that appears on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Certificate</pc> dialog box.</source>
+					<target>URL that appears on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Certificate</pc> dialog box.</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Name</source>
+					<target>Name</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Company name associated with the certificate.</source>
+					<target>Company name associated with the certificate.</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>pvkFile</source>
+					<target>pvkFile</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>File path to the privacy key file.</source>
+					<target>File path to the privacy key file.</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>spcFile</source>
+					<target>spcFile</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>File path to the certificate file.</source>
+					<target>File path to the certificate file.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

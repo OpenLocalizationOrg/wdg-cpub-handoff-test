@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="ja-jp" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-2eb3c86</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">54ca6209a22c402d376c98184e36f851b5daf51f</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-ieak\hidecustom-ins-file-setting.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">49c40d5cbedaa109ca26ce4d91d90d6a13e050e2</mda:meta><mda:meta type="olxliffhash">ca87b9736d331e9d86c202f937c0f7d65915b0cf</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Use the \[HideCustom\] .INS file setting to decide whether to hide the GUID for each custom component.</source>
+					<target>Use the \[HideCustom\] .INS file setting to decide whether to hide the GUID for each custom component.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Use the HideCustom .INS file to hide the GUID for each custom component (Internet Explorer Administration Kit 11 for IT Pros)</source>
+					<target>Use the HideCustom .INS file to hide the GUID for each custom component (Internet Explorer Administration Kit 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Use the HideCustom .INS file to hide the GUID for each custom component</source>
+					<target>Use the HideCustom .INS file to hide the GUID for each custom component</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Info about whether to hide the globally unique identifier (GUID) for each of your custom components.</source>
+					<target>Info about whether to hide the globally unique identifier (GUID) for each of your custom components.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Name</source>
+					<target>Name</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Value</source>
+					<target>Value</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>GUID</source>
+					<target>GUID</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Component isn't hidden.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Component isn't hidden.</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Component is hidden.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Component is hidden.</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Determines whether this is a hidden component.</source>
+					<target>Determines whether this is a hidden component.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>
