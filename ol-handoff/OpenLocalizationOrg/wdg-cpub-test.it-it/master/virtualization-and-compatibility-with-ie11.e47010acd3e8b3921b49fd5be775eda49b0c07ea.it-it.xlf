@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="it-it" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">55d3318fee42f442818ce302eab8930081c3964e</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\virtualization-and-compatibility-with-ie11.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">4eb7ad345f395f816b177f438bfe31a8d67bc769</mda:meta><mda:meta type="olxliffhash">5e5fd52793ebd567656b3d8e3efd36e69bb8f45c</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Virtualization and compatibility with Internet Explorer 11</source>
+					<target>Virtualization and compatibility with Internet Explorer 11</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Virtualization and compatibility with Internet Explorer 11 (Internet Explorer 11 for IT Pros)</source>
+					<target>Virtualization and compatibility with Internet Explorer 11 (Internet Explorer 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Virtualization and compatibility with Internet Explorer 11</source>
+					<target>Virtualization and compatibility with Internet Explorer 11</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>If your company is considering upgrading to the latest version of Internet Explorer, but is hesitant because of a large number of web apps that need to be tested and moved, we recommend that you consider virtualization.</source>
+					<target>If your company is considering upgrading to the latest version of Internet Explorer, but is hesitant because of a large number of web apps that need to be tested and moved, we recommend that you consider virtualization.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Virtualization lets you set up a virtual environment where you can run earlier versions of IE.</source>
+					<target>Virtualization lets you set up a virtual environment where you can run earlier versions of IE.</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Important</source>
+					<target>Important</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>We strongly suggest that while you're using virtualization, you also update your web apps so they run natively in the newer version of IE.</source>
+					<target>We strongly suggest that while you're using virtualization, you also update your web apps so they run natively in the newer version of IE.</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](http://go.microsoft.com/fwlink/p/?LinkId=279707)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more information about how to update your code, see the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Internet Explorer 11 Compatibility Cookbook (Windows)</pc> to learn about the developer features that have been changed or deprecated since Internet Explorer 10.</source>
+					<target>For more information about how to update your code, see the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Internet Explorer 11 Compatibility Cookbook (Windows)</pc> to learn about the developer features that have been changed or deprecated since Internet Explorer 10.</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>The Microsoft-supported options for virtualizing web apps are:</source>
+					<target>The Microsoft-supported options for virtualizing web apps are:</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Enterprise Desktop Virtualization (MED-V).</source>
+					<target>Microsoft Enterprise Desktop Virtualization (MED-V).</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Uses Microsoft Virtual PC to provide an enterprise solution for desktop virtualization.</source>
+					<target>Uses Microsoft Virtual PC to provide an enterprise solution for desktop virtualization.</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>With MED-V, you can easily create, deliver, and manage corporate Virtual PC images on any Windows®-based desktop.</source>
+					<target>With MED-V, you can easily create, deliver, and manage corporate Virtual PC images on any Windows®-based desktop.</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](http://go.microsoft.com/fwlink/p/?LinkId=271653)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more information, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">MED-V</pc>.</source>
+					<target>For more information, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">MED-V</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>Client Hyper-V.</source>
+					<target>Client Hyper-V.</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>Uses the same virtualization technology previously available in Windows Server, but now installed for Windows 8.1.</source>
+					<target>Uses the same virtualization technology previously available in Windows Server, but now installed for Windows 8.1.</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](http://go.microsoft.com/fwlink/p/?LinkId=271654)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more information, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Client Hyper-V</pc>.</source>
+					<target>For more information, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Client Hyper-V</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](http://go.microsoft.com/fwlink/p/?LinkId=271662)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more information about virtualization options, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Desktop Virtualization</pc>.</source>
+					<target>For more information about virtualization options, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Desktop Virtualization</pc>.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

@@ -1,0 +1,1833 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="it-it" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">63e0d16c5aca101eff297f9cc1e835c1a5037e83</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\new-group-policy-settings-for-ie11.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">6cae2d90674243c8acf9943fc0b6c021c324dfed</mda:meta><mda:meta type="olxliffhash">1f284a9123603d5fad9636f55c470b60cce043fc</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>New group policy settings for Internet Explorer 11</source>
+					<target>New group policy settings for Internet Explorer 11</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>New group policy settings for Internet Explorer 11 (Internet Explorer 11 for IT Pros)</source>
+					<target>New group policy settings for Internet Explorer 11 (Internet Explorer 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>New group policy settings for Internet Explorer 11</source>
+					<target>New group policy settings for Internet Explorer 11</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Internet Explorer 11 gives you some new Group Policy settings to help you manage your company's web browser configurations, including:</source>
+					<target>Internet Explorer 11 gives you some new Group Policy settings to help you manage your company's web browser configurations, including:</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Policy</source>
+					<target>Policy</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Category Path</source>
+					<target>Category Path</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Supported on</source>
+					<target>Supported on</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Explanation</source>
+					<target>Explanation</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>Turn off loading websites and content in the background to optimize performance</source>
+					<target>Turn off loading websites and content in the background to optimize performance</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10</source>
+					<target>IE11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether Internet Explorer preemptively loads websites and content in the background, speeding up performance such that when the user clicks a hyperlink, the background page seamlessly switches into view.</source>
+					<target>This policy setting determines whether Internet Explorer preemptively loads websites and content in the background, speeding up performance such that when the user clicks a hyperlink, the background page seamlessly switches into view.</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, IE doesn't load any websites or content in the background.</source>
+					<target>If you enable this policy setting, IE doesn't load any websites or content in the background.</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, IE preemptively loads websites and content in the background.</source>
+					<target>If you disable this policy setting, IE preemptively loads websites and content in the background.</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>If you don’t configure this policy setting, users can turn this behavior on or off, using IE settings.</source>
+					<target>If you don’t configure this policy setting, users can turn this behavior on or off, using IE settings.</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>This feature is turned on by default.</source>
+					<target>This feature is turned on by default.</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>Allow Microsoft services to provide enhanced suggestions as the user types in the Address bar</source>
+					<target>Allow Microsoft services to provide enhanced suggestions as the user types in the Address bar</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10</source>
+					<target>IE11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>This policy setting allows IE to provide enhanced suggestions as the user types in the Address bar.</source>
+					<target>This policy setting allows IE to provide enhanced suggestions as the user types in the Address bar.</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>To provide enhanced suggestions, the user’s keystrokes are sent to Microsoft through Microsoft services.</source>
+					<target>To provide enhanced suggestions, the user’s keystrokes are sent to Microsoft through Microsoft services.</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, users receive enhanced suggestions while typing in the Address bar.</source>
+					<target>If you enable this policy setting, users receive enhanced suggestions while typing in the Address bar.</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>In addition, users won’t be able to change the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Suggestions</pc> setting on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Settings</pc> charm.</source>
+					<target>In addition, users won’t be able to change the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Suggestions</pc> setting on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Settings</pc> charm.</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, users won’t receive enhanced suggestions while typing in the Address bar.</source>
+					<target>If you disable this policy setting, users won’t receive enhanced suggestions while typing in the Address bar.</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>In addition, users won’t be able to change the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Suggestions</pc> setting on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Settings</pc> charm.</source>
+					<target>In addition, users won’t be able to change the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Suggestions</pc> setting on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Settings</pc> charm.</target>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you don’t configure this policy setting, users can change the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Suggestions</pc> setting on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Settings</pc> charm.</source>
+					<target>If you don’t configure this policy setting, users can change the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Suggestions</pc> setting on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Settings</pc> charm.</target>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>Turn off phone number detection</source>
+					<target>Turn off phone number detection</target>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Settings\Advanced settings\Browsing</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Settings\Advanced settings\Browsing</target>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10</source>
+					<target>IE11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether phone numbers are recognized and turned into hyperlinks, which can be used to invoke the default phone application on the system.</source>
+					<target>This policy setting determines whether phone numbers are recognized and turned into hyperlinks, which can be used to invoke the default phone application on the system.</target>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, phone number detection is turned off.</source>
+					<target>If you enable this policy setting, phone number detection is turned off.</target>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<segment state="initial">
+					<source>Users won’t be able to modify this setting.</source>
+					<target>Users won’t be able to modify this setting.</target>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, phone number detection is turned on.</source>
+					<target>If you disable this policy setting, phone number detection is turned on.</target>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<segment state="initial">
+					<source>Users won’t be able to modify this setting.</source>
+					<target>Users won’t be able to modify this setting.</target>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<segment state="initial">
+					<source>If you don't configure this policy setting, users can turn this behavior on or off, using IE settings.</source>
+					<target>If you don't configure this policy setting, users can turn this behavior on or off, using IE settings.</target>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>The default is on.</source>
+					<target>The default is on.</target>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>Allow IE to use the SPDY/3 network protocol</source>
+					<target>Allow IE to use the SPDY/3 network protocol</target>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</target>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10</source>
+					<target>IE11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether Internet Explorer uses the SPDY/3 network protocol.</source>
+					<target>This policy setting determines whether Internet Explorer uses the SPDY/3 network protocol.</target>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<segment state="initial">
+					<source>SPDY/3 works with HTTP requests to optimize the latency of network requests through compression, multiplexing and prioritization.</source>
+					<target>SPDY/3 works with HTTP requests to optimize the latency of network requests through compression, multiplexing and prioritization.</target>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, Internet Explorer uses the SPDY/3 network protocol.</source>
+					<target>If you enable this policy setting, Internet Explorer uses the SPDY/3 network protocol.</target>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, Internet Explorer won't use the SPDY/3 network protocol.</source>
+					<target>If you disable this policy setting, Internet Explorer won't use the SPDY/3 network protocol.</target>
+				</segment>
+			</unit>
+			<unit id="144" translate="yes">
+				<originalData>
+					<data id="id1">*</data>
+					<data id="id2">*</data>
+					<data id="id3">*</data>
+					<data id="id4">*</data>
+					<data id="id5">*</data>
+					<data id="id6">*</data>
+					<data id="id7">*</data>
+					<data id="id8">*</data>
+					<data id="id9">&lt;p&gt;</data>
+					<data id="id10">*</data>
+					<data id="id11">*</data>
+					<data id="id12">*</data>
+					<data id="id13">*</data>
+					<data id="id14">&lt;br&gt;</data>
+					<data id="id15">*</data>
+					<data id="id16">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you don't configure this policy setting, users can turn this behavior on or off, on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1"><pc dataRefEnd="id4" dataRefStart="id3" id="p2">Advanced</pc> tab of the </pc><pc dataRefEnd="id6" dataRefStart="id5" id="p3">Internet Options</pc><pc dataRefEnd="id8" dataRefStart="id7" id="p4"> dialog box. The default is on.<ph dataRef="id9" id="ph1" /></pc><pc dataRefEnd="id11" dataRefStart="id10" id="p5">Note</pc><pc dataRefEnd="id13" dataRefStart="id12" id="p6"><ph dataRef="id14" id="ph2" />We've replaced the SPDY/3 protocol with the HTTP2 protocol in Windows 10. You can configure the HTTP2 protocol by using the </pc><pc dataRefEnd="id16" dataRefStart="id15" id="p7">Allow IE to use the HTTP2 network protocol</pc>* setting.</source>
+					<target>If you don't configure this policy setting, users can turn this behavior on or off, on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1"><pc dataRefEnd="id4" dataRefStart="id3" id="p2">Advanced</pc> tab of the </pc><pc dataRefEnd="id6" dataRefStart="id5" id="p3">Internet Options</pc><pc dataRefEnd="id8" dataRefStart="id7" id="p4"> dialog box. The default is on.<ph dataRef="id9" id="ph1" /></pc><pc dataRefEnd="id11" dataRefStart="id10" id="p5">Note</pc><pc dataRefEnd="id13" dataRefStart="id12" id="p6"><ph dataRef="id14" id="ph2" />We've replaced the SPDY/3 protocol with the HTTP2 protocol in Windows 10. You can configure the HTTP2 protocol by using the </pc><pc dataRefEnd="id16" dataRefStart="id15" id="p7">Allow IE to use the HTTP2 network protocol</pc>* setting.</target>
+				</segment>
+			</unit>
+			<unit id="145" translate="yes">
+				<segment state="initial">
+					<source>Allow IE to use the HTTP2 network protocol</source>
+					<target>Allow IE to use the HTTP2 network protocol</target>
+				</segment>
+			</unit>
+			<unit id="146" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</target>
+				</segment>
+			</unit>
+			<unit id="147" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10</source>
+					<target>IE11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="148" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether IE uses the HTTP2 network protocol.</source>
+					<target>This policy setting determines whether IE uses the HTTP2 network protocol.</target>
+				</segment>
+			</unit>
+			<unit id="149" translate="yes">
+				<segment state="initial">
+					<source>HTTP2 works with HTTP requests to optimize the latency of network requests through compression, multiplexing, and prioritization.</source>
+					<target>HTTP2 works with HTTP requests to optimize the latency of network requests through compression, multiplexing, and prioritization.</target>
+				</segment>
+			</unit>
+			<unit id="150" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, IE uses the HTTP2 network protocol.</source>
+					<target>If you enable this policy setting, IE uses the HTTP2 network protocol.</target>
+				</segment>
+			</unit>
+			<unit id="151" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, IE won't use the HTTP2 network protocol.</source>
+					<target>If you disable this policy setting, IE won't use the HTTP2 network protocol.</target>
+				</segment>
+			</unit>
+			<unit id="152" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you don't configure this policy setting, users can turn this behavior on or off, using the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Internet Explorer Advanced Internet Options</pc> settings.</source>
+					<target>If you don't configure this policy setting, users can turn this behavior on or off, using the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Internet Explorer Advanced Internet Options</pc> settings.</target>
+				</segment>
+			</unit>
+			<unit id="153" translate="yes">
+				<segment state="initial">
+					<source>The default is on.</source>
+					<target>The default is on.</target>
+				</segment>
+			</unit>
+			<unit id="154" translate="yes">
+				<segment state="initial">
+					<source>Don't run antimalware programs against ActiveX controls</source>
+					<target>Don't run antimalware programs against ActiveX controls</target>
+				</segment>
+			</unit>
+			<unit id="155" translate="yes">
+				<segment state="initial">
+					<source>(Internet, Restricted Zones)</source>
+					<target>(Internet, Restricted Zones)</target>
+				</segment>
+			</unit>
+			<unit id="156" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Internet Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Internet Zone</target>
+				</segment>
+			</unit>
+			<unit id="157" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Internet Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Internet Zone</target>
+				</segment>
+			</unit>
+			<unit id="158" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Restricted Sites Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Restricted Sites Zone</target>
+				</segment>
+			</unit>
+			<unit id="159" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Restricted Sites Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Restricted Sites Zone</target>
+				</segment>
+			</unit>
+			<unit id="160" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10</source>
+					<target>IE11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="161" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether IE runs antimalware programs against ActiveX controls, to check if they're safe to load on pages.</source>
+					<target>This policy setting determines whether IE runs antimalware programs against ActiveX controls, to check if they're safe to load on pages.</target>
+				</segment>
+			</unit>
+			<unit id="162" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, IE won't check with your antimalware program to see if it's safe to create an instance of the ActiveX control.</source>
+					<target>If you enable this policy setting, IE won't check with your antimalware program to see if it's safe to create an instance of the ActiveX control.</target>
+				</segment>
+			</unit>
+			<unit id="163" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, IE always checks with your antimalware program to see if it's safe to create an instance of the ActiveX control.</source>
+					<target>If you disable this policy setting, IE always checks with your antimalware program to see if it's safe to create an instance of the ActiveX control.</target>
+				</segment>
+			</unit>
+			<unit id="164" translate="yes">
+				<segment state="initial">
+					<source>If you don't configure this policy setting, IE always checks with your antimalware program to see if it's safe to create an instance of the ActiveX control.</source>
+					<target>If you don't configure this policy setting, IE always checks with your antimalware program to see if it's safe to create an instance of the ActiveX control.</target>
+				</segment>
+			</unit>
+			<unit id="165" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Users can turn this behavior on or off, using the Internet Explorer's <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Security</pc> settings.</source>
+					<target>Users can turn this behavior on or off, using the Internet Explorer's <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Security</pc> settings.</target>
+				</segment>
+			</unit>
+			<unit id="166" translate="yes">
+				<segment state="initial">
+					<source>Don't run antimalware programs against ActiveX controls</source>
+					<target>Don't run antimalware programs against ActiveX controls</target>
+				</segment>
+			</unit>
+			<unit id="167" translate="yes">
+				<segment state="initial">
+					<source>(Intranet, Trusted, Local Machine Zones)</source>
+					<target>(Intranet, Trusted, Local Machine Zones)</target>
+				</segment>
+			</unit>
+			<unit id="168" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Intranet Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Intranet Zone</target>
+				</segment>
+			</unit>
+			<unit id="169" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Intranet Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Intranet Zone</target>
+				</segment>
+			</unit>
+			<unit id="170" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Trusted Sites Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Trusted Sites Zone</target>
+				</segment>
+			</unit>
+			<unit id="171" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Trusted Sites Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Trusted Sites Zone</target>
+				</segment>
+			</unit>
+			<unit id="172" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Local Machine Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Local Machine Zone</target>
+				</segment>
+			</unit>
+			<unit id="173" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Local Machine Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Local Machine Zone</target>
+				</segment>
+			</unit>
+			<unit id="174" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10</source>
+					<target>IE11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="175" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether IE runs antimalware programs against ActiveX controls, to check if they're safe to load on pages.</source>
+					<target>This policy setting determines whether IE runs antimalware programs against ActiveX controls, to check if they're safe to load on pages.</target>
+				</segment>
+			</unit>
+			<unit id="176" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, IE won't check with your antimalware program to see if it's safe to create an instance of the ActiveX control.</source>
+					<target>If you enable this policy setting, IE won't check with your antimalware program to see if it's safe to create an instance of the ActiveX control.</target>
+				</segment>
+			</unit>
+			<unit id="177" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, IE always checks with your antimalware program to see if it's safe to create an instance of the ActiveX control.</source>
+					<target>If you disable this policy setting, IE always checks with your antimalware program to see if it's safe to create an instance of the ActiveX control.</target>
+				</segment>
+			</unit>
+			<unit id="178" translate="yes">
+				<segment state="initial">
+					<source>If you don't configure this policy setting, IE won't check with your antimalware program to see if it's safe to create an instance of the ActiveX control.</source>
+					<target>If you don't configure this policy setting, IE won't check with your antimalware program to see if it's safe to create an instance of the ActiveX control.</target>
+				</segment>
+			</unit>
+			<unit id="179" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Users can turn this behavior on or off, using Internet Explorer's <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Security</pc> settings.</source>
+					<target>Users can turn this behavior on or off, using Internet Explorer's <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Security</pc> settings.</target>
+				</segment>
+			</unit>
+			<unit id="180" translate="yes">
+				<segment state="initial">
+					<source>Turn on 64-bit tab processes when running in Enhanced Protected Mode on 64-bit versions of Windows</source>
+					<target>Turn on 64-bit tab processes when running in Enhanced Protected Mode on 64-bit versions of Windows</target>
+				</segment>
+			</unit>
+			<unit id="181" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</target>
+				</segment>
+			</unit>
+			<unit id="182" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10</source>
+					<target>IE11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="183" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether IE11 uses 64-bit processes (for greater security) or 32-bit processes (for greater compatibility) when running in Enhanced Protected Mode on 64-bit versions of Windows.</source>
+					<target>This policy setting determines whether IE11 uses 64-bit processes (for greater security) or 32-bit processes (for greater compatibility) when running in Enhanced Protected Mode on 64-bit versions of Windows.</target>
+				</segment>
+			</unit>
+			<unit id="184" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, IE11 will use 64-bit tab processes when running in Enhanced Protected Mode on 64-bit versions of Windows.</source>
+					<target>If you enable this policy setting, IE11 will use 64-bit tab processes when running in Enhanced Protected Mode on 64-bit versions of Windows.</target>
+				</segment>
+			</unit>
+			<unit id="185" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, IE11 will use 32-bit tab processes when running in Enhanced Protected Mode on 64-bit versions of Windows.</source>
+					<target>If you disable this policy setting, IE11 will use 32-bit tab processes when running in Enhanced Protected Mode on 64-bit versions of Windows.</target>
+				</segment>
+			</unit>
+			<unit id="186" translate="yes">
+				<segment state="initial">
+					<source>If you don't configure this policy setting, users can turn this feature on or off using IE settings.</source>
+					<target>If you don't configure this policy setting, users can turn this feature on or off using IE settings.</target>
+				</segment>
+			</unit>
+			<unit id="187" translate="yes">
+				<segment state="initial">
+					<source>This feature is turned off by default.</source>
+					<target>This feature is turned off by default.</target>
+				</segment>
+			</unit>
+			<unit id="188" translate="yes">
+				<segment state="initial">
+					<source>Important</source>
+					<target>Important</target>
+				</segment>
+			</unit>
+			<unit id="189" translate="yes">
+				<segment state="initial">
+					<source>When using 64-bit processes, some ActiveX controls and toolbars might not be available.</source>
+					<target>When using 64-bit processes, some ActiveX controls and toolbars might not be available.</target>
+				</segment>
+			</unit>
+			<unit id="190" translate="yes">
+				<segment state="initial">
+					<source>Turn off sending UTF-8 query strings for URLs</source>
+					<target>Turn off sending UTF-8 query strings for URLs</target>
+				</segment>
+			</unit>
+			<unit id="191" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</target>
+				</segment>
+			</unit>
+			<unit id="192" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10</source>
+					<target>IE11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="193" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether IE uses 8-bit Unicode Transformation Format (UTF-8) to encode query strings in URLs before sending them to servers or to proxy servers.</source>
+					<target>This policy setting determines whether IE uses 8-bit Unicode Transformation Format (UTF-8) to encode query strings in URLs before sending them to servers or to proxy servers.</target>
+				</segment>
+			</unit>
+			<unit id="194" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, you must specify when to use UTF-8 to encode query strings:</source>
+					<target>If you enable this policy setting, you must specify when to use UTF-8 to encode query strings:</target>
+				</segment>
+			</unit>
+			<unit id="195" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Never encode query strings.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Never encode query strings.</target>
+				</segment>
+			</unit>
+			<unit id="196" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Only encode query strings for URLs that aren't in the Intranet zone.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Only encode query strings for URLs that aren't in the Intranet zone.</target>
+				</segment>
+			</unit>
+			<unit id="197" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">2.</pc> Only encode query strings for URLs that are in the Intranet zone.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">2.</pc> Only encode query strings for URLs that are in the Intranet zone.</target>
+				</segment>
+			</unit>
+			<unit id="198" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">3.</pc> Always encode query strings.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">3.</pc> Always encode query strings.</target>
+				</segment>
+			</unit>
+			<unit id="199" translate="yes">
+				<segment state="initial">
+					<source>If you disable or don't configure this policy setting, users can turn this behavior on or off, using IE Advanced Options settings.</source>
+					<target>If you disable or don't configure this policy setting, users can turn this behavior on or off, using IE Advanced Options settings.</target>
+				</segment>
+			</unit>
+			<unit id="200" translate="yes">
+				<segment state="initial">
+					<source>The default is to encode all query strings in UTF-8.</source>
+					<target>The default is to encode all query strings in UTF-8.</target>
+				</segment>
+			</unit>
+			<unit id="201" translate="yes">
+				<segment state="initial">
+					<source>Turn off sending URL path as UTF-8</source>
+					<target>Turn off sending URL path as UTF-8</target>
+				</segment>
+			</unit>
+			<unit id="202" translate="yes">
+				<segment state="initial">
+					<source>User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Settings\URL Encoding</source>
+					<target>User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Settings\URL Encoding</target>
+				</segment>
+			</unit>
+			<unit id="203" translate="yes">
+				<segment state="initial">
+					<source>At least Windows Internet Explorer 7</source>
+					<target>At least Windows Internet Explorer 7</target>
+				</segment>
+			</unit>
+			<unit id="204" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether to let IE send the path portion of a URL using the UTF-8 standard.</source>
+					<target>This policy setting determines whether to let IE send the path portion of a URL using the UTF-8 standard.</target>
+				</segment>
+			</unit>
+			<unit id="205" translate="yes">
+				<segment state="initial">
+					<source>This standard defines characters so they're readable in any language and lets you exchange Internet addresses (URLs) with characters included in any language.</source>
+					<target>This standard defines characters so they're readable in any language and lets you exchange Internet addresses (URLs) with characters included in any language.</target>
+				</segment>
+			</unit>
+			<unit id="206" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, UTF-8 is not allowed.</source>
+					<target>If you enable this policy setting, UTF-8 is not allowed.</target>
+				</segment>
+			</unit>
+			<unit id="207" translate="yes">
+				<segment state="initial">
+					<source>Users won't be able to change this setting.</source>
+					<target>Users won't be able to change this setting.</target>
+				</segment>
+			</unit>
+			<unit id="208" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, UTF-8 is allowed.</source>
+					<target>If you disable this policy setting, UTF-8 is allowed.</target>
+				</segment>
+			</unit>
+			<unit id="209" translate="yes">
+				<segment state="initial">
+					<source>Users won't be able to change this setting.</source>
+					<target>Users won't be able to change this setting.</target>
+				</segment>
+			</unit>
+			<unit id="210" translate="yes">
+				<segment state="initial">
+					<source>If you don't configure this policy setting, users can turn this behavior on or off.</source>
+					<target>If you don't configure this policy setting, users can turn this behavior on or off.</target>
+				</segment>
+			</unit>
+			<unit id="211" translate="yes">
+				<segment state="initial">
+					<source>Turn off the flip ahead with page prediction feature</source>
+					<target>Turn off the flip ahead with page prediction feature</target>
+				</segment>
+			</unit>
+			<unit id="212" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</target>
+				</segment>
+			</unit>
+			<unit id="213" translate="yes">
+				<segment state="initial">
+					<source>At least Internet Explorer 10 on Windows 8</source>
+					<target>At least Internet Explorer 10 on Windows 8</target>
+				</segment>
+			</unit>
+			<unit id="214" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether a user can swipe across a screen or click Forward to go to the next pre-loaded page of a website.</source>
+					<target>This policy setting determines whether a user can swipe across a screen or click Forward to go to the next pre-loaded page of a website.</target>
+				</segment>
+			</unit>
+			<unit id="215" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, flip ahead with page prediction is turned off and the next webpage isn’t loaded into the background.</source>
+					<target>If you enable this policy setting, flip ahead with page prediction is turned off and the next webpage isn’t loaded into the background.</target>
+				</segment>
+			</unit>
+			<unit id="216" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, flip ahead with page prediction is turned on and the next webpage is loaded into the background.</source>
+					<target>If you disable this policy setting, flip ahead with page prediction is turned on and the next webpage is loaded into the background.</target>
+				</segment>
+			</unit>
+			<unit id="217" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you don’t configure this setting, users can turn this behavior on or off, using the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Settings</pc> charm.</source>
+					<target>If you don’t configure this setting, users can turn this behavior on or off, using the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Settings</pc> charm.</target>
+				</segment>
+			</unit>
+			<unit id="218" translate="yes">
+				<segment state="initial">
+					<source>Note</source>
+					<target>Note</target>
+				</segment>
+			</unit>
+			<unit id="219" translate="yes">
+				<segment state="initial">
+					<source>Microsoft collects your browsing history to improve how flip ahead with page prediction works.</source>
+					<target>Microsoft collects your browsing history to improve how flip ahead with page prediction works.</target>
+				</segment>
+			</unit>
+			<unit id="220" translate="yes">
+				<segment state="initial">
+					<source>This feature isn’t available for Internet Explorer for the desktop.</source>
+					<target>This feature isn’t available for Internet Explorer for the desktop.</target>
+				</segment>
+			</unit>
+			<unit id="221" translate="yes">
+				<segment state="initial">
+					<source>Prevent deleting ActiveX Filtering, Tracking Protection and Do Not Track data</source>
+					<target>Prevent deleting ActiveX Filtering, Tracking Protection and Do Not Track data</target>
+				</segment>
+			</unit>
+			<unit id="222" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Delete Browsing History</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Delete Browsing History</target>
+				</segment>
+			</unit>
+			<unit id="223" translate="yes">
+				<segment state="initial">
+					<source>At least Windows Internet Explorer 9</source>
+					<target>At least Windows Internet Explorer 9</target>
+				</segment>
+			</unit>
+			<unit id="224" translate="yes">
+				<segment state="initial">
+					<source>In Internet Explorer 9 and Internet Explorer 10:</source>
+					<target>In Internet Explorer 9 and Internet Explorer 10:</target>
+				</segment>
+			</unit>
+			<unit id="225" translate="yes">
+				<segment state="initial">
+					<source>This policy setting prevents users from deleting ActiveX Filtering and Tracking Protection data, which includes the list of websites for which the user has chosen to disable ActiveX Filtering or Tracking Protection.</source>
+					<target>This policy setting prevents users from deleting ActiveX Filtering and Tracking Protection data, which includes the list of websites for which the user has chosen to disable ActiveX Filtering or Tracking Protection.</target>
+				</segment>
+			</unit>
+			<unit id="226" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>In addition, Tracking Protection data is also collected if users turn on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Personalized Tracking Protection List</pc>, which blocks third-party items while the user is browsing.</source>
+					<target>In addition, Tracking Protection data is also collected if users turn on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Personalized Tracking Protection List</pc>, which blocks third-party items while the user is browsing.</target>
+				</segment>
+			</unit>
+			<unit id="227" translate="yes">
+				<segment state="initial">
+					<source>In IE11:</source>
+					<target>In IE11:</target>
+				</segment>
+			</unit>
+			<unit id="228" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>This policy setting prevents users from deleting ActiveX Filtering, Tracking Protection data, and Do Not Track exceptions, stored in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Delete Browsing History</pc> dialog box, for visited websites.</source>
+					<target>This policy setting prevents users from deleting ActiveX Filtering, Tracking Protection data, and Do Not Track exceptions, stored in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Delete Browsing History</pc> dialog box, for visited websites.</target>
+				</segment>
+			</unit>
+			<unit id="229" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you enable this policy setting, ActiveX Filtering, Tracking Protection and Do Not Track data is preserved when the user clicks <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Delete</pc>.</source>
+					<target>If you enable this policy setting, ActiveX Filtering, Tracking Protection and Do Not Track data is preserved when the user clicks <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Delete</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="230" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you disable this policy setting, ActiveX Filtering, Tracking Protection and Do Not Track data is deleted when the user clicks <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Delete</pc>.</source>
+					<target>If you disable this policy setting, ActiveX Filtering, Tracking Protection and Do Not Track data is deleted when the user clicks <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Delete</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="231" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you don’t configure this policy setting, users can turn this feature on and off, determining whether to delete ActiveX Filtering, Tracking Protection, and Do Not Track data when clicking <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Delete</pc>.</source>
+					<target>If you don’t configure this policy setting, users can turn this feature on and off, determining whether to delete ActiveX Filtering, Tracking Protection, and Do Not Track data when clicking <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Delete</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="232" translate="yes">
+				<segment state="initial">
+					<source>Always send Do Not Track header</source>
+					<target>Always send Do Not Track header</target>
+				</segment>
+			</unit>
+			<unit id="233" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Advanced Page</target>
+				</segment>
+			</unit>
+			<unit id="234" translate="yes">
+				<segment state="initial">
+					<source>At least Internet Explorer 10</source>
+					<target>At least Internet Explorer 10</target>
+				</segment>
+			</unit>
+			<unit id="235" translate="yes">
+				<segment state="initial">
+					<source>This policy setting allows you to configure how IE sends the Do Not Track (DNT) header.</source>
+					<target>This policy setting allows you to configure how IE sends the Do Not Track (DNT) header.</target>
+				</segment>
+			</unit>
+			<unit id="236" translate="yes">
+				<originalData>
+					<data id="id1">`DNT:1`</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you enable this policy setting, IE sends a <ph dataRef="id1" id="ph1" /> header with all HTTP and HTTPS requests.</source>
+					<target>If you enable this policy setting, IE sends a <ph dataRef="id1" id="ph1" /> header with all HTTP and HTTPS requests.</target>
+				</segment>
+			</unit>
+			<unit id="237" translate="yes">
+				<originalData>
+					<data id="id1">`DNT:1`</data>
+				</originalData>
+				<segment state="initial">
+					<source>The <ph dataRef="id1" id="ph1" /> header signals to the servers not to track the user.</source>
+					<target>The <ph dataRef="id1" id="ph1" /> header signals to the servers not to track the user.</target>
+				</segment>
+			</unit>
+			<unit id="238" translate="yes">
+				<segment state="initial">
+					<source>In Internet Explorer 9 and 10:</source>
+					<target>In Internet Explorer 9 and 10:</target>
+				</segment>
+			</unit>
+			<unit id="239" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, IE only sends the Do Not Track header if a Tracking Protection List is enabled or inPrivate Browsing mode is used.</source>
+					<target>If you disable this policy setting, IE only sends the Do Not Track header if a Tracking Protection List is enabled or inPrivate Browsing mode is used.</target>
+				</segment>
+			</unit>
+			<unit id="240" translate="yes">
+				<segment state="initial">
+					<source>In at least IE11:</source>
+					<target>In at least IE11:</target>
+				</segment>
+			</unit>
+			<unit id="241" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, IE only sends the Do Not Track header if inPrivate Browsing mode is used.</source>
+					<target>If you disable this policy setting, IE only sends the Do Not Track header if inPrivate Browsing mode is used.</target>
+				</segment>
+			</unit>
+			<unit id="242" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">*</data>
+					<data id="id4">*</data>
+					<data id="id5">*</data>
+					<data id="id6">*</data>
+					<data id="id7">*</data>
+					<data id="id8">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you don't configure the policy setting, users can select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Always send Do Not Track header</pc> option on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2"><pc dataRefEnd="id6" dataRefStart="id5" id="p3">Advanced</pc> tab of the </pc><pc dataRefEnd="id8" dataRefStart="id7" id="p4">Internet Options</pc>* dialog box.</source>
+					<target>If you don't configure the policy setting, users can select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Always send Do Not Track header</pc> option on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2"><pc dataRefEnd="id6" dataRefStart="id5" id="p3">Advanced</pc> tab of the </pc><pc dataRefEnd="id8" dataRefStart="id7" id="p4">Internet Options</pc>* dialog box.</target>
+				</segment>
+			</unit>
+			<unit id="243" translate="yes">
+				<originalData>
+					<data id="id1">`DNT:1`</data>
+					<data id="id2">`DNT:0`</data>
+				</originalData>
+				<segment state="initial">
+					<source>By selecting this option, IE sends a <ph dataRef="id1" id="ph1" /> header with all HTTP and HTTPS requests; unless the user grants a site-specific exception, in which case IE sends a <ph dataRef="id2" id="ph2" /> header.</source>
+					<target>By selecting this option, IE sends a <ph dataRef="id1" id="ph1" /> header with all HTTP and HTTPS requests; unless the user grants a site-specific exception, in which case IE sends a <ph dataRef="id2" id="ph2" /> header.</target>
+				</segment>
+			</unit>
+			<unit id="244" translate="yes">
+				<segment state="initial">
+					<source>By default, this option is enabled.</source>
+					<target>By default, this option is enabled.</target>
+				</segment>
+			</unit>
+			<unit id="245" translate="yes">
+				<segment state="initial">
+					<source>Turn off the ability to launch report site problems using a menu option</source>
+					<target>Turn off the ability to launch report site problems using a menu option</target>
+				</segment>
+			</unit>
+			<unit id="246" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Browser menus</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Browser menus</target>
+				</segment>
+			</unit>
+			<unit id="247" translate="yes">
+				<segment state="initial">
+					<source>Internet Explorer 11</source>
+					<target>Internet Explorer 11</target>
+				</segment>
+			</unit>
+			<unit id="248" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>This policy setting allows you to manage whether users can start the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">eport Site Problems</pc> dialog box from the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Internet Explorer</pc> settings area or from the <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Tools</pc> menu.</source>
+					<target>This policy setting allows you to manage whether users can start the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">eport Site Problems</pc> dialog box from the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Internet Explorer</pc> settings area or from the <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Tools</pc> menu.</target>
+				</segment>
+			</unit>
+			<unit id="249" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you enable this policy setting, users won’t be able to start the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Report Site Problems</pc> dialog box from the Internet Explorer settings or the Tools menu.</source>
+					<target>If you enable this policy setting, users won’t be able to start the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Report Site Problems</pc> dialog box from the Internet Explorer settings or the Tools menu.</target>
+				</segment>
+			</unit>
+			<unit id="250" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you disable or don’t configure this policy setting, users will be able to start the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Report Site Problems</pc> dialog box from the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Internet Explorer</pc> settings area or from the <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Tools</pc> menu.</source>
+					<target>If you disable or don’t configure this policy setting, users will be able to start the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Report Site Problems</pc> dialog box from the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Internet Explorer</pc> settings area or from the <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Tools</pc> menu.</target>
+				</segment>
+			</unit>
+			<unit id="251" translate="yes">
+				<segment state="initial">
+					<source>Allow only approved domains to use the TDC ActiveX control</source>
+					<target>Allow only approved domains to use the TDC ActiveX control</target>
+				</segment>
+			</unit>
+			<unit id="252" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Intranet Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Intranet Zone</target>
+				</segment>
+			</unit>
+			<unit id="253" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Intranet Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Intranet Zone</target>
+				</segment>
+			</unit>
+			<unit id="254" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Trusted Sites Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Trusted Sites Zone</target>
+				</segment>
+			</unit>
+			<unit id="255" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Trusted Sites Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Trusted Sites Zone</target>
+				</segment>
+			</unit>
+			<unit id="256" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Local Machine Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Local Machine Zone</target>
+				</segment>
+			</unit>
+			<unit id="257" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Local Machine Zone</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel\Security Page\Locked-Down Local Machine Zone</target>
+				</segment>
+			</unit>
+			<unit id="258" translate="yes">
+				<segment state="initial">
+					<source>IE11 in Windows 10</source>
+					<target>IE11 in Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="259" translate="yes">
+				<segment state="initial">
+					<source>This policy setting determines whether users can run the Tabular Data Control (TDC) ActiveX control, based on security zone.</source>
+					<target>This policy setting determines whether users can run the Tabular Data Control (TDC) ActiveX control, based on security zone.</target>
+				</segment>
+			</unit>
+			<unit id="260" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>By default, the TDC ActiveX Control is disabled in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Internet</pc> and <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Restricted Sites</pc> security zones.</source>
+					<target>By default, the TDC ActiveX Control is disabled in the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Internet</pc> and <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Restricted Sites</pc> security zones.</target>
+				</segment>
+			</unit>
+			<unit id="261" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, users won’t be able to run the TDC ActiveX control from all sites in the specified zone.</source>
+					<target>If you enable this policy setting, users won’t be able to run the TDC ActiveX control from all sites in the specified zone.</target>
+				</segment>
+			</unit>
+			<unit id="262" translate="yes">
+				<segment state="initial">
+					<source>If you disable this policy setting, users can run the TDC Active X control from all sites in the specified zone.</source>
+					<target>If you disable this policy setting, users can run the TDC Active X control from all sites in the specified zone.</target>
+				</segment>
+			</unit>
+			<unit id="263" translate="yes">
+				<segment state="initial">
+					<source>Turn on Site Discovery XML output</source>
+					<target>Turn on Site Discovery XML output</target>
+				</segment>
+			</unit>
+			<unit id="264" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer</target>
+				</segment>
+			</unit>
+			<unit id="265" translate="yes">
+				<segment state="initial">
+					<source>At least Internet Explorer 8</source>
+					<target>At least Internet Explorer 8</target>
+				</segment>
+			</unit>
+			<unit id="266" translate="yes">
+				<segment state="initial">
+					<source>This policy setting allows you to manage the XML output functionality of the Internet Explorer Site Discovery Toolkit.</source>
+					<target>This policy setting allows you to manage the XML output functionality of the Internet Explorer Site Discovery Toolkit.</target>
+				</segment>
+			</unit>
+			<unit id="267" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, the Internet Explorer Site Discovery Toolkit will log its collected data to an XML file, stored in your specified location.</source>
+					<target>If you enable this policy setting, the Internet Explorer Site Discovery Toolkit will log its collected data to an XML file, stored in your specified location.</target>
+				</segment>
+			</unit>
+			<unit id="268" translate="yes">
+				<segment state="initial">
+					<source>If you disable or don’t configure this setting, the Internet Explorer Site Discovery Toolkit won’t log its collected data to an XML file.</source>
+					<target>If you disable or don’t configure this setting, the Internet Explorer Site Discovery Toolkit won’t log its collected data to an XML file.</target>
+				</segment>
+			</unit>
+			<unit id="269" translate="yes">
+				<segment state="initial">
+					<source>Note:</source>
+					<target>Note:</target>
+				</segment>
+			</unit>
+			<unit id="270" translate="yes">
+				<segment state="initial">
+					<source>Enabling or disabling this setting won’t impact any other output methods available to the Internet Explorer Site Discovery Toolkit.</source>
+					<target>Enabling or disabling this setting won’t impact any other output methods available to the Internet Explorer Site Discovery Toolkit.</target>
+				</segment>
+			</unit>
+			<unit id="271" translate="yes">
+				<segment state="initial">
+					<source>Turn on Site Discovery WMI output</source>
+					<target>Turn on Site Discovery WMI output</target>
+				</segment>
+			</unit>
+			<unit id="272" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer</target>
+				</segment>
+			</unit>
+			<unit id="273" translate="yes">
+				<segment state="initial">
+					<source>At least Internet Explorer 8</source>
+					<target>At least Internet Explorer 8</target>
+				</segment>
+			</unit>
+			<unit id="274" translate="yes">
+				<segment state="initial">
+					<source>This policy setting allows you to manage the WMI output functionality of the Internet Explorer Site Discovery Toolkit.</source>
+					<target>This policy setting allows you to manage the WMI output functionality of the Internet Explorer Site Discovery Toolkit.</target>
+				</segment>
+			</unit>
+			<unit id="275" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, the Internet Explorer Site Discovery Toolkit will log its collected data to an WMI class, which can be aggregated by using a client-management solution, such as System Center Configuration Manager.</source>
+					<target>If you enable this policy setting, the Internet Explorer Site Discovery Toolkit will log its collected data to an WMI class, which can be aggregated by using a client-management solution, such as System Center Configuration Manager.</target>
+				</segment>
+			</unit>
+			<unit id="276" translate="yes">
+				<segment state="initial">
+					<source>If you disable or don’t configure this setting, the Internet Explorer Site Discovery Toolkit won’t log its collected data to an WMI class.</source>
+					<target>If you disable or don’t configure this setting, the Internet Explorer Site Discovery Toolkit won’t log its collected data to an WMI class.</target>
+				</segment>
+			</unit>
+			<unit id="277" translate="yes">
+				<segment state="initial">
+					<source>Note:</source>
+					<target>Note:</target>
+				</segment>
+			</unit>
+			<unit id="278" translate="yes">
+				<segment state="initial">
+					<source>Enabling or disabling this setting won’t impact any other output methods available to the Internet Explorer Site Discovery Toolkit.</source>
+					<target>Enabling or disabling this setting won’t impact any other output methods available to the Internet Explorer Site Discovery Toolkit.</target>
+				</segment>
+			</unit>
+			<unit id="279" translate="yes">
+				<segment state="initial">
+					<source>Limit Site Discovery output by Domain</source>
+					<target>Limit Site Discovery output by Domain</target>
+				</segment>
+			</unit>
+			<unit id="280" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer</target>
+				</segment>
+			</unit>
+			<unit id="281" translate="yes">
+				<segment state="initial">
+					<source>At least Internet Explorer 8</source>
+					<target>At least Internet Explorer 8</target>
+				</segment>
+			</unit>
+			<unit id="282" translate="yes">
+				<segment state="initial">
+					<source>This policy setting allows you to control which domains are included in the discovery function of the Internet Explorer Site Discovery Toolkit.</source>
+					<target>This policy setting allows you to control which domains are included in the discovery function of the Internet Explorer Site Discovery Toolkit.</target>
+				</segment>
+			</unit>
+			<unit id="283" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, the Internet Explorer Site Discovery Toolkit collects data from all sites in your specified domains, configured by adding one domain per line to the included text box.</source>
+					<target>If you enable this policy setting, the Internet Explorer Site Discovery Toolkit collects data from all sites in your specified domains, configured by adding one domain per line to the included text box.</target>
+				</segment>
+			</unit>
+			<unit id="284" translate="yes">
+				<segment state="initial">
+					<source>If you disable or don’t configure this setting, the Internet Explorer Site Discovery Toolkit collects data from all sites in all domains.</source>
+					<target>If you disable or don’t configure this setting, the Internet Explorer Site Discovery Toolkit collects data from all sites in all domains.</target>
+				</segment>
+			</unit>
+			<unit id="285" translate="yes">
+				<segment state="initial">
+					<source>Note:</source>
+					<target>Note:</target>
+				</segment>
+			</unit>
+			<unit id="286" translate="yes">
+				<segment state="initial">
+					<source>You can use this setting in conjunction with the other settings that control the Internet Explorer Site Discovery Toolkit.</source>
+					<target>You can use this setting in conjunction with the other settings that control the Internet Explorer Site Discovery Toolkit.</target>
+				</segment>
+			</unit>
+			<unit id="287" translate="yes">
+				<segment state="initial">
+					<source>Limit Site Discovery output by Zone</source>
+					<target>Limit Site Discovery output by Zone</target>
+				</segment>
+			</unit>
+			<unit id="288" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer</target>
+				</segment>
+			</unit>
+			<unit id="289" translate="yes">
+				<segment state="initial">
+					<source>At least Internet Explorer 8</source>
+					<target>At least Internet Explorer 8</target>
+				</segment>
+			</unit>
+			<unit id="290" translate="yes">
+				<segment state="initial">
+					<source>This policy setting allows you to control which zones are included in the discovery function of the Internet Explorer Site Discovery Toolkit.</source>
+					<target>This policy setting allows you to control which zones are included in the discovery function of the Internet Explorer Site Discovery Toolkit.</target>
+				</segment>
+			</unit>
+			<unit id="291" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, the Internet Explorer Site Discovery Toolkit collects data from all specified security zones.</source>
+					<target>If you enable this policy setting, the Internet Explorer Site Discovery Toolkit collects data from all specified security zones.</target>
+				</segment>
+			</unit>
+			<unit id="292" translate="yes">
+				<segment state="initial">
+					<source>If you disable or don’t configure this setting, the Internet Explorer Site Discovery Toolkit collects data from all sites in all security zones.</source>
+					<target>If you disable or don’t configure this setting, the Internet Explorer Site Discovery Toolkit collects data from all sites in all security zones.</target>
+				</segment>
+			</unit>
+			<unit id="293" translate="yes">
+				<segment state="initial">
+					<source>To specify which zones can collect data, you must include a binary number that represents your selected zones, based on this order:</source>
+					<target>To specify which zones can collect data, you must include a binary number that represents your selected zones, based on this order:</target>
+				</segment>
+			</unit>
+			<unit id="294" translate="yes">
+				<segment state="initial">
+					<source>0 – Restricted Sites zone</source>
+					<target>0 – Restricted Sites zone</target>
+				</segment>
+			</unit>
+			<unit id="295" translate="yes">
+				<segment state="initial">
+					<source>0 – Internet zone</source>
+					<target>0 – Internet zone</target>
+				</segment>
+			</unit>
+			<unit id="296" translate="yes">
+				<segment state="initial">
+					<source>0 – Trusted Sites zone</source>
+					<target>0 – Trusted Sites zone</target>
+				</segment>
+			</unit>
+			<unit id="297" translate="yes">
+				<segment state="initial">
+					<source>0 – Local Intranet zone</source>
+					<target>0 – Local Intranet zone</target>
+				</segment>
+			</unit>
+			<unit id="298" translate="yes">
+				<segment state="initial">
+					<source>0 – Local Machine zone</source>
+					<target>0 – Local Machine zone</target>
+				</segment>
+			</unit>
+			<unit id="299" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Example 1:</pc> Include only the Local Intranet zone (binary representation: 00010), based on:</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Example 1:</pc> Include only the Local Intranet zone (binary representation: 00010), based on:</target>
+				</segment>
+			</unit>
+			<unit id="300" translate="yes">
+				<segment state="initial">
+					<source>0 – Restricted Sites zone</source>
+					<target>0 – Restricted Sites zone</target>
+				</segment>
+			</unit>
+			<unit id="301" translate="yes">
+				<segment state="initial">
+					<source>0 – Internet zone</source>
+					<target>0 – Internet zone</target>
+				</segment>
+			</unit>
+			<unit id="302" translate="yes">
+				<segment state="initial">
+					<source>0 – Trusted Sites zone</source>
+					<target>0 – Trusted Sites zone</target>
+				</segment>
+			</unit>
+			<unit id="303" translate="yes">
+				<segment state="initial">
+					<source>1 – Local Intranet zone</source>
+					<target>1 – Local Intranet zone</target>
+				</segment>
+			</unit>
+			<unit id="304" translate="yes">
+				<segment state="initial">
+					<source>0 – Local Machine zone</source>
+					<target>0 – Local Machine zone</target>
+				</segment>
+			</unit>
+			<unit id="305" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Example 2:</pc> Include only the Restricted Sites, Trusted Sites, and Local Intranet zones (binary representation: 10110), based on:</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Example 2:</pc> Include only the Restricted Sites, Trusted Sites, and Local Intranet zones (binary representation: 10110), based on:</target>
+				</segment>
+			</unit>
+			<unit id="306" translate="yes">
+				<segment state="initial">
+					<source>1 – Restricted Sites zone</source>
+					<target>1 – Restricted Sites zone</target>
+				</segment>
+			</unit>
+			<unit id="307" translate="yes">
+				<segment state="initial">
+					<source>0 – Internet zone</source>
+					<target>0 – Internet zone</target>
+				</segment>
+			</unit>
+			<unit id="308" translate="yes">
+				<segment state="initial">
+					<source>1 – Trusted Sites zone</source>
+					<target>1 – Trusted Sites zone</target>
+				</segment>
+			</unit>
+			<unit id="309" translate="yes">
+				<segment state="initial">
+					<source>1 – Local Intranet zone</source>
+					<target>1 – Local Intranet zone</target>
+				</segment>
+			</unit>
+			<unit id="310" translate="yes">
+				<segment state="initial">
+					<source>1 – Local Machine zone</source>
+					<target>1 – Local Machine zone</target>
+				</segment>
+			</unit>
+			<unit id="311" translate="yes">
+				<segment state="initial">
+					<source>Note:</source>
+					<target>Note:</target>
+				</segment>
+			</unit>
+			<unit id="312" translate="yes">
+				<segment state="initial">
+					<source>You can use this setting in conjunction with the other settings that control the Internet Explorer Site Discovery Toolkit.</source>
+					<target>You can use this setting in conjunction with the other settings that control the Internet Explorer Site Discovery Toolkit.</target>
+				</segment>
+			</unit>
+			<unit id="313" translate="yes">
+				<segment state="initial">
+					<source>Allow SSL3 Fallback</source>
+					<target>Allow SSL3 Fallback</target>
+				</segment>
+			</unit>
+			<unit id="314" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Security Features</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Security Features</target>
+				</segment>
+			</unit>
+			<unit id="315" translate="yes">
+				<segment state="initial">
+					<source>Internet Explorer 11 on Windows 10</source>
+					<target>Internet Explorer 11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="316" translate="yes">
+				<segment state="initial">
+					<source>This policy setting allows you to stop websites from falling back to using Secure Socket Layer (SSL) 3.0 or lower, if Transport Layer Security (TLS) 1.0 or higher, fails.</source>
+					<target>This policy setting allows you to stop websites from falling back to using Secure Socket Layer (SSL) 3.0 or lower, if Transport Layer Security (TLS) 1.0 or higher, fails.</target>
+				</segment>
+			</unit>
+			<unit id="317" translate="yes">
+				<segment state="initial">
+					<source>This setting doesn’t affect which security protocols are enabled.</source>
+					<target>This setting doesn’t affect which security protocols are enabled.</target>
+				</segment>
+			</unit>
+			<unit id="318" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting and a website fails while using the TLS 1.0 or higher security protocols, Internet Explorer will try to fallback and use SSL 3.0 or lower security protocols.</source>
+					<target>If you enable this policy setting and a website fails while using the TLS 1.0 or higher security protocols, Internet Explorer will try to fallback and use SSL 3.0 or lower security protocols.</target>
+				</segment>
+			</unit>
+			<unit id="319" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you disable or don’t configure this setting, Internet Explorer uses the default system protocols.<pc dataRefEnd="id2" dataRefStart="id1" id="p1">Important:</pc></source>
+					<target>If you disable or don’t configure this setting, Internet Explorer uses the default system protocols.<pc dataRefEnd="id2" dataRefStart="id1" id="p1">Important:</pc></target>
+				</segment>
+			</unit>
+			<unit id="320" translate="yes">
+				<segment state="initial">
+					<source>By default, SSL 3.0 is disabled.</source>
+					<target>By default, SSL 3.0 is disabled.</target>
+				</segment>
+			</unit>
+			<unit id="321" translate="yes">
+				<segment state="initial">
+					<source>If you choose to enable SSL 3.0, we recommend that you disable or don't configure this setting to help mitigate potential man-in-the-middle attacks.</source>
+					<target>If you choose to enable SSL 3.0, we recommend that you disable or don't configure this setting to help mitigate potential man-in-the-middle attacks.</target>
+				</segment>
+			</unit>
+			<unit id="322" translate="yes">
+				<segment state="initial">
+					<source>Turn off automatic download of the ActiveX VersionList</source>
+					<target>Turn off automatic download of the ActiveX VersionList</target>
+				</segment>
+			</unit>
+			<unit id="323" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer\Security Features\Add-on Management</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer\Security Features\Add-on Management</target>
+				</segment>
+			</unit>
+			<unit id="324" translate="yes">
+				<segment state="initial">
+					<source>At least Windows Internet Explorer 8</source>
+					<target>At least Windows Internet Explorer 8</target>
+				</segment>
+			</unit>
+			<unit id="325" translate="yes">
+				<segment state="initial">
+					<source>This policy setting allows you to decide whether Internet Explorer automatically downloads updated versions of Microsoft's VersionList.XML file.</source>
+					<target>This policy setting allows you to decide whether Internet Explorer automatically downloads updated versions of Microsoft's VersionList.XML file.</target>
+				</segment>
+			</unit>
+			<unit id="326" translate="yes">
+				<segment state="initial">
+					<source>This file tells Internet Explorer whether to stop specific ActiveX controls from loading.</source>
+					<target>This file tells Internet Explorer whether to stop specific ActiveX controls from loading.</target>
+				</segment>
+			</unit>
+			<unit id="327" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, Internet Explorer stops automatically downloading updated versions of the VersionList.XML file.</source>
+					<target>If you enable this policy setting, Internet Explorer stops automatically downloading updated versions of the VersionList.XML file.</target>
+				</segment>
+			</unit>
+			<unit id="328" translate="yes">
+				<segment state="initial">
+					<source>If you disable or don’t configure this setting, Internet Explorer continues to download updated versions of the VersionList.XML file.</source>
+					<target>If you disable or don’t configure this setting, Internet Explorer continues to download updated versions of the VersionList.XML file.</target>
+				</segment>
+			</unit>
+			<unit id="329" translate="yes">
+				<segment state="initial">
+					<source>Important:</source>
+					<target>Important:</target>
+				</segment>
+			</unit>
+			<unit id="330" translate="yes">
+				<segment state="initial">
+					<source>Stopping this file from updating breaks the out-of-date ActiveX control blocking feature, potentially compromising the security of the device.</source>
+					<target>Stopping this file from updating breaks the out-of-date ActiveX control blocking feature, potentially compromising the security of the device.</target>
+				</segment>
+			</unit>
+			<unit id="331" translate="yes">
+				<segment state="initial">
+					<source>For more info, see the Out-of-Date ActiveX Control Blocking (https://technet.microsoft.com/en-us/itpro/internet-explorer/ie11-deploy-guide/out-of-date-activex-control-blocking) topic.</source>
+					<target>For more info, see the Out-of-Date ActiveX Control Blocking (https://technet.microsoft.com/en-us/itpro/internet-explorer/ie11-deploy-guide/out-of-date-activex-control-blocking) topic.</target>
+				</segment>
+			</unit>
+			<unit id="332" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Let users turn on and use Enterprise Mode from the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Tools</pc> menu</source>
+					<target>Let users turn on and use Enterprise Mode from the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Tools</pc> menu</target>
+				</segment>
+			</unit>
+			<unit id="333" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer</target>
+				</segment>
+			</unit>
+			<unit id="334" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10</source>
+					<target>IE11 on Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="335" translate="yes">
+				<segment state="initial">
+					<source>This policy setting lets you decide whether users can turn on Enterprise Mode for websites with compatibility issues.</source>
+					<target>This policy setting lets you decide whether users can turn on Enterprise Mode for websites with compatibility issues.</target>
+				</segment>
+			</unit>
+			<unit id="336" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Optionally, this policy also lets you specify where to get reports (through post messages) about the websites for which users turn on Enterprise Mode using the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Tools</pc> menu.</source>
+					<target>Optionally, this policy also lets you specify where to get reports (through post messages) about the websites for which users turn on Enterprise Mode using the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Tools</pc> menu.</target>
+				</segment>
+			</unit>
+			<unit id="337" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you enable this policy setting, users can see and use the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enterprise Mode</pc> option from the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Tools</pc> menu.</source>
+					<target>If you enable this policy setting, users can see and use the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enterprise Mode</pc> option from the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Tools</pc> menu.</target>
+				</segment>
+			</unit>
+			<unit id="338" translate="yes">
+				<segment state="initial">
+					<source>If you enable this setting, but don’t specify a report location, Enterprise Mode will still be available to your users, but you won’t get any reports.</source>
+					<target>If you enable this setting, but don’t specify a report location, Enterprise Mode will still be available to your users, but you won’t get any reports.</target>
+				</segment>
+			</unit>
+			<unit id="339" translate="yes">
+				<segment state="initial">
+					<source>If you disable or don’t configure this policy setting, the menu option won’t appear and users won’t be able to turn on Enterprise Mode locally.</source>
+					<target>If you disable or don’t configure this policy setting, the menu option won’t appear and users won’t be able to turn on Enterprise Mode locally.</target>
+				</segment>
+			</unit>
+			<unit id="340" translate="yes">
+				<segment state="initial">
+					<source>Use the Enterprise Mode IE website list</source>
+					<target>Use the Enterprise Mode IE website list</target>
+				</segment>
+			</unit>
+			<unit id="341" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer</target>
+				</segment>
+			</unit>
+			<unit id="342" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10, version 1511</source>
+					<target>IE11 on Windows 10, version 1511</target>
+				</segment>
+			</unit>
+			<unit id="343" translate="yes">
+				<segment state="initial">
+					<source>This policy setting lets you specify where to find the list of websites you want opened using Enterprise Mode, instead of Standard mode, because of compatibility issues.</source>
+					<target>This policy setting lets you specify where to find the list of websites you want opened using Enterprise Mode, instead of Standard mode, because of compatibility issues.</target>
+				</segment>
+			</unit>
+			<unit id="344" translate="yes">
+				<segment state="initial">
+					<source>Users can’t edit this list.</source>
+					<target>Users can’t edit this list.</target>
+				</segment>
+			</unit>
+			<unit id="345" translate="yes">
+				<originalData>
+					<data id="id1">`HKEY_CURRENT_USER or HKEY_LOCAL_MACHINE`</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you enable this policy setting, Internet Explorer downloads the Enterprise Mode website list from the <ph dataRef="id1" id="ph1" />\Software\Policies\Microsoft\Internet Explorer\Main\EnterpriseMode hive, opening all included websites using Enterprise Mode.</source>
+					<target>If you enable this policy setting, Internet Explorer downloads the Enterprise Mode website list from the <ph dataRef="id1" id="ph1" />\Software\Policies\Microsoft\Internet Explorer\Main\EnterpriseMode hive, opening all included websites using Enterprise Mode.</target>
+				</segment>
+			</unit>
+			<unit id="346" translate="yes">
+				<originalData>
+					<data id="id1">`(https://)`</data>
+				</originalData>
+				<segment state="initial">
+					<source>We recommend storing and downloading your list from a secure web server <ph dataRef="id1" id="ph1" />, to help protect against data tampering.</source>
+					<target>We recommend storing and downloading your list from a secure web server <ph dataRef="id1" id="ph1" />, to help protect against data tampering.</target>
+				</segment>
+			</unit>
+			<unit id="347" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you disable or don’t configure this policy setting, Internet Explorer opens all websites using <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Standard</pc> mode.</source>
+					<target>If you disable or don’t configure this policy setting, Internet Explorer opens all websites using <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Standard</pc> mode.</target>
+				</segment>
+			</unit>
+			<unit id="348" translate="yes">
+				<segment state="initial">
+					<source>Send all sites not included in the Enterprise Mode Site List to Microsoft Edge</source>
+					<target>Send all sites not included in the Enterprise Mode Site List to Microsoft Edge</target>
+				</segment>
+			</unit>
+			<unit id="349" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer</target>
+				</segment>
+			</unit>
+			<unit id="350" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10, version 1607</source>
+					<target>IE11 on Windows 10, version 1607</target>
+				</segment>
+			</unit>
+			<unit id="351" translate="yes">
+				<segment state="initial">
+					<source>This policy setting lets you decide whether to open all sites that aren’t specified to open in IE11 by the Enterprise Mode site list, to open in Microsoft Edge.</source>
+					<target>This policy setting lets you decide whether to open all sites that aren’t specified to open in IE11 by the Enterprise Mode site list, to open in Microsoft Edge.</target>
+				</segment>
+			</unit>
+			<unit id="352" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, you must also enable the Administrative Templates\Windows Components\Internet Explorer\Use the Enterprise Mode IE website list policy setting and you must include at least one site in the Enterprise Mode site list.</source>
+					<target>If you enable this policy setting, you must also enable the Administrative Templates\Windows Components\Internet Explorer\Use the Enterprise Mode IE website list policy setting and you must include at least one site in the Enterprise Mode site list.</target>
+				</segment>
+			</unit>
+			<unit id="353" translate="yes">
+				<segment state="initial">
+					<source>If you disable or don't configure this policy setting, all sites will open based on the currently active browser.</source>
+					<target>If you disable or don't configure this policy setting, all sites will open based on the currently active browser.</target>
+				</segment>
+			</unit>
+			<unit id="354" translate="yes">
+				<segment state="initial">
+					<source>Note:</source>
+					<target>Note:</target>
+				</segment>
+			</unit>
+			<unit id="355" translate="yes">
+				<segment state="initial">
+					<source>If you’ve also enabled the Administrative Templates\Windows Components\Microsoft Edge\Send all intranet sites to Internet Explorer 11 policy setting, then all intranet sites will continue to open in Internet Explorer 11.</source>
+					<target>If you’ve also enabled the Administrative Templates\Windows Components\Microsoft Edge\Send all intranet sites to Internet Explorer 11 policy setting, then all intranet sites will continue to open in Internet Explorer 11.</target>
+				</segment>
+			</unit>
+			<unit id="356" translate="yes">
+				<segment state="initial">
+					<source>Show message when opening sites in Microsoft Edge using Enterprise Mode</source>
+					<target>Show message when opening sites in Microsoft Edge using Enterprise Mode</target>
+				</segment>
+			</unit>
+			<unit id="357" translate="yes">
+				<segment state="initial">
+					<source>Administrative Templates\Windows Components\Internet Explorer</source>
+					<target>Administrative Templates\Windows Components\Internet Explorer</target>
+				</segment>
+			</unit>
+			<unit id="358" translate="yes">
+				<segment state="initial">
+					<source>IE11 on Windows 10, version 1607</source>
+					<target>IE11 on Windows 10, version 1607</target>
+				</segment>
+			</unit>
+			<unit id="359" translate="yes">
+				<segment state="initial">
+					<source>This policy setting lets you decide whether employees see an additional page in Internet Explorer 11, stating that a site has been opened using Microsoft Edge with Enterprise Mode.</source>
+					<target>This policy setting lets you decide whether employees see an additional page in Internet Explorer 11, stating that a site has been opened using Microsoft Edge with Enterprise Mode.</target>
+				</segment>
+			</unit>
+			<unit id="360" translate="yes">
+				<segment state="initial">
+					<source>If you enable this policy setting, employees see an additional page in Internet Explorer 11, stating that a site has been opened using Microsoft Edge with Enterprise Mode.</source>
+					<target>If you enable this policy setting, employees see an additional page in Internet Explorer 11, stating that a site has been opened using Microsoft Edge with Enterprise Mode.</target>
+				</segment>
+			</unit>
+			<unit id="361" translate="yes">
+				<segment state="initial">
+					<source>If you disable or don't configure this policy setting, the default app behavior occurs and no additional page appears.</source>
+					<target>If you disable or don't configure this policy setting, the default app behavior occurs and no additional page appears.</target>
+				</segment>
+			</unit>
+			<unit id="362" translate="yes">
+				<segment state="initial">
+					<source>Removed Group Policy settings</source>
+					<target>Removed Group Policy settings</target>
+				</segment>
+			</unit>
+			<unit id="363" translate="yes">
+				<segment state="initial">
+					<source>IE11 no longer supports these Group Policy settings:</source>
+					<target>IE11 no longer supports these Group Policy settings:</target>
+				</segment>
+			</unit>
+			<unit id="364" translate="yes">
+				<segment state="initial">
+					<source>Turn on Internet Explorer 7 Standards Mode</source>
+					<target>Turn on Internet Explorer 7 Standards Mode</target>
+				</segment>
+			</unit>
+			<unit id="365" translate="yes">
+				<segment state="initial">
+					<source>Turn off Compatibility View button</source>
+					<target>Turn off Compatibility View button</target>
+				</segment>
+			</unit>
+			<unit id="366" translate="yes">
+				<segment state="initial">
+					<source>Turn off Quick Tabs functionality</source>
+					<target>Turn off Quick Tabs functionality</target>
+				</segment>
+			</unit>
+			<unit id="367" translate="yes">
+				<segment state="initial">
+					<source>Turn off the quick pick menu</source>
+					<target>Turn off the quick pick menu</target>
+				</segment>
+			</unit>
+			<unit id="368" translate="yes">
+				<segment state="initial">
+					<source>Use large icons for command buttons</source>
+					<target>Use large icons for command buttons</target>
+				</segment>
+			</unit>
+			<unit id="369" translate="yes">
+				<segment state="initial">
+					<source>Viewing your policy settings</source>
+					<target>Viewing your policy settings</target>
+				</segment>
+			</unit>
+			<unit id="370" translate="yes">
+				<segment state="initial">
+					<source>After you've finished updating and deploying your Group Policy, you can use the Resultant Set of Policy (RSoP) snap-in to view your settings.</source>
+					<target>After you've finished updating and deploying your Group Policy, you can use the Resultant Set of Policy (RSoP) snap-in to view your settings.</target>
+				</segment>
+			</unit>
+			<unit id="371" translate="yes">
+				<segment state="initial">
+					<source>To use the RSoP snap-in</source>
+					<target>To use the RSoP snap-in</target>
+				</segment>
+			</unit>
+			<unit id="372" translate="yes">
+				<segment state="initial">
+					<source>Open and run the Resultant Set of Policy (RSoP) wizard, specifying the information you want to see.</source>
+					<target>Open and run the Resultant Set of Policy (RSoP) wizard, specifying the information you want to see.</target>
+				</segment>
+			</unit>
+			<unit id="373" translate="yes">
+				<segment state="initial">
+					<source>Open your wizard results in the Group Policy Management Console (GPMC).</source>
+					<target>Open your wizard results in the Group Policy Management Console (GPMC).</target>
+				</segment>
+			</unit>
+			<unit id="374" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](http://go.microsoft.com/fwlink/p/?LinkId=395201)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For complete instructions about how to add, open, and use RSoP, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Use the RSoP Snap-in</pc></source>
+					<target>For complete instructions about how to add, open, and use RSoP, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Use the RSoP Snap-in</pc></target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

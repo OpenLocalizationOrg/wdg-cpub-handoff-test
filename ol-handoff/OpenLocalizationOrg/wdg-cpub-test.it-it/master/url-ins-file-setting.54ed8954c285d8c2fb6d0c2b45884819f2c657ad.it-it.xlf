@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="it-it" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">a2ebe24edf579c3678e3e784e7bfc56af49c81ed</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-ieak\url-ins-file-setting.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">f0be23d8d3e0d4d244a278dc5a6c707001149c72</mda:meta><mda:meta type="olxliffhash">badba89a7a3f3036a46f43405e9915cbbb0ea015</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Use the \[URL\] .INS file setting to decide whether to use an auto-configured proxy server.</source>
+					<target>Use the \[URL\] .INS file setting to decide whether to use an auto-configured proxy server.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Use the URL .INS file to use an auto-configured proxy server (Internet Explorer Administration Kit 11 for IT Pros)</source>
+					<target>Use the URL .INS file to use an auto-configured proxy server (Internet Explorer Administration Kit 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Use the URL .INS file to use an auto-configured proxy server</source>
+					<target>Use the URL .INS file to use an auto-configured proxy server</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Info about whether to use an auto-configured proxy server.</source>
+					<target>Info about whether to use an auto-configured proxy server.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>If yes, this also includes the URLs to the pages that appear when your employees first connect to that server.</source>
+					<target>If yes, this also includes the URLs to the pages that appear when your employees first connect to that server.</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Name</source>
+					<target>Name</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Value</source>
+					<target>Value</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>AutoConfig</source>
+					<target>AutoConfig</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Don’t automatically configure the browser.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Don’t automatically configure the browser.</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Automatically configure the browser.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Automatically configure the browser.</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>Determines whether to automatically configure the customized browser on your employee’s device.</source>
+					<target>Determines whether to automatically configure the customized browser on your employee’s device.</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>AutoConfigJSURL</source>
+					<target>AutoConfigJSURL</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>The URL for the proxy auto-config file (.js or .jvs)</source>
+					<target>The URL for the proxy auto-config file (.js or .jvs)</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>AutoConfigTime</source>
+					<target>AutoConfigTime</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>integer</source>
+					<target>integer</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>Automatically configures the browser on your employee’s device after its run for a specified length of time.</source>
+					<target>Automatically configures the browser on your employee’s device after its run for a specified length of time.</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>AutoConfigURL</source>
+					<target>AutoConfigURL</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>The URL for the proxy auto-config (.pac) file.</source>
+					<target>The URL for the proxy auto-config (.pac) file.</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>FirstHomePage</source>
+					<target>FirstHomePage</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>The page (URL) that appears the first time the custom browser is opened on the employee’s device.</source>
+					<target>The page (URL) that appears the first time the custom browser is opened on the employee’s device.</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>Help_Page</source>
+					<target>Help_Page</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>The URL to your internal technical support site.</source>
+					<target>The URL to your internal technical support site.</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>Home_Page</source>
+					<target>Home_Page</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>The URL to your default <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Home</pc> page.</source>
+					<target>The URL to your default <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Home</pc> page.</target>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<segment state="initial">
+					<source>NoWelcome</source>
+					<target>NoWelcome</target>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Display the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Welcome</pc> page.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Display the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Welcome</pc> page.</target>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Don’t display the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Welcome</pc> page.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Don’t display the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Welcome</pc> page.</target>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Determines whether to show the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Welcome</pc> page the first time the browser’s used on an employee’s device.</source>
+					<target>Determines whether to show the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Welcome</pc> page the first time the browser’s used on an employee’s device.</target>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>Quick_Link_1</source>
+					<target>Quick_Link_1</target>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>The URL to your first Quick Link.</source>
+					<target>The URL to your first Quick Link.</target>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<segment state="initial">
+					<source>Quick_Link_1_Name</source>
+					<target>Quick_Link_1_Name</target>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<segment state="initial">
+					<source>The name of the site associated with Quick_Link_1.</source>
+					<target>The name of the site associated with Quick_Link_1.</target>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<segment state="initial">
+					<source>Quick_Link_2</source>
+					<target>Quick_Link_2</target>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<segment state="initial">
+					<source>The URL to your second Quick Link.</source>
+					<target>The URL to your second Quick Link.</target>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>Quick_Link_2_Name</source>
+					<target>Quick_Link_2_Name</target>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>The name of the site associated with Quick_Link_2.</source>
+					<target>The name of the site associated with Quick_Link_2.</target>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<segment state="initial">
+					<source>Quick_Link_X</source>
+					<target>Quick_Link_X</target>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<segment state="initial">
+					<source>The URL to another Quick Link.</source>
+					<target>The URL to another Quick Link.</target>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<segment state="initial">
+					<source>Quick_Link_X_Icon</source>
+					<target>Quick_Link_X_Icon</target>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<segment state="initial">
+					<source>A Quick Links icon (.ico) file.</source>
+					<target>A Quick Links icon (.ico) file.</target>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<segment state="initial">
+					<source>Quick_Link_X_Name</source>
+					<target>Quick_Link_X_Name</target>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<segment state="initial">
+					<source>The name of the site associated with another Quick Link.</source>
+					<target>The name of the site associated with another Quick Link.</target>
+				</segment>
+			</unit>
+			<unit id="144" translate="yes">
+				<segment state="initial">
+					<source>Quick_Link_X_Offline</source>
+					<target>Quick_Link_X_Offline</target>
+				</segment>
+			</unit>
+			<unit id="145" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Don’t make the Quick Links available offline.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Don’t make the Quick Links available offline.</target>
+				</segment>
+			</unit>
+			<unit id="146" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Make the Quick Links available offline.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Make the Quick Links available offline.</target>
+				</segment>
+			</unit>
+			<unit id="147" translate="yes">
+				<segment state="initial">
+					<source>Determines whether to make the Quick Links available for offline browsing.</source>
+					<target>Determines whether to make the Quick Links available for offline browsing.</target>
+				</segment>
+			</unit>
+			<unit id="148" translate="yes">
+				<segment state="initial">
+					<source>Search_Page</source>
+					<target>Search_Page</target>
+				</segment>
+			</unit>
+			<unit id="149" translate="yes">
+				<segment state="initial">
+					<source>The URL to the default search page.</source>
+					<target>The URL to the default search page.</target>
+				</segment>
+			</unit>
+			<unit id="150" translate="yes">
+				<segment state="initial">
+					<source>UseLocalIns</source>
+					<target>UseLocalIns</target>
+				</segment>
+			</unit>
+			<unit id="151" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Don’t use a local .ins file.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Don’t use a local .ins file.</target>
+				</segment>
+			</unit>
+			<unit id="152" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Use a local .ins file.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Use a local .ins file.</target>
+				</segment>
+			</unit>
+			<unit id="153" translate="yes">
+				<segment state="initial">
+					<source>Determines whether to use a local Internet Settings (.ins) file</source>
+					<target>Determines whether to use a local Internet Settings (.ins) file</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

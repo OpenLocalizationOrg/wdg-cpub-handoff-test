@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="it-it" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">f671ddd3aef40f5b36cd400b14b59a09bcfe8cad</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\using-enterprise-mode.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">d5a26003b2dc8f323f154851e217eaaa3f5864f5</mda:meta><mda:meta type="olxliffhash">24a5e79dcb0a7c50b10428e998a5fb470b957964</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Use this section to learn about how to turn on and use IE7 Enterprise Mode or IE8 Enterprise Mode.</source>
+					<target>Use this section to learn about how to turn on and use IE7 Enterprise Mode or IE8 Enterprise Mode.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Using IE7 Enterprise Mode or IE8 Enterprise Mode (Internet Explorer 11 for IT Pros)</source>
+					<target>Using IE7 Enterprise Mode or IE8 Enterprise Mode (Internet Explorer 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Using IE7 Enterprise Mode or IE8 Enterprise Mode</source>
+					<target>Using IE7 Enterprise Mode or IE8 Enterprise Mode</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Applies to:</source>
+					<target>Applies to:</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Windows 10</source>
+					<target>Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Windows 8.1</source>
+					<target>Windows 8.1</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Windows 7</source>
+					<target>Windows 7</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Windows Server 2012 R2</source>
+					<target>Windows Server 2012 R2</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>Windows Server 2008 R2 with Service Pack 1 (SP1)</source>
+					<target>Windows Server 2008 R2 with Service Pack 1 (SP1)</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Enterprise Mode gives you a way for your legacy websites and apps to run using emulated versions of Windows Internet Explorer 7 or Windows Internet Explorer 8, while your new sites and apps run using Internet Explorer 11, including modern standards and features.</source>
+					<target>Enterprise Mode gives you a way for your legacy websites and apps to run using emulated versions of Windows Internet Explorer 7 or Windows Internet Explorer 8, while your new sites and apps run using Internet Explorer 11, including modern standards and features.</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Although it’s called IE7 Enterprise Mode, it actually turns on Enterprise Mode along with Internet Explorer 7 or Microsoft Internet Explorer 5 Compatibility View.</source>
+					<target>Although it’s called IE7 Enterprise Mode, it actually turns on Enterprise Mode along with Internet Explorer 7 or Microsoft Internet Explorer 5 Compatibility View.</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<originalData>
+					<data id="id1">`DOCTYPE`</data>
+				</originalData>
+				<segment state="initial">
+					<source>Compatibility View chooses which document mode to use based on whether there’s a <ph dataRef="id1" id="ph1" /> tag in your code:</source>
+					<target>Compatibility View chooses which document mode to use based on whether there’s a <ph dataRef="id1" id="ph1" /> tag in your code:</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>DOCTYPE tag found.</source>
+					<target>DOCTYPE tag found.</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>Webpages render using the Internet Explorer 7 document mode.</source>
+					<target>Webpages render using the Internet Explorer 7 document mode.</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>No DOCTYPE tag found.</source>
+					<target>No DOCTYPE tag found.</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>Webpages render using the Internet Explorer 5 document mode.</source>
+					<target>Webpages render using the Internet Explorer 5 document mode.</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>Important</source>
+					<target>Important</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Because we’ve added the IE7 Enterprise Mode option, we’ve had to rename the original functionality of Enterprise Mode to be IE8 Enterprise Mode.</source>
+					<target>Because we’ve added the IE7 Enterprise Mode option, we’ve had to rename the original functionality of Enterprise Mode to be IE8 Enterprise Mode.</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>We’ve also replaced Edge Mode with IE11 Document Mode, so you can explicitly use IE11 on Windows 10.</source>
+					<target>We’ve also replaced Edge Mode with IE11 Document Mode, so you can explicitly use IE11 on Windows 10.</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>Turning on and using IE7 Enterprise Mode or IE8 Enterprise Mode</source>
+					<target>Turning on and using IE7 Enterprise Mode or IE8 Enterprise Mode</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>For instructions about how to add IE7 Enterprise Mode or IE8 Enterprise Mode to your webpages and apps, see:</source>
+					<target>For instructions about how to add IE7 Enterprise Mode or IE8 Enterprise Mode to your webpages and apps, see:</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>Add single sites to the Enterprise Mode site list using the Enterprise Mode Site List Manager (schema v.2)</source>
+					<target>Add single sites to the Enterprise Mode site list using the Enterprise Mode Site List Manager (schema v.2)</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>Add single sites to the Enterprise Mode site list using the Enterprise Mode Site List Manager (schema v.1)</source>
+					<target>Add single sites to the Enterprise Mode site list using the Enterprise Mode Site List Manager (schema v.1)</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>Add multiple sites to the Enterprise Mode site list using a file and the Enterprise Mode Site List Manager (schema v.2)</source>
+					<target>Add multiple sites to the Enterprise Mode site list using a file and the Enterprise Mode Site List Manager (schema v.2)</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>Add multiple sites to the Enterprise Mode site list using a file and the Enterprise Mode Site List Manager (schema v.1)</source>
+					<target>Add multiple sites to the Enterprise Mode site list using a file and the Enterprise Mode Site List Manager (schema v.1)</target>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](fix-compat-issues-with-doc-modes-and-enterprise-mode-site-list.md)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For instructions and more info about how to fix your compatibility issues using Enterprise Mode, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Fix web compatibility issues using document modes and the Enterprise Mode site list</pc>.</source>
+					<target>For instructions and more info about how to fix your compatibility issues using Enterprise Mode, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Fix web compatibility issues using document modes and the Enterprise Mode site list</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>Related topics</source>
+					<target>Related topics</target>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>Download the Enterprise Mode Site List Manager (schema v.2)</source>
+					<target>Download the Enterprise Mode Site List Manager (schema v.2)</target>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>Download the Enterprise Mode Site List Manager (schema v.1)</source>
+					<target>Download the Enterprise Mode Site List Manager (schema v.1)</target>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>Use the Enterprise Mode Site List Manager</source>
+					<target>Use the Enterprise Mode Site List Manager</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>
