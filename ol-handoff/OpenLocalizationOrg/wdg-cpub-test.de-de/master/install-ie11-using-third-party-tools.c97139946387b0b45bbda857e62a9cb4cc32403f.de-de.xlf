@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="de-de" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">cd4c865ebefc39dc2f68d8d03a83a13036b9abb8</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\install-ie11-using-third-party-tools.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">31bafbda137f3f2a52b754cc35406fd8e0e06d3d</mda:meta><mda:meta type="olxliffhash">88cbfd9fb10eef66a9b7ae85f3df6347cf2e8b39</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>How to install the Internet Explorer 11 update using third-party tools and command-line options.</source>
+					<target>How to install the Internet Explorer 11 update using third-party tools and command-line options.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Install Internet Explorer 11 (IE11) using third-party tools (Internet Explorer 11 for IT Pros)</source>
+					<target>Install Internet Explorer 11 (IE11) using third-party tools (Internet Explorer 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Install Internet Explorer 11 (IE11) using third-party tools</source>
+					<target>Install Internet Explorer 11 (IE11) using third-party tools</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>You can install Internet Explorer 11 (IE11) using third-party electronic software distribution (ESD) systems and these command-line options:</source>
+					<target>You can install Internet Explorer 11 (IE11) using third-party electronic software distribution (ESD) systems and these command-line options:</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Setup Modes</source>
+					<target>Setup Modes</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Command-line options</source>
+					<target>Command-line options</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Installs without customer involvement.</source>
+					<target>Installs without customer involvement.</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>Installs without customer involvement and without showing the UI.</source>
+					<target>Installs without customer involvement and without showing the UI.</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Setup Options</source>
+					<target>Setup Options</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Command-line options</source>
+					<target>Command-line options</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>Installs without checking for updates.</source>
+					<target>Installs without checking for updates.</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>Important</source>
+					<target>Important</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>If you don't use this option, you'll need an Internet connection to finish your installation.</source>
+					<target>If you don't use this option, you'll need an Internet connection to finish your installation.</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>Installs without making IE11 the default web browser.</source>
+					<target>Installs without making IE11 the default web browser.</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>Automatically closes running programs.</source>
+					<target>Automatically closes running programs.</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Restart Options</source>
+					<target>Restart Options</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>Command-line options</source>
+					<target>Command-line options</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>Installs without restarting the computer.</source>
+					<target>Installs without restarting the computer.</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>Installs and restarts after installation.</source>
+					<target>Installs and restarts after installation.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

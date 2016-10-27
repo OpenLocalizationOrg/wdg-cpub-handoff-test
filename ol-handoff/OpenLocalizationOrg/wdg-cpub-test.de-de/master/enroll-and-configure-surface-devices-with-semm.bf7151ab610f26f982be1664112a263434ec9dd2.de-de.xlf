@@ -1,0 +1,842 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="de-de" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">76f5af3393fed2e3b89222f685a79c718704e593</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\yokita\surface\enroll-and-configure-surface-devices-with-semm.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">82a924102e6fd497a92af70f27cb2dbbd96e7b98</mda:meta><mda:meta type="olxliffhash">02eac360ca17abe2735b180a56e84c69385b8ef3</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Enroll and configure Surface devices with SEMM (Surface)</source>
+					<target>Enroll and configure Surface devices with SEMM (Surface)</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Learn how to create a Surface UEFI configuration package to control the settings of Surface UEFI, as well as enroll a Surface device in SEMM.</source>
+					<target>Learn how to create a Surface UEFI configuration package to control the settings of Surface UEFI, as well as enroll a Surface device in SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>surface enterprise management</source>
+					<target>surface enterprise management</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Enroll and configure Surface devices with SEMM</source>
+					<target>Enroll and configure Surface devices with SEMM</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>With Microsoft Surface Enterprise Management Mode (SEMM), you can securely configure the settings of Surface UEFI on a Surface device and manage those settings on Surface devices in your organization.</source>
+					<target>With Microsoft Surface Enterprise Management Mode (SEMM), you can securely configure the settings of Surface UEFI on a Surface device and manage those settings on Surface devices in your organization.</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<originalData>
+					<data id="id1">*</data>
+					<data id="id2">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>When a Surface device is managed by SEMM, that device is considered to be <pc dataRefEnd="id2" dataRefStart="id1" id="p1">enrolled</pc> (sometimes referred to as activated).</source>
+					<target>When a Surface device is managed by SEMM, that device is considered to be <pc dataRefEnd="id2" dataRefStart="id1" id="p1">enrolled</pc> (sometimes referred to as activated).</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>This article shows you how to create a Surface UEFI configuration package that will not only control the settings of Surface UEFI, but will also enroll a Surface device in SEMM.</source>
+					<target>This article shows you how to create a Surface UEFI configuration package that will not only control the settings of Surface UEFI, but will also enroll a Surface device in SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://technet.microsoft.com/en-us/itpro/surface/surface-enterprise-management-mode)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For a more high-level overview of SEMM, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Surface Enterprise Management Mode</pc>.</source>
+					<target>For a more high-level overview of SEMM, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Surface Enterprise Management Mode</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>Download and install Microsoft Surface UEFI Configurator</source>
+					<target>Download and install Microsoft Surface UEFI Configurator</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>The tool used to create SEMM packages is Microsoft Surface UEFI Configurator.</source>
+					<target>The tool used to create SEMM packages is Microsoft Surface UEFI Configurator.</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://www.microsoft.com/en-us/download/details.aspx?id=46703)</data>
+				</originalData>
+				<segment state="initial">
+					<source>You can download Microsoft Surface UEFI Configurator from the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface Tools for IT</pc> page in the Microsoft Download Center.</source>
+					<target>You can download Microsoft Surface UEFI Configurator from the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface Tools for IT</pc> page in the Microsoft Download Center.</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>Run the Microsoft Surface UEFI Configurator Windows Installer (.msi) file to start the installation of the tool.</source>
+					<target>Run the Microsoft Surface UEFI Configurator Windows Installer (.msi) file to start the installation of the tool.</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>When the installer completes, find Microsoft Surface UEFI Configurator in the All Apps section of your Start menu.</source>
+					<target>When the installer completes, find Microsoft Surface UEFI Configurator in the All Apps section of your Start menu.</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&amp;nbsp;&amp;nbsp;</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note</pc>:<ph dataRef="id3" id="ph1" />Microsoft Surface UEFI Configurator is supported only on Windows 10.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note</pc>:<ph dataRef="id3" id="ph1" />Microsoft Surface UEFI Configurator is supported only on Windows 10.</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>Create a Surface UEFI configuration package</source>
+					<target>Create a Surface UEFI configuration package</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>The Surface UEFI configuration package performs both the role of applying a new configuration of Surface UEFI settings to a Surface device managed with SEMM and the role of enrolling Surface devices in SEMM.</source>
+					<target>The Surface UEFI configuration package performs both the role of applying a new configuration of Surface UEFI settings to a Surface device managed with SEMM and the role of enrolling Surface devices in SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>The creation of a configuration package requires you to have a signing certificate to be used with SEMM to secure the configuration of UEFI settings on each Surface device.</source>
+					<target>The creation of a configuration package requires you to have a signing certificate to be used with SEMM to secure the configuration of UEFI settings on each Surface device.</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://technet.microsoft.com/en-us/itpro/surface/surface-enterprise-management-mode)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more information about the requirements for the SEMM certificate, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Surface Enterprise Management Mode</pc>.</source>
+					<target>For more information about the requirements for the SEMM certificate, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Surface Enterprise Management Mode</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>To create a Surface UEFI configuration package, follow these steps:</source>
+					<target>To create a Surface UEFI configuration package, follow these steps:</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>Open Microsoft Surface UEFI Configurator from the Start menu.</source>
+					<target>Open Microsoft Surface UEFI Configurator from the Start menu.</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Start</pc>.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Start</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Configuration Package</pc>, as shown in Figure 1.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Configuration Package</pc>, as shown in Figure 1.</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>Create a package for SEMM enrollment</source>
+					<target>Create a package for SEMM enrollment</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>Figure 1.</source>
+					<target>Figure 1.</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>Select Configuration Package to create a package for SEMM enrollment and configuration</source>
+					<target>Select Configuration Package to create a package for SEMM enrollment and configuration</target>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Certificate Protection</pc> to add your exported certificate file with private key (.pfx), as shown in Figure 2.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Certificate Protection</pc> to add your exported certificate file with private key (.pfx), as shown in Figure 2.</target>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Browse to the location of your certificate file, select the file, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</source>
+					<target>Browse to the location of your certificate file, select the file, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>Add the SEM certificate and Surface UEFI password to configuration package</source>
+					<target>Add the SEM certificate and Surface UEFI password to configuration package</target>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>Figure 2.</source>
+					<target>Figure 2.</target>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>Add the SEMM certificate and Surface UEFI password to a Surface UEFI configuration package</source>
+					<target>Add the SEMM certificate and Surface UEFI password to a Surface UEFI configuration package</target>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>When you are prompted to confirm the certificate password, enter and confirm the password for your certificate file, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</source>
+					<target>When you are prompted to confirm the certificate password, enter and confirm the password for your certificate file, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Password Protection</pc> to add a password to Surface UEFI.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Password Protection</pc> to add a password to Surface UEFI.</target>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<segment state="initial">
+					<source>This password will be required whenever you boot to UEFI.</source>
+					<target>This password will be required whenever you boot to UEFI.</target>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If this password is not entered, only the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">PC information</pc>, <pc dataRefEnd="id4" dataRefStart="id3" id="p2">About</pc>, <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Enterprise management</pc>, and <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Exit</pc> pages will be displayed.</source>
+					<target>If this password is not entered, only the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">PC information</pc>, <pc dataRefEnd="id4" dataRefStart="id3" id="p2">About</pc>, <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Enterprise management</pc>, and <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Exit</pc> pages will be displayed.</target>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<segment state="initial">
+					<source>This step is optional.</source>
+					<target>This step is optional.</target>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>When you are prompted, enter and confirm your chosen password for Surface UEFI, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</source>
+					<target>When you are prompted, enter and confirm your chosen password for Surface UEFI, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>If you want to clear an existing Surface UEFI password, leave the password field blank.</source>
+					<target>If you want to clear an existing Surface UEFI password, leave the password field blank.</target>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you do not want the Surface UEFI package to apply to a particular device, on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Choose which Surface type you want to target</pc> page, click the slider beneath the corresponding Surface Book or Surface Pro 4 image so that it is in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Off</pc> position.</source>
+					<target>If you do not want the Surface UEFI package to apply to a particular device, on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Choose which Surface type you want to target</pc> page, click the slider beneath the corresponding Surface Book or Surface Pro 4 image so that it is in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Off</pc> position.</target>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<segment state="initial">
+					<source>(As shown in Figure 3.)</source>
+					<target>(As shown in Figure 3.)</target>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<segment state="initial">
+					<source>Choose devices for package compatibility</source>
+					<target>Choose devices for package compatibility</target>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<segment state="initial">
+					<source>Figure 3.</source>
+					<target>Figure 3.</target>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<segment state="initial">
+					<source>Choose the devices for package compatibility</source>
+					<target>Choose the devices for package compatibility</target>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc>.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="144" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you want to deactivate a component on managed Surface devices, on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Choose which components you want to activate or deactivate</pc> page, click the slider next to any device or group of devices you want to deactivate so that the slider is in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Off</pc> position.</source>
+					<target>If you want to deactivate a component on managed Surface devices, on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Choose which components you want to activate or deactivate</pc> page, click the slider next to any device or group of devices you want to deactivate so that the slider is in the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Off</pc> position.</target>
+				</segment>
+			</unit>
+			<unit id="145" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>(Shown in Figure 4.) The default configuration for each device is <pc dataRefEnd="id2" dataRefStart="id1" id="p1">On</pc>.</source>
+					<target>(Shown in Figure 4.) The default configuration for each device is <pc dataRefEnd="id2" dataRefStart="id1" id="p1">On</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="146" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Reset</pc> button if you want to return all sliders to the default position.</source>
+					<target>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Reset</pc> button if you want to return all sliders to the default position.</target>
+				</segment>
+			</unit>
+			<unit id="147" translate="yes">
+				<segment state="initial">
+					<source>Disable or enable Surface components</source>
+					<target>Disable or enable Surface components</target>
+				</segment>
+			</unit>
+			<unit id="148" translate="yes">
+				<segment state="initial">
+					<source>Figure 4.</source>
+					<target>Figure 4.</target>
+				</segment>
+			</unit>
+			<unit id="149" translate="yes">
+				<segment state="initial">
+					<source>Disable or enable individual Surface components</source>
+					<target>Disable or enable individual Surface components</target>
+				</segment>
+			</unit>
+			<unit id="150" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc>.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="151" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>To enable or disable advanced options in Surface UEFI or the display of Surface UEFI pages, on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Choose the advanced settings for your devices</pc> page, click the slider beside the desired setting to configure that option to <pc dataRefEnd="id4" dataRefStart="id3" id="p2">On</pc> or <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Off</pc> (shown in Figure 5).</source>
+					<target>To enable or disable advanced options in Surface UEFI or the display of Surface UEFI pages, on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Choose the advanced settings for your devices</pc> page, click the slider beside the desired setting to configure that option to <pc dataRefEnd="id4" dataRefStart="id3" id="p2">On</pc> or <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Off</pc> (shown in Figure 5).</target>
+				</segment>
+			</unit>
+			<unit id="152" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>In the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">UEFI Front Page</pc> section, you can use the sliders for <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Security</pc>, <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Devices</pc>, and <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Boot</pc> to control what pages are available to users who boot into Surface UEFI.</source>
+					<target>In the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">UEFI Front Page</pc> section, you can use the sliders for <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Security</pc>, <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Devices</pc>, and <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Boot</pc> to control what pages are available to users who boot into Surface UEFI.</target>
+				</segment>
+			</unit>
+			<unit id="153" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://technet.microsoft.com/en-us/itpro/surface/manage-surface-uefi-settings)</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>(For more information about Surface UEFI settings, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Manage Surface UEFI settings</pc>.) Click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Build</pc> when you have finished selecting options to generate and save the package.</source>
+					<target>(For more information about Surface UEFI settings, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Manage Surface UEFI settings</pc>.) Click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Build</pc> when you have finished selecting options to generate and save the package.</target>
+				</segment>
+			</unit>
+			<unit id="154" translate="yes">
+				<segment state="initial">
+					<source>Control advanced Surface UEFI settings and Surface UEFI pages</source>
+					<target>Control advanced Surface UEFI settings and Surface UEFI pages</target>
+				</segment>
+			</unit>
+			<unit id="155" translate="yes">
+				<segment state="initial">
+					<source>Figure 5.</source>
+					<target>Figure 5.</target>
+				</segment>
+			</unit>
+			<unit id="156" translate="yes">
+				<segment state="initial">
+					<source>Control advanced Surface UEFI settings and Surface UEFI pages with SEMM</source>
+					<target>Control advanced Surface UEFI settings and Surface UEFI pages with SEMM</target>
+				</segment>
+			</unit>
+			<unit id="157" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>In the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Save As</pc> dialog box, specify a name for the Surface UEFI configuration package, browse to the location where you would like to save the file, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Save</pc>.</source>
+					<target>In the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Save As</pc> dialog box, specify a name for the Surface UEFI configuration package, browse to the location where you would like to save the file, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Save</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="158" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>When the package is created and saved, the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Successful</pc> page is displayed.</source>
+					<target>When the package is created and saved, the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Successful</pc> page is displayed.</target>
+				</segment>
+			</unit>
+			<unit id="159" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&amp;nbsp;&amp;nbsp;</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note</pc>:<ph dataRef="id3" id="ph1" />Record the certificate thumbprint characters that are displayed on this page, as shown in Figure 6.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note</pc>:<ph dataRef="id3" id="ph1" />Record the certificate thumbprint characters that are displayed on this page, as shown in Figure 6.</target>
+				</segment>
+			</unit>
+			<unit id="160" translate="yes">
+				<segment state="initial">
+					<source>You will need these characters to confirm enrollment of new Surface devices in SEMM.</source>
+					<target>You will need these characters to confirm enrollment of new Surface devices in SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="161" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">End</pc> to complete package creation and close Microsoft Surface UEFI Configurator.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">End</pc> to complete package creation and close Microsoft Surface UEFI Configurator.</target>
+				</segment>
+			</unit>
+			<unit id="162" translate="yes">
+				<segment state="initial">
+					<source>Display of certificate thumbprint characters</source>
+					<target>Display of certificate thumbprint characters</target>
+				</segment>
+			</unit>
+			<unit id="163" translate="yes">
+				<segment state="initial">
+					<source>Figure 6.</source>
+					<target>Figure 6.</target>
+				</segment>
+			</unit>
+			<unit id="164" translate="yes">
+				<segment state="initial">
+					<source>The last two characters of the certificate thumbprint are displayed on the Successful page</source>
+					<target>The last two characters of the certificate thumbprint are displayed on the Successful page</target>
+				</segment>
+			</unit>
+			<unit id="165" translate="yes">
+				<segment state="initial">
+					<source>Now that you have created your Surface UEFI configuration package, you can enroll or configure Surface devices.</source>
+					<target>Now that you have created your Surface UEFI configuration package, you can enroll or configure Surface devices.</target>
+				</segment>
+			</unit>
+			<unit id="166" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&amp;nbsp;&amp;nbsp;</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note</pc>:<ph dataRef="id3" id="ph1" />When a Surface UEFI configuration package is created, a log file is created on the desktop with details of the configuration package settings and options.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note</pc>:<ph dataRef="id3" id="ph1" />When a Surface UEFI configuration package is created, a log file is created on the desktop with details of the configuration package settings and options.</target>
+				</segment>
+			</unit>
+			<unit id="167" translate="yes">
+				<segment state="initial">
+					<source>Enroll a Surface device in SEMM</source>
+					<target>Enroll a Surface device in SEMM</target>
+				</segment>
+			</unit>
+			<unit id="168" translate="yes">
+				<segment state="initial">
+					<source>When the Surface UEFI configuration package is executed, the SEMM certificate and Surface UEFI configuration files are staged in the firmware storage of the Surface device.</source>
+					<target>When the Surface UEFI configuration package is executed, the SEMM certificate and Surface UEFI configuration files are staged in the firmware storage of the Surface device.</target>
+				</segment>
+			</unit>
+			<unit id="169" translate="yes">
+				<segment state="initial">
+					<source>When the Surface device reboots, Surface UEFI processes these files and begins the process of applying the Surface UEFI configuration or enrolling the Surface device in SEMM, as shown in Figure 7.</source>
+					<target>When the Surface device reboots, Surface UEFI processes these files and begins the process of applying the Surface UEFI configuration or enrolling the Surface device in SEMM, as shown in Figure 7.</target>
+				</segment>
+			</unit>
+			<unit id="170" translate="yes">
+				<segment state="initial">
+					<source>SEMM process for configuration of Surface UEFI or enrollment</source>
+					<target>SEMM process for configuration of Surface UEFI or enrollment</target>
+				</segment>
+			</unit>
+			<unit id="171" translate="yes">
+				<segment state="initial">
+					<source>Figure 7.</source>
+					<target>Figure 7.</target>
+				</segment>
+			</unit>
+			<unit id="172" translate="yes">
+				<segment state="initial">
+					<source>The SEMM process for configuration of Surface UEFI or enrollment of a Surface device</source>
+					<target>The SEMM process for configuration of Surface UEFI or enrollment of a Surface device</target>
+				</segment>
+			</unit>
+			<unit id="173" translate="yes">
+				<segment state="initial">
+					<source>Before you begin the process to enroll a Surface device in SEMM, ensure that you have the last two characters of the certificate thumbprint on hand.</source>
+					<target>Before you begin the process to enroll a Surface device in SEMM, ensure that you have the last two characters of the certificate thumbprint on hand.</target>
+				</segment>
+			</unit>
+			<unit id="174" translate="yes">
+				<segment state="initial">
+					<source>You will need these characters to confirm the device’s enrollment (see Figure 6).</source>
+					<target>You will need these characters to confirm the device’s enrollment (see Figure 6).</target>
+				</segment>
+			</unit>
+			<unit id="175" translate="yes">
+				<segment state="initial">
+					<source>To enroll a Surface device in SEMM with a Surface UEFI configuration package, follow these steps:</source>
+					<target>To enroll a Surface device in SEMM with a Surface UEFI configuration package, follow these steps:</target>
+				</segment>
+			</unit>
+			<unit id="176" translate="yes">
+				<segment state="initial">
+					<source>Run the Surface UEFI configuration package .msi file on the Surface device you want to enroll in SEMM.</source>
+					<target>Run the Surface UEFI configuration package .msi file on the Surface device you want to enroll in SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="177" translate="yes">
+				<segment state="initial">
+					<source>This will provision the Surface UEFI configuration file in the device’s firmware.</source>
+					<target>This will provision the Surface UEFI configuration file in the device’s firmware.</target>
+				</segment>
+			</unit>
+			<unit id="178" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">I accept the terms in the License Agreement</pc> check box to accept the End User License Agreement (EULA), and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Install</pc> to begin the installation process.</source>
+					<target>Select the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">I accept the terms in the License Agreement</pc> check box to accept the End User License Agreement (EULA), and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Install</pc> to begin the installation process.</target>
+				</segment>
+			</unit>
+			<unit id="179" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Finish</pc> to complete the Surface UEFI configuration package installation and restart the Surface device when you are prompted to do so.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Finish</pc> to complete the Surface UEFI configuration package installation and restart the Surface device when you are prompted to do so.</target>
+				</segment>
+			</unit>
+			<unit id="180" translate="yes">
+				<segment state="initial">
+					<source>Surface UEFI will load the configuration file and determine that SEMM is not enabled on the device.</source>
+					<target>Surface UEFI will load the configuration file and determine that SEMM is not enabled on the device.</target>
+				</segment>
+			</unit>
+			<unit id="181" translate="yes">
+				<segment state="initial">
+					<source>Surface UEFI will then begin the SEMM enrollment process, as follows:</source>
+					<target>Surface UEFI will then begin the SEMM enrollment process, as follows:</target>
+				</segment>
+			</unit>
+			<unit id="182" translate="yes">
+				<segment state="initial">
+					<source>Surface UEFI will verify that the SEMM configuration file contains a SEMM certificate.</source>
+					<target>Surface UEFI will verify that the SEMM configuration file contains a SEMM certificate.</target>
+				</segment>
+			</unit>
+			<unit id="183" translate="yes">
+				<segment state="initial">
+					<source>Surface UEFI will prompt you to enter to enter the last two characters of the certificate thumbprint to confirm enrollment of the Surface device in SEMM, as shown in Figure 8.</source>
+					<target>Surface UEFI will prompt you to enter to enter the last two characters of the certificate thumbprint to confirm enrollment of the Surface device in SEMM, as shown in Figure 8.</target>
+				</segment>
+			</unit>
+			<unit id="184" translate="yes">
+				<segment state="initial">
+					<source>SEMM enrollment requires last two characters of certificate thumbprint</source>
+					<target>SEMM enrollment requires last two characters of certificate thumbprint</target>
+				</segment>
+			</unit>
+			<unit id="185" translate="yes">
+				<segment state="initial">
+					<source>Figure 8.</source>
+					<target>Figure 8.</target>
+				</segment>
+			</unit>
+			<unit id="186" translate="yes">
+				<segment state="initial">
+					<source>Enrollment in SEMM requires the last two characters of the certificate thumbprint</source>
+					<target>Enrollment in SEMM requires the last two characters of the certificate thumbprint</target>
+				</segment>
+			</unit>
+			<unit id="187" translate="yes">
+				<segment state="initial">
+					<source>Surface UEFI will store the SEMM certificate in firmware and apply the configuration settings that are specified in the Surface UEFI configuration file.</source>
+					<target>Surface UEFI will store the SEMM certificate in firmware and apply the configuration settings that are specified in the Surface UEFI configuration file.</target>
+				</segment>
+			</unit>
+			<unit id="188" translate="yes">
+				<segment state="initial">
+					<source>The Surface device is now enrolled in SEMM and will boot to Windows.</source>
+					<target>The Surface device is now enrolled in SEMM and will boot to Windows.</target>
+				</segment>
+			</unit>
+			<unit id="189" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>You can verify that a Surface device has been successfully enrolled in SEMM by looking for <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Surface Configuration Package</pc> in <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Programs and Features</pc> (as shown in Figure 9), or in the events stored in the <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Microsoft Surface UEFI Configurator</pc> log, found under <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Applications and Services Logs</pc> in Event Viewer (as shown in Figure 10).</source>
+					<target>You can verify that a Surface device has been successfully enrolled in SEMM by looking for <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Surface Configuration Package</pc> in <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Programs and Features</pc> (as shown in Figure 9), or in the events stored in the <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Microsoft Surface UEFI Configurator</pc> log, found under <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Applications and Services Logs</pc> in Event Viewer (as shown in Figure 10).</target>
+				</segment>
+			</unit>
+			<unit id="190" translate="yes">
+				<segment state="initial">
+					<source>Verify enrollment of Surface device in SEMM in Programs and Features</source>
+					<target>Verify enrollment of Surface device in SEMM in Programs and Features</target>
+				</segment>
+			</unit>
+			<unit id="191" translate="yes">
+				<segment state="initial">
+					<source>Figure 9.</source>
+					<target>Figure 9.</target>
+				</segment>
+			</unit>
+			<unit id="192" translate="yes">
+				<segment state="initial">
+					<source>Verify the enrollment of a Surface device in SEMM in Programs and Features</source>
+					<target>Verify the enrollment of a Surface device in SEMM in Programs and Features</target>
+				</segment>
+			</unit>
+			<unit id="193" translate="yes">
+				<segment state="initial">
+					<source>Verify enrollment of Surface device in SEMM in Event Viewer</source>
+					<target>Verify enrollment of Surface device in SEMM in Event Viewer</target>
+				</segment>
+			</unit>
+			<unit id="194" translate="yes">
+				<segment state="initial">
+					<source>Figure 10.</source>
+					<target>Figure 10.</target>
+				</segment>
+			</unit>
+			<unit id="195" translate="yes">
+				<segment state="initial">
+					<source>Verify the enrollment of a Surface device in SEMM in Event Viewer</source>
+					<target>Verify the enrollment of a Surface device in SEMM in Event Viewer</target>
+				</segment>
+			</unit>
+			<unit id="196" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>You can also verify that the device is enrolled in SEMM in Surface UEFI – while the device is enrolled, Surface UEFI will contain the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enterprise management</pc> page (as shown in Figure 11).</source>
+					<target>You can also verify that the device is enrolled in SEMM in Surface UEFI – while the device is enrolled, Surface UEFI will contain the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enterprise management</pc> page (as shown in Figure 11).</target>
+				</segment>
+			</unit>
+			<unit id="197" translate="yes">
+				<segment state="initial">
+					<source>Surface UEFI Enterprise management page</source>
+					<target>Surface UEFI Enterprise management page</target>
+				</segment>
+			</unit>
+			<unit id="198" translate="yes">
+				<segment state="initial">
+					<source>Figure 11.</source>
+					<target>Figure 11.</target>
+				</segment>
+			</unit>
+			<unit id="199" translate="yes">
+				<segment state="initial">
+					<source>The Surface UEFI Enterprise management page</source>
+					<target>The Surface UEFI Enterprise management page</target>
+				</segment>
+			</unit>
+			<unit id="200" translate="yes">
+				<segment state="initial">
+					<source>Configure Surface UEFI settings with SEMM</source>
+					<target>Configure Surface UEFI settings with SEMM</target>
+				</segment>
+			</unit>
+			<unit id="201" translate="yes">
+				<segment state="initial">
+					<source>After a device is enrolled in SEMM, you can run Surface UEFI configuration packages signed with the same SEMM certificate to apply new Surface UEFI settings.</source>
+					<target>After a device is enrolled in SEMM, you can run Surface UEFI configuration packages signed with the same SEMM certificate to apply new Surface UEFI settings.</target>
+				</segment>
+			</unit>
+			<unit id="202" translate="yes">
+				<segment state="initial">
+					<source>These settings are applied automatically the next time the device boots, without any interaction from the user.</source>
+					<target>These settings are applied automatically the next time the device boots, without any interaction from the user.</target>
+				</segment>
+			</unit>
+			<unit id="203" translate="yes">
+				<segment state="initial">
+					<source>You can use application deployment solutions like System Center Configuration Manager to deploy Surface UEFI configuration packages to Surface devices to change or manage the settings in Surface UEFI.</source>
+					<target>You can use application deployment solutions like System Center Configuration Manager to deploy Surface UEFI configuration packages to Surface devices to change or manage the settings in Surface UEFI.</target>
+				</segment>
+			</unit>
+			<unit id="204" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://technet.microsoft.com/library/mt627959)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more information about how to deploy Windows Installer (.msi) files with Configuration Manager, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy and manage applications with System Center Configuration Manager</pc>.</source>
+					<target>For more information about how to deploy Windows Installer (.msi) files with Configuration Manager, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Deploy and manage applications with System Center Configuration Manager</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="205" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you have secured Surface UEFI with a password, users without the password who attempt to boot to Surface UEFI will only have the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">PC information</pc>, <pc dataRefEnd="id4" dataRefStart="id3" id="p2">About</pc>, <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Enterprise management</pc>, and <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Exit</pc> pages displayed to them.</source>
+					<target>If you have secured Surface UEFI with a password, users without the password who attempt to boot to Surface UEFI will only have the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">PC information</pc>, <pc dataRefEnd="id4" dataRefStart="id3" id="p2">About</pc>, <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Enterprise management</pc>, and <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Exit</pc> pages displayed to them.</target>
+				</segment>
+			</unit>
+			<unit id="206" translate="yes">
+				<segment state="initial">
+					<source>If you have not secured Surface UEFI with a password or a user enters the password correctly, settings that are configured with SEMM will be dimmed (unavailable) and the text Some settings are managed by your organization will be displayed at the top of the page, as shown in Figure 12.</source>
+					<target>If you have not secured Surface UEFI with a password or a user enters the password correctly, settings that are configured with SEMM will be dimmed (unavailable) and the text Some settings are managed by your organization will be displayed at the top of the page, as shown in Figure 12.</target>
+				</segment>
+			</unit>
+			<unit id="207" translate="yes">
+				<segment state="initial">
+					<source>Settings managed by SEMM disabled in Surface UEFI</source>
+					<target>Settings managed by SEMM disabled in Surface UEFI</target>
+				</segment>
+			</unit>
+			<unit id="208" translate="yes">
+				<segment state="initial">
+					<source>Figure 12.</source>
+					<target>Figure 12.</target>
+				</segment>
+			</unit>
+			<unit id="209" translate="yes">
+				<segment state="initial">
+					<source>Settings managed by SEMM will be disabled in Surface UEFI</source>
+					<target>Settings managed by SEMM will be disabled in Surface UEFI</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="de-de" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">febdfe13c2b06b9fd05890fc61e0c2bef023b92f</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-ieak\favoritesex-ins-file-setting.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">003793740c4bb8b39faec9d2ab396a172e5403e6</mda:meta><mda:meta type="olxliffhash">b32a179ea3e320b476ec235e6538d338123331fd</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Use the \[FavoritesEx\] .INS file setting to specify your Favorites icon file, whether Favorites is available offline, and your Favorites URLs.</source>
+					<target>Use the \[FavoritesEx\] .INS file setting to specify your Favorites icon file, whether Favorites is available offline, and your Favorites URLs.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Use the FavoritesEx .INS file for your Favorites icon and URLs (Internet Explorer Administration Kit 11 for IT Pros)</source>
+					<target>Use the FavoritesEx .INS file for your Favorites icon and URLs (Internet Explorer Administration Kit 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Use the FavoritesEx .INS file for your Favorites icon and URLs</source>
+					<target>Use the FavoritesEx .INS file for your Favorites icon and URLs</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Info about where you store your <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Favorites</pc> icon file, whether your <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Favorites</pc> are available offline, and the URLs for each <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Favorites</pc> site.</source>
+					<target>Info about where you store your <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Favorites</pc> icon file, whether your <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Favorites</pc> are available offline, and the URLs for each <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Favorites</pc> site.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Name</source>
+					<target>Name</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Value</source>
+					<target>Value</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>IconFile1</source>
+					<target>IconFile1</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>An icon (.ico file) that represents the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Favorites</pc> item you’re adding.</source>
+					<target>An icon (.ico file) that represents the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Favorites</pc> item you’re adding.</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Offline1</source>
+					<target>Offline1</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Makes the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Favorites</pc> item unavailable for offline browsing.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">0.</pc> Makes the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Favorites</pc> item unavailable for offline browsing.</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Makes the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Favorites</pc> item available for offline browsing.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">1.</pc> Makes the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Favorites</pc> item available for offline browsing.</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Determines if the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Favorites</pc> item is available for offline browsing.</source>
+					<target>Determines if the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Favorites</pc> item is available for offline browsing.</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>Title1</source>
+					<target>Title1</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Title for the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Favorites</pc> item.</source>
+					<target>Title for the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Favorites</pc> item.</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>Url1</source>
+					<target>Url1</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>URL to the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Favorites</pc> item.</source>
+					<target>URL to the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Favorites</pc> item.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="de-de" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">487098dc2f0e20635d13dfd419b2c8d2aa5cccd6</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\remove-sites-from-a-local-enterprise-mode-site-list.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">765809c62b2b0ee967dbab68f9a764f718087d15</mda:meta><mda:meta type="olxliffhash">4216332830fdd1deed11b87791c5f0ce63951a15</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Instructions about how to remove sites from a local Enterprise Mode site list.</source>
+					<target>Instructions about how to remove sites from a local Enterprise Mode site list.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Remove sites from a local Enterprise Mode site list (Internet Explorer 11 for IT Pros)</source>
+					<target>Remove sites from a local Enterprise Mode site list (Internet Explorer 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Remove sites from a local Enterprise Mode site list</source>
+					<target>Remove sites from a local Enterprise Mode site list</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Applies to:</source>
+					<target>Applies to:</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Windows 10</source>
+					<target>Windows 10</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Windows 8.1</source>
+					<target>Windows 8.1</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Windows 7</source>
+					<target>Windows 7</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Windows Server 2012 R2</source>
+					<target>Windows Server 2012 R2</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>Windows Server 2008 R2 with Service Pack 1 (SP1)</source>
+					<target>Windows Server 2008 R2 with Service Pack 1 (SP1)</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Remove websites that were added to a local Enterprise Mode site list by mistake or because the sites no longer have compatibility problems.</source>
+					<target>Remove websites that were added to a local Enterprise Mode site list by mistake or because the sites no longer have compatibility problems.</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Note</source>
+					<target>Note</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>The changes described in this topic only impact sites added to a local Enterprise Mode site list and not the list of sites deployed to all employees by an administrator.</source>
+					<target>The changes described in this topic only impact sites added to a local Enterprise Mode site list and not the list of sites deployed to all employees by an administrator.</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>Employees can't delete sites added to the list by an administrator.</source>
+					<target>Employees can't delete sites added to the list by an administrator.</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>To remove single sites from a local Enterprise Mode site list</source>
+					<target>To remove single sites from a local Enterprise Mode site list</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>Open Internet Explorer 11 and go to the site you want to remove.</source>
+					<target>Open Internet Explorer 11 and go to the site you want to remove.</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Tools</pc>, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Enterprise Mode</pc>.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Tools</pc>, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Enterprise Mode</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>The checkmark disappears from next to Enterprise Mode and the site is removed from the list.</source>
+					<target>The checkmark disappears from next to Enterprise Mode and the site is removed from the list.</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Note</source>
+					<target>Note</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If the site is removed by mistake, it can be added back by clicking <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enterprise Mode</pc> again.</source>
+					<target>If the site is removed by mistake, it can be added back by clicking <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enterprise Mode</pc> again.</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>To remove all sites from a local Enterprise Mode site list</source>
+					<target>To remove all sites from a local Enterprise Mode site list</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Open IE11, click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Tools</pc>, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Internet options</pc>.</source>
+					<target>Open IE11, click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Tools</pc>, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Internet options</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Delete</pc> button from the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Browsing history</pc> area.</source>
+					<target>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Delete</pc> button from the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Browsing history</pc> area.</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click the box next to <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Cookies and website data</pc>, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Delete</pc>.</source>
+					<target>Click the box next to <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Cookies and website data</pc>, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Delete</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>Note</source>
+					<target>Note</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>This removes all of the sites from a local Enterprise Mode site list.</source>
+					<target>This removes all of the sites from a local Enterprise Mode site list.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

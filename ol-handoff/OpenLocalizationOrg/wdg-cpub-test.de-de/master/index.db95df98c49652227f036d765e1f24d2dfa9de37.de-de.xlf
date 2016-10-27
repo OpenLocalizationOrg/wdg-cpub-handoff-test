@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="de-de" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">2a13dd50440aee983f502f3bc6b01e9f9baa0ffd</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\index.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">23b3f58efff594bc18916e78d60af6c0ee20148a</mda:meta><mda:meta type="olxliffhash">e27543fd393cab37021a812fa0187a45fac9078d</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>The landing page for IE11 that lets you access the documentation.</source>
+					<target>The landing page for IE11 that lets you access the documentation.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Internet Explorer 11 (IE11) (Internet Explorer 11 for IT Pros)</source>
+					<target>Internet Explorer 11 (IE11) (Internet Explorer 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Internet Explorer 11 (IE11)</source>
+					<target>Internet Explorer 11 (IE11)</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Find info about Internet Explorer 11 that's important to IT Pros.</source>
+					<target>Find info about Internet Explorer 11 that's important to IT Pros.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Internet Explorer 11 - FAQ for IT Pros</source>
+					<target>Internet Explorer 11 - FAQ for IT Pros</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Internet Explorer 11 (IE11) - Deployment Guide for IT Pros</source>
+					<target>Internet Explorer 11 (IE11) - Deployment Guide for IT Pros</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Internet Explorer Administration Kit 11 (IEAK 11) - Administrator's Guide</source>
+					<target>Internet Explorer Administration Kit 11 (IEAK 11) - Administrator's Guide</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

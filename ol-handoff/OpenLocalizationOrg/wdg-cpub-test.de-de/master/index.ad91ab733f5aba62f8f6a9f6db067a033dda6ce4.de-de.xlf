@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="de-de" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">ebf71af290abfafe51e655bcf7e2959b67854030</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\yokita\surface\index.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">28a4dc2add95a2c4d2fc936441fbb9ada6c13a33</mda:meta><mda:meta type="olxliffhash">24f80a1bdcc32d916974d03db4e46451bb29ac5a</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Surface (Surface)</source>
+					<target>Surface (Surface)</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Surface</source>
+					<target>Surface</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Purpose</source>
+					<target>Purpose</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>This library provides guidance to help you deploy Windows on Surface devices, keep those devices up to date, and easily manage and support Surface devices in your organization.</source>
+					<target>This library provides guidance to help you deploy Windows on Surface devices, keep those devices up to date, and easily manage and support Surface devices in your organization.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://technet.microsoft.com/en-us/windows/surface)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more information on planning for, deploying, and managing Surface devices in your organization, see the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface TechCenter</pc>.</source>
+					<target>For more information on planning for, deploying, and managing Surface devices in your organization, see the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Surface TechCenter</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>In this section</source>
+					<target>In this section</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Topic</source>
+					<target>Topic</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>Advanced UEFI security features for Surface Pro 3</source>
+					<target>Advanced UEFI security features for Surface Pro 3</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Find out how to install and configure the v3.11.760.0 UEFI update to enable additional security options for Surface Pro 3 devices.</source>
+					<target>Find out how to install and configure the v3.11.760.0 UEFI update to enable additional security options for Surface Pro 3 devices.</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Customize the OOBE for Surface deployments</source>
+					<target>Customize the OOBE for Surface deployments</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>Walk through the process of customizing the Surface out-of-box experience for end users in your organization.</source>
+					<target>Walk through the process of customizing the Surface out-of-box experience for end users in your organization.</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>Deploy Surface app with Windows Store for Business</source>
+					<target>Deploy Surface app with Windows Store for Business</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>Find out how to add and download Surface app with Windows Store for Business, as well as install Surface app with PowerShell and MDT.</source>
+					<target>Find out how to add and download Surface app with Windows Store for Business, as well as install Surface app with PowerShell and MDT.</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>Deploy Windows 10 to Surface devices with MDT</source>
+					<target>Deploy Windows 10 to Surface devices with MDT</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>Walk through the recommended process of how to deploy Windows 10 to your Surface devices with the Microsoft Deployment Toolkit.</source>
+					<target>Walk through the recommended process of how to deploy Windows 10 to your Surface devices with the Microsoft Deployment Toolkit.</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>Download the latest firmware and drivers for Surface devices</source>
+					<target>Download the latest firmware and drivers for Surface devices</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Get a list of the available downloads for Surface devices and links to download the drivers and firmware for your device.</source>
+					<target>Get a list of the available downloads for Surface devices and links to download the drivers and firmware for your device.</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>Enable PEAP, EAP-FAST, and Cisco LEAP on Surface devices</source>
+					<target>Enable PEAP, EAP-FAST, and Cisco LEAP on Surface devices</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>Find out how to enable support for PEAP, EAP-FAST, or Cisco LEAP protocols on your Surface device.</source>
+					<target>Find out how to enable support for PEAP, EAP-FAST, or Cisco LEAP protocols on your Surface device.</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>Ethernet adapters and Surface deployment</source>
+					<target>Ethernet adapters and Surface deployment</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>Get guidance and answers to help you perform a network deployment to Surface devices.</source>
+					<target>Get guidance and answers to help you perform a network deployment to Surface devices.</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>Manage Surface Dock firmware updates</source>
+					<target>Manage Surface Dock firmware updates</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>Read about the different methods you can use to manage the process of Surface Dock firmware updates.</source>
+					<target>Read about the different methods you can use to manage the process of Surface Dock firmware updates.</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>Manage Surface driver and firmware updates</source>
+					<target>Manage Surface driver and firmware updates</target>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<segment state="initial">
+					<source>Explore the available options to manage firmware and driver updates for Surface devices.</source>
+					<target>Explore the available options to manage firmware and driver updates for Surface devices.</target>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>Manage Surface UEFI settings</source>
+					<target>Manage Surface UEFI settings</target>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>Use Surface UEFI settings to enable or disable devices, configure security settings, and adjust Surface device boot settings.</source>
+					<target>Use Surface UEFI settings to enable or disable devices, configure security settings, and adjust Surface device boot settings.</target>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>Surface Data Eraser</source>
+					<target>Surface Data Eraser</target>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>Find out how the Microsoft Surface Data Eraser tool can help you securely wipe data from your Surface devices.</source>
+					<target>Find out how the Microsoft Surface Data Eraser tool can help you securely wipe data from your Surface devices.</target>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>Surface Deployment Accelerator</source>
+					<target>Surface Deployment Accelerator</target>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<segment state="initial">
+					<source>See how Microsoft Surface Deployment Accelerator provides a quick and simple deployment mechanism for organizations to reimage Surface devices.</source>
+					<target>See how Microsoft Surface Deployment Accelerator provides a quick and simple deployment mechanism for organizations to reimage Surface devices.</target>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<segment state="initial">
+					<source>Surface Diagnostic Toolkit</source>
+					<target>Surface Diagnostic Toolkit</target>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<segment state="initial">
+					<source>Find out how you can use the Microsoft Surface Diagnostic Toolkit to test the hardware of your Surface device.</source>
+					<target>Find out how you can use the Microsoft Surface Diagnostic Toolkit to test the hardware of your Surface device.</target>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<segment state="initial">
+					<source>Surface Dock Updater</source>
+					<target>Surface Dock Updater</target>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>Get a detailed walkthrough of Microsoft Surface Dock Updater.</source>
+					<target>Get a detailed walkthrough of Microsoft Surface Dock Updater.</target>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>Surface Enterprise Management Mode</source>
+					<target>Surface Enterprise Management Mode</target>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<segment state="initial">
+					<source>See how this feature of Surface devices with Surface UEFI allows you to secure and manage firmware settings within your organization.</source>
+					<target>See how this feature of Surface devices with Surface UEFI allows you to secure and manage firmware settings within your organization.</target>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<segment state="initial">
+					<source>Upgrade Surface devices to Windows 10 with MDT</source>
+					<target>Upgrade Surface devices to Windows 10 with MDT</target>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<segment state="initial">
+					<source>Find out how to perform a Windows 10 upgrade deployment to your Surface devices.</source>
+					<target>Find out how to perform a Windows 10 upgrade deployment to your Surface devices.</target>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<segment state="initial">
+					<source>Related topics</source>
+					<target>Related topics</target>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<segment state="initial">
+					<source>Surface TechCenter</source>
+					<target>Surface TechCenter</target>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<segment state="initial">
+					<source>Surface for IT pros blog</source>
+					<target>Surface for IT pros blog</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

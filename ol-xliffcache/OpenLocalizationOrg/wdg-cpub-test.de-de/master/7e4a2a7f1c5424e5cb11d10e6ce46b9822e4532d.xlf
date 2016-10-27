@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="de-de" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">7e4a2a7f1c5424e5cb11d10e6ce46b9822e4532d</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-ieak\extreginf-ins-file-setting.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">4365adf2345e9d0f187db3bb213d7fac20687a51</mda:meta><mda:meta type="olxliffhash">82419b762ae7119397b9bc275283c2f83947ad49</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Use the \[ExtRegInf\] .INS file setting to specify your Setup information (.inf) files and the installation mode for your custom components.</source>
+					<target>Use the \[ExtRegInf\] .INS file setting to specify your Setup information (.inf) files and the installation mode for your custom components.</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Use the ExtRegInf .INS file to specify your installation files and mode (Internet Explorer Administration Kit 11 for IT Pros)</source>
+					<target>Use the ExtRegInf .INS file to specify your installation files and mode (Internet Explorer Administration Kit 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Use the ExtRegInf .INS file to specify installation files and mode</source>
+					<target>Use the ExtRegInf .INS file to specify installation files and mode</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Info about how to specify your Setup information (.inf) files and the instsallation mode for your custom components.</source>
+					<target>Info about how to specify your Setup information (.inf) files and the instsallation mode for your custom components.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Name</source>
+					<target>Name</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Value</source>
+					<target>Value</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Chat</source>
+					<target>Chat</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>string</source>
+					<target>string</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>The name of the .inf file and the install mode for components.</source>
+					<target>The name of the .inf file and the install mode for components.</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>For example, *,chat.inf,DefaultInstall.</source>
+					<target>For example, *,chat.inf,DefaultInstall.</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>Conf</source>
+					<target>Conf</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>string</source>
+					<target>string</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>The name of the .inf file and the install mode for components.</source>
+					<target>The name of the .inf file and the install mode for components.</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>For example, *,conf.inf,DefaultInstall.</source>
+					<target>For example, *,conf.inf,DefaultInstall.</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>Inetres</source>
+					<target>Inetres</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>string</source>
+					<target>string</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>The name of the .inf file and the install mode for components.</source>
+					<target>The name of the .inf file and the install mode for components.</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>For example, *,inetres.inf,DefaultInstall.</source>
+					<target>For example, *,inetres.inf,DefaultInstall.</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>Inetset</source>
+					<target>Inetset</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>string</source>
+					<target>string</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>The name of the .inf file and the install mode for components.</source>
+					<target>The name of the .inf file and the install mode for components.</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>For example, *,inetset.inf,DefaultInstall.</source>
+					<target>For example, *,inetset.inf,DefaultInstall.</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>Subs</source>
+					<target>Subs</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>string</source>
+					<target>string</target>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<segment state="initial">
+					<source>The name of the .inf file and the install mode for components.</source>
+					<target>The name of the .inf file and the install mode for components.</target>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>For example, *,subs.inf,DefaultInstall.</source>
+					<target>For example, *,subs.inf,DefaultInstall.</target>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>ConnectionSettings</source>
+					<target>ConnectionSettings</target>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>string</source>
+					<target>string</target>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>The name of the .inf file and the install mode for components.</source>
+					<target>The name of the .inf file and the install mode for components.</target>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>For example, *,connect.inf,DefaultInstall.</source>
+					<target>For example, *,connect.inf,DefaultInstall.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

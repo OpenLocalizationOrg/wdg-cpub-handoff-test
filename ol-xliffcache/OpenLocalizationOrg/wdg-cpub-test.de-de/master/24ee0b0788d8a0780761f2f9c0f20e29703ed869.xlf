@@ -1,0 +1,879 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="de-de" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">24ee0b0788d8a0780761f2f9c0f20e29703ed869</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\yokita\surface\unenroll-surface-devices-from-semm.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">3384fd8b68d759a4ac7789ce1e34d7500b66e08a</mda:meta><mda:meta type="olxliffhash">880dac943295341e621ec7c39094a692f5749329</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Unenroll Surface devices from SEMM (Surface)</source>
+					<target>Unenroll Surface devices from SEMM (Surface)</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Learn how to unenroll a device from SEMM by using a Surface UEFI reset package or the Recovery Request option.</source>
+					<target>Learn how to unenroll a device from SEMM by using a Surface UEFI reset package or the Recovery Request option.</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>surface enterprise management</source>
+					<target>surface enterprise management</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Unenroll Surface devices from SEMM</source>
+					<target>Unenroll Surface devices from SEMM</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>When a Surface device is enrolled in Surface Enterprise Management Mode (SEMM), a certificate is stored in the firmware of that device.</source>
+					<target>When a Surface device is enrolled in Surface Enterprise Management Mode (SEMM), a certificate is stored in the firmware of that device.</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>The presence of that certificate and the enrollment in SEMM prevent any unauthorized changes to Surface UEFI settings or options while the device is enrolled in SEMM.</source>
+					<target>The presence of that certificate and the enrollment in SEMM prevent any unauthorized changes to Surface UEFI settings or options while the device is enrolled in SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>To restore control of Surface UEFI settings to the user, the Surface device must be unenrolled from SEMM, a process sometimes described as reset or recovery.</source>
+					<target>To restore control of Surface UEFI settings to the user, the Surface device must be unenrolled from SEMM, a process sometimes described as reset or recovery.</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>There are two methods you can use to unenroll a device from SEMM—a Surface UEFI reset package and a Recovery Request.</source>
+					<target>There are two methods you can use to unenroll a device from SEMM—a Surface UEFI reset package and a Recovery Request.</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&amp;nbsp;&amp;nbsp;</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Warning:</pc><ph dataRef="id3" id="ph1" />To unenroll a device from SEMM and restore user control of Surface UEFI settings, you must have the SEMM certificate that was used to enroll the device in SEMM.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Warning:</pc><ph dataRef="id3" id="ph1" />To unenroll a device from SEMM and restore user control of Surface UEFI settings, you must have the SEMM certificate that was used to enroll the device in SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>If this certificate becomes lost or corrupted, it is not possible to unenroll from SEMM.</source>
+					<target>If this certificate becomes lost or corrupted, it is not possible to unenroll from SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Back up and protect your SEMM certificate accordingly.</source>
+					<target>Back up and protect your SEMM certificate accordingly.</target>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://technet.microsoft.com/en-us/itpro/surface/surface-enterprise-management-mode)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For more information about SEMM, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Surface Enterprise Management Mode</pc>.</source>
+					<target>For more information about SEMM, see <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Surface Enterprise Management Mode</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>Unenroll a Surface device from SEMM with a Surface UEFI reset package</source>
+					<target>Unenroll a Surface device from SEMM with a Surface UEFI reset package</target>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>The Surface UEFI reset package is the primary method you use to unenroll a Surface device from SEMM.</source>
+					<target>The Surface UEFI reset package is the primary method you use to unenroll a Surface device from SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>Like a Surface UEFI configuration package, the reset package is a Windows Installer (.msi) file that configures SEMM on the device.</source>
+					<target>Like a Surface UEFI configuration package, the reset package is a Windows Installer (.msi) file that configures SEMM on the device.</target>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>Unlike the configuration package, the reset package will reset the Surface UEFI configuration on a Surface device to its default settings, remove the SEMM certificate, and unenroll the device from SEMM.</source>
+					<target>Unlike the configuration package, the reset package will reset the Surface UEFI configuration on a Surface device to its default settings, remove the SEMM certificate, and unenroll the device from SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>Reset packages are created specifically for an individual Surface device.</source>
+					<target>Reset packages are created specifically for an individual Surface device.</target>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>To begin the process of creating a reset package, you will need the serial number of the device you want to unenroll, as well as the SEMM certificate used to enroll the device.</source>
+					<target>To begin the process of creating a reset package, you will need the serial number of the device you want to unenroll, as well as the SEMM certificate used to enroll the device.</target>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>You can find the serial number of your Surface device on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">PC information</pc> page of Surface UEFI, as shown in Figure 1.</source>
+					<target>You can find the serial number of your Surface device on the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">PC information</pc> page of Surface UEFI, as shown in Figure 1.</target>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>This page is displayed even if Surface UEFI is password protected and the incorrect password is entered.</source>
+					<target>This page is displayed even if Surface UEFI is password protected and the incorrect password is entered.</target>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>Serial number of Surface device is displayed</source>
+					<target>Serial number of Surface device is displayed</target>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>Figure 1.</source>
+					<target>Figure 1.</target>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>The serial number of the Surface device is displayed on the Surface UEFI PC information page</source>
+					<target>The serial number of the Surface device is displayed on the Surface UEFI PC information page</target>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&amp;nbsp;&amp;nbsp;</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note:</pc><ph dataRef="id3" id="ph1" />To boot to Surface UEFI, press <pc dataRefEnd="id5" dataRefStart="id4" id="p2">Volume Up</pc> and <pc dataRefEnd="id7" dataRefStart="id6" id="p3">Power</pc> simultaneously while the device is off.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note:</pc><ph dataRef="id3" id="ph1" />To boot to Surface UEFI, press <pc dataRefEnd="id5" dataRefStart="id4" id="p2">Volume Up</pc> and <pc dataRefEnd="id7" dataRefStart="id6" id="p3">Power</pc> simultaneously while the device is off.</target>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Hold <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Volume Up</pc> until the Surface logo is displayed and the device begins to boot.</source>
+					<target>Hold <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Volume Up</pc> until the Surface logo is displayed and the device begins to boot.</target>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<segment state="initial">
+					<source>To create a Surface UEFI reset package, follow these steps:</source>
+					<target>To create a Surface UEFI reset package, follow these steps:</target>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>Open Microsoft Surface UEFI Configurator from the Start menu.</source>
+					<target>Open Microsoft Surface UEFI Configurator from the Start menu.</target>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Start</pc>.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Start</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Reset Package</pc>, as shown in Figure 2.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Reset Package</pc>, as shown in Figure 2.</target>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>Select Reset Package to create a package to unenroll Surface device from SEMM</source>
+					<target>Select Reset Package to create a package to unenroll Surface device from SEMM</target>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>Figure 2.</source>
+					<target>Figure 2.</target>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<segment state="initial">
+					<source>Click Reset Package to create a package to unenroll a Surface device from SEMM</source>
+					<target>Click Reset Package to create a package to unenroll a Surface device from SEMM</target>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Certificate Protection</pc> to add your SEMM certificate file with private key (.pfx), as shown in Figure 3.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Certificate Protection</pc> to add your SEMM certificate file with private key (.pfx), as shown in Figure 3.</target>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Browse to the location of your certificate file, select the file, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</source>
+					<target>Browse to the location of your certificate file, select the file, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<segment state="initial">
+					<source>Add the SEMM certificate to Surface UEFI reset package</source>
+					<target>Add the SEMM certificate to Surface UEFI reset package</target>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>Figure 3.</source>
+					<target>Figure 3.</target>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>Add the SEMM certificate to a Surface UEFI reset package</source>
+					<target>Add the SEMM certificate to a Surface UEFI reset package</target>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc>.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Type the serial number of the device you want to unenroll from SEMM (as shown in Figure 4), and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Build</pc> to generate the Surface UEFI reset package.</source>
+					<target>Type the serial number of the device you want to unenroll from SEMM (as shown in Figure 4), and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Build</pc> to generate the Surface UEFI reset package.</target>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<segment state="initial">
+					<source>Create a Surface UEFI reset package with serial number of Surface device</source>
+					<target>Create a Surface UEFI reset package with serial number of Surface device</target>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<segment state="initial">
+					<source>Figure 4.</source>
+					<target>Figure 4.</target>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<segment state="initial">
+					<source>Use the serial number of your Surface device to create a Surface UEFI reset package</source>
+					<target>Use the serial number of your Surface device to create a Surface UEFI reset package</target>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>In the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Save As</pc> dialog box, specify a name for the Surface UEFI reset package, browse to the location where you would like to save the file, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Save</pc>.</source>
+					<target>In the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Save As</pc> dialog box, specify a name for the Surface UEFI reset package, browse to the location where you would like to save the file, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Save</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="144" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>When the package generation has completed, the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Successful</pc> page is displayed.</source>
+					<target>When the package generation has completed, the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Successful</pc> page is displayed.</target>
+				</segment>
+			</unit>
+			<unit id="145" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">End</pc> to complete package creation and close Microsoft Surface UEFI Configurator.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">End</pc> to complete package creation and close Microsoft Surface UEFI Configurator.</target>
+				</segment>
+			</unit>
+			<unit id="146" translate="yes">
+				<segment state="initial">
+					<source>Run the Surface UEFI reset package Windows Installer (.msi) file on the Surface device to unenroll the device from SEMM.</source>
+					<target>Run the Surface UEFI reset package Windows Installer (.msi) file on the Surface device to unenroll the device from SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="147" translate="yes">
+				<segment state="initial">
+					<source>The reset package will require a reboot to perform the unenroll operation.</source>
+					<target>The reset package will require a reboot to perform the unenroll operation.</target>
+				</segment>
+			</unit>
+			<unit id="148" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>After the device has been unenrolled, you can verify the successful removal by ensuring that the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Surface Configuration Package</pc> item in <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Programs and Features</pc> (shown in Figure 5) is no longer present.</source>
+					<target>After the device has been unenrolled, you can verify the successful removal by ensuring that the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Microsoft Surface Configuration Package</pc> item in <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Programs and Features</pc> (shown in Figure 5) is no longer present.</target>
+				</segment>
+			</unit>
+			<unit id="149" translate="yes">
+				<segment state="initial">
+					<source>Screen that shows device is enrolled in SEMM</source>
+					<target>Screen that shows device is enrolled in SEMM</target>
+				</segment>
+			</unit>
+			<unit id="150" translate="yes">
+				<segment state="initial">
+					<source>Figure 5.</source>
+					<target>Figure 5.</target>
+				</segment>
+			</unit>
+			<unit id="151" translate="yes">
+				<segment state="initial">
+					<source>The presence of the Microsoft Surface Configuration Package item in Programs and Features indicates that the device is enrolled in SEMM</source>
+					<target>The presence of the Microsoft Surface Configuration Package item in Programs and Features indicates that the device is enrolled in SEMM</target>
+				</segment>
+			</unit>
+			<unit id="152" translate="yes">
+				<segment state="initial">
+					<source>Unenroll a Surface device from SEMM with a Recovery Request</source>
+					<target>Unenroll a Surface device from SEMM with a Recovery Request</target>
+				</segment>
+			</unit>
+			<unit id="153" translate="yes">
+				<segment state="initial">
+					<source>In some scenarios, a Surface UEFI reset package may not be a viable option to unenroll a Surface device from SEMM (for example, where Windows has become unusable).</source>
+					<target>In some scenarios, a Surface UEFI reset package may not be a viable option to unenroll a Surface device from SEMM (for example, where Windows has become unusable).</target>
+				</segment>
+			</unit>
+			<unit id="154" translate="yes">
+				<segment state="initial">
+					<source>In these scenarios you can unenroll the device by using a Recovery Request generated from within Surface UEFI.</source>
+					<target>In these scenarios you can unenroll the device by using a Recovery Request generated from within Surface UEFI.</target>
+				</segment>
+			</unit>
+			<unit id="155" translate="yes">
+				<segment state="initial">
+					<source>The Recovery Request process can be initiated even on devices where you do not have the Surface UEFI password.</source>
+					<target>The Recovery Request process can be initiated even on devices where you do not have the Surface UEFI password.</target>
+				</segment>
+			</unit>
+			<unit id="156" translate="yes">
+				<segment state="initial">
+					<source>The Recovery Request process is initiated from Surface UEFI on the Surface device, approved with Microsoft Surface UEFI Configurator on another computer, and then completed in Surface UEFI.</source>
+					<target>The Recovery Request process is initiated from Surface UEFI on the Surface device, approved with Microsoft Surface UEFI Configurator on another computer, and then completed in Surface UEFI.</target>
+				</segment>
+			</unit>
+			<unit id="157" translate="yes">
+				<segment state="initial">
+					<source>Like the reset package, approving a Recovery Request with Microsoft Surface UEFI Configurator requires access to the SEMM certificate that was used to enroll the Surface device.</source>
+					<target>Like the reset package, approving a Recovery Request with Microsoft Surface UEFI Configurator requires access to the SEMM certificate that was used to enroll the Surface device.</target>
+				</segment>
+			</unit>
+			<unit id="158" translate="yes">
+				<segment state="initial">
+					<source>To initiate a Recovery Request, follow these steps:</source>
+					<target>To initiate a Recovery Request, follow these steps:</target>
+				</segment>
+			</unit>
+			<unit id="159" translate="yes">
+				<segment state="initial">
+					<source>Boot the Surface device that is to be unenrolled from SEMM to Surface UEFI.</source>
+					<target>Boot the Surface device that is to be unenrolled from SEMM to Surface UEFI.</target>
+				</segment>
+			</unit>
+			<unit id="160" translate="yes">
+				<segment state="initial">
+					<source>Type the Surface UEFI password if you are prompted to do so.</source>
+					<target>Type the Surface UEFI password if you are prompted to do so.</target>
+				</segment>
+			</unit>
+			<unit id="161" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enterprise management</pc> page, as shown in Figure 6.</source>
+					<target>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enterprise management</pc> page, as shown in Figure 6.</target>
+				</segment>
+			</unit>
+			<unit id="162" translate="yes">
+				<segment state="initial">
+					<source>Enterprise Management page</source>
+					<target>Enterprise Management page</target>
+				</segment>
+			</unit>
+			<unit id="163" translate="yes">
+				<segment state="initial">
+					<source>Figure 6.</source>
+					<target>Figure 6.</target>
+				</segment>
+			</unit>
+			<unit id="164" translate="yes">
+				<segment state="initial">
+					<source>The Enterprise management page is displayed in Surface UEFI on devices enrolled in SEMM</source>
+					<target>The Enterprise management page is displayed in Surface UEFI on devices enrolled in SEMM</target>
+				</segment>
+			</unit>
+			<unit id="165" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click or press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Get Started</pc>.</source>
+					<target>Click or press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Get Started</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="166" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click or press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc> to begin the Recovery Request process.</source>
+					<target>Click or press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc> to begin the Recovery Request process.</target>
+				</segment>
+			</unit>
+			<unit id="167" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&amp;nbsp;&amp;nbsp;</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note:</pc><ph dataRef="id3" id="ph1" />A Recovery Request expires two hours after it is created.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note:</pc><ph dataRef="id3" id="ph1" />A Recovery Request expires two hours after it is created.</target>
+				</segment>
+			</unit>
+			<unit id="168" translate="yes">
+				<segment state="initial">
+					<source>If a Recovery Request is not completed in this time, you will have to restart the Recovery Request process.</source>
+					<target>If a Recovery Request is not completed in this time, you will have to restart the Recovery Request process.</target>
+				</segment>
+			</unit>
+			<unit id="169" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select <pc dataRefEnd="id2" dataRefStart="id1" id="p1">SEMM Certificate</pc> from the list of certificates displayed on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Choose a SEMM reset key</pc> page (shown in Figure 7), and then click or press <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Next</pc>.</source>
+					<target>Select <pc dataRefEnd="id2" dataRefStart="id1" id="p1">SEMM Certificate</pc> from the list of certificates displayed on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Choose a SEMM reset key</pc> page (shown in Figure 7), and then click or press <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="170" translate="yes">
+				<segment state="initial">
+					<source>Select SEMM certificate for your Recovery Request</source>
+					<target>Select SEMM certificate for your Recovery Request</target>
+				</segment>
+			</unit>
+			<unit id="171" translate="yes">
+				<segment state="initial">
+					<source>Figure 7.</source>
+					<target>Figure 7.</target>
+				</segment>
+			</unit>
+			<unit id="172" translate="yes">
+				<segment state="initial">
+					<source>Choose SEMM Certificate for your Recovery Request (Reset Request)</source>
+					<target>Choose SEMM Certificate for your Recovery Request (Reset Request)</target>
+				</segment>
+			</unit>
+			<unit id="173" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>On the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enter SEMM reset verification code</pc> page you can click the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">QR Code</pc> or <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Text</pc> buttons to display your Recovery Request (Reset Request) as shown in Figure 8, or the <pc dataRefEnd="id8" dataRefStart="id7" id="p4">USB</pc> button to save your Recovery Request (Reset Request) as a file to a USB drive, as shown in Figure 9.</source>
+					<target>On the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enter SEMM reset verification code</pc> page you can click the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">QR Code</pc> or <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Text</pc> buttons to display your Recovery Request (Reset Request) as shown in Figure 8, or the <pc dataRefEnd="id8" dataRefStart="id7" id="p4">USB</pc> button to save your Recovery Request (Reset Request) as a file to a USB drive, as shown in Figure 9.</target>
+				</segment>
+			</unit>
+			<unit id="174" translate="yes">
+				<segment state="initial">
+					<source>Recovery Request displayed as a QR Code</source>
+					<target>Recovery Request displayed as a QR Code</target>
+				</segment>
+			</unit>
+			<unit id="175" translate="yes">
+				<segment state="initial">
+					<source>Figure 8.</source>
+					<target>Figure 8.</target>
+				</segment>
+			</unit>
+			<unit id="176" translate="yes">
+				<segment state="initial">
+					<source>A Recovery Request (Reset Request) displayed as a QR Code</source>
+					<target>A Recovery Request (Reset Request) displayed as a QR Code</target>
+				</segment>
+			</unit>
+			<unit id="177" translate="yes">
+				<segment state="initial">
+					<source>Save a recovery request to a USB drive</source>
+					<target>Save a recovery request to a USB drive</target>
+				</segment>
+			</unit>
+			<unit id="178" translate="yes">
+				<segment state="initial">
+					<source>Figure 9.</source>
+					<target>Figure 9.</target>
+				</segment>
+			</unit>
+			<unit id="179" translate="yes">
+				<segment state="initial">
+					<source>Save a Recovery Request (Reset Request) to a USB drive</source>
+					<target>Save a Recovery Request (Reset Request) to a USB drive</target>
+				</segment>
+			</unit>
+			<unit id="180" translate="yes">
+				<segment state="initial">
+					<source>To use a QR Code Recovery Request (Reset Request), use a QR reader app on a mobile device to read the code.</source>
+					<target>To use a QR Code Recovery Request (Reset Request), use a QR reader app on a mobile device to read the code.</target>
+				</segment>
+			</unit>
+			<unit id="181" translate="yes">
+				<segment state="initial">
+					<source>The QR reader app will translate the QR code into an alphanumeric string.</source>
+					<target>The QR reader app will translate the QR code into an alphanumeric string.</target>
+				</segment>
+			</unit>
+			<unit id="182" translate="yes">
+				<segment state="initial">
+					<source>You can then email or message that string to the administrator that will produce the reset verification code with Microsoft Surface UEFI Configurator.</source>
+					<target>You can then email or message that string to the administrator that will produce the reset verification code with Microsoft Surface UEFI Configurator.</target>
+				</segment>
+			</unit>
+			<unit id="183" translate="yes">
+				<segment state="initial">
+					<source>To use a Recovery Request (Reset Request) saved to a USB drive as a file, use the USB drive to transfer the file to the computer where Microsoft Surface UEFI Configurator will be used to produce the Reset Verification Code.</source>
+					<target>To use a Recovery Request (Reset Request) saved to a USB drive as a file, use the USB drive to transfer the file to the computer where Microsoft Surface UEFI Configurator will be used to produce the Reset Verification Code.</target>
+				</segment>
+			</unit>
+			<unit id="184" translate="yes">
+				<segment state="initial">
+					<source>The file can also be copied from the USB drive on another device to be emailed or transferred over the network.</source>
+					<target>The file can also be copied from the USB drive on another device to be emailed or transferred over the network.</target>
+				</segment>
+			</unit>
+			<unit id="185" translate="yes">
+				<segment state="initial">
+					<source>To use the Recovery Request (Reset Request) as text, simply type the text directly into Microsoft Surface UEFI Configurator.</source>
+					<target>To use the Recovery Request (Reset Request) as text, simply type the text directly into Microsoft Surface UEFI Configurator.</target>
+				</segment>
+			</unit>
+			<unit id="186" translate="yes">
+				<segment state="initial">
+					<source>Open Microsoft Surface UEFI Configurator from the Start menu on another computer.</source>
+					<target>Open Microsoft Surface UEFI Configurator from the Start menu on another computer.</target>
+				</segment>
+			</unit>
+			<unit id="187" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&amp;nbsp;&amp;nbsp;</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note:</pc><ph dataRef="id3" id="ph1" />Microsoft Surface UEFI Configurator must run in an environment that is able to authenticate the certificate chain for the SEMM certificate.</source>
+					<target><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Note:</pc><ph dataRef="id3" id="ph1" />Microsoft Surface UEFI Configurator must run in an environment that is able to authenticate the certificate chain for the SEMM certificate.</target>
+				</segment>
+			</unit>
+			<unit id="188" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Start</pc>.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Start</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="189" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Recovery Request</pc>, as shown in Figure 10.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Recovery Request</pc>, as shown in Figure 10.</target>
+				</segment>
+			</unit>
+			<unit id="190" translate="yes">
+				<segment state="initial">
+					<source>Start process to approve a Recovery Request</source>
+					<target>Start process to approve a Recovery Request</target>
+				</segment>
+			</unit>
+			<unit id="191" translate="yes">
+				<segment state="initial">
+					<source>Figure 10.</source>
+					<target>Figure 10.</target>
+				</segment>
+			</unit>
+			<unit id="192" translate="yes">
+				<segment state="initial">
+					<source>Click Recovery Request to begin the process to approve a Recovery Request</source>
+					<target>Click Recovery Request to begin the process to approve a Recovery Request</target>
+				</segment>
+			</unit>
+			<unit id="193" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Certificate Protection</pc> to authenticate the Recovery Request with the SEMM certificate.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Certificate Protection</pc> to authenticate the Recovery Request with the SEMM certificate.</target>
+				</segment>
+			</unit>
+			<unit id="194" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Browse to and select your SEMM certificate file, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</source>
+					<target>Browse to and select your SEMM certificate file, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="195" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>When you are prompted to enter the certificate password as shown in Figure 11, type and confirm the password for the certificate file, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</source>
+					<target>When you are prompted to enter the certificate password as shown in Figure 11, type and confirm the password for the certificate file, and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">OK</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="196" translate="yes">
+				<segment state="initial">
+					<source>Type password for SEMM certificate</source>
+					<target>Type password for SEMM certificate</target>
+				</segment>
+			</unit>
+			<unit id="197" translate="yes">
+				<segment state="initial">
+					<source>Figure 11.</source>
+					<target>Figure 11.</target>
+				</segment>
+			</unit>
+			<unit id="198" translate="yes">
+				<segment state="initial">
+					<source>Type the password for the SEMM certificate</source>
+					<target>Type the password for the SEMM certificate</target>
+				</segment>
+			</unit>
+			<unit id="199" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc>.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Next</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="200" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Enter the Recovery Request (Reset Request), and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Generate</pc> to create a reset verification code (as shown in Figure 12).</source>
+					<target>Enter the Recovery Request (Reset Request), and then click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Generate</pc> to create a reset verification code (as shown in Figure 12).</target>
+				</segment>
+			</unit>
+			<unit id="201" translate="yes">
+				<segment state="initial">
+					<source>Enter the recovery request</source>
+					<target>Enter the recovery request</target>
+				</segment>
+			</unit>
+			<unit id="202" translate="yes">
+				<segment state="initial">
+					<source>Figure 12.</source>
+					<target>Figure 12.</target>
+				</segment>
+			</unit>
+			<unit id="203" translate="yes">
+				<segment state="initial">
+					<source>Enter the Recovery Request (Reset Request)</source>
+					<target>Enter the Recovery Request (Reset Request)</target>
+				</segment>
+			</unit>
+			<unit id="204" translate="yes">
+				<segment state="initial">
+					<source>If you displayed the Recovery Request (Reset Request) as text on the Surface device being reset, use the keyboard to type the Recovery Request (Reset Request)  in the provided field.</source>
+					<target>If you displayed the Recovery Request (Reset Request) as text on the Surface device being reset, use the keyboard to type the Recovery Request (Reset Request)  in the provided field.</target>
+				</segment>
+			</unit>
+			<unit id="205" translate="yes">
+				<segment state="initial">
+					<source>If you displayed the Recovery Request (Reset Request) as a QR Code and then used a messaging or email application to send the code to the computer with Microsoft Surface UEFI Configurator, copy and paste the code into the provided field.</source>
+					<target>If you displayed the Recovery Request (Reset Request) as a QR Code and then used a messaging or email application to send the code to the computer with Microsoft Surface UEFI Configurator, copy and paste the code into the provided field.</target>
+				</segment>
+			</unit>
+			<unit id="206" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you saved the Recovery Request (Reset Request) as a file to a USB drive, click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Import</pc> button, browse to and select the Recovery Request (Reset Request) file, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">OK</pc>.</source>
+					<target>If you saved the Recovery Request (Reset Request) as a file to a USB drive, click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Import</pc> button, browse to and select the Recovery Request (Reset Request) file, and then click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">OK</pc>.</target>
+				</segment>
+			</unit>
+			<unit id="207" translate="yes">
+				<segment state="initial">
+					<source>The reset verification code is displayed in Microsoft Surface UEFI Configurator, as shown in Figure 13.</source>
+					<target>The reset verification code is displayed in Microsoft Surface UEFI Configurator, as shown in Figure 13.</target>
+				</segment>
+			</unit>
+			<unit id="208" translate="yes">
+				<segment state="initial">
+					<source>Display of the reset verification code</source>
+					<target>Display of the reset verification code</target>
+				</segment>
+			</unit>
+			<unit id="209" translate="yes">
+				<segment state="initial">
+					<source>Figure 13.</source>
+					<target>Figure 13.</target>
+				</segment>
+			</unit>
+			<unit id="210" translate="yes">
+				<segment state="initial">
+					<source>The reset verification code displayed in Microsoft Surface UEFI Configurator</source>
+					<target>The reset verification code displayed in Microsoft Surface UEFI Configurator</target>
+				</segment>
+			</unit>
+			<unit id="211" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Share</pc> button to send the reset verification code by email.</source>
+					<target>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Share</pc> button to send the reset verification code by email.</target>
+				</segment>
+			</unit>
+			<unit id="212" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Enter the reset verification code in the provided field on the Surface device (shown in Figure 8), and then click or press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Verify</pc> to reset the device and unenroll the device from SEMM.</source>
+					<target>Enter the reset verification code in the provided field on the Surface device (shown in Figure 8), and then click or press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Verify</pc> to reset the device and unenroll the device from SEMM.</target>
+				</segment>
+			</unit>
+			<unit id="213" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click or press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Restart now</pc> on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">SEMM reset successful</pc> page to complete the unenrollment from SEMM, as shown in Figure 14.</source>
+					<target>Click or press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Restart now</pc> on the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">SEMM reset successful</pc> page to complete the unenrollment from SEMM, as shown in Figure 14.</target>
+				</segment>
+			</unit>
+			<unit id="214" translate="yes">
+				<segment state="initial">
+					<source>Example display of successful unenrollment from SEMM</source>
+					<target>Example display of successful unenrollment from SEMM</target>
+				</segment>
+			</unit>
+			<unit id="215" translate="yes">
+				<segment state="initial">
+					<source>Figure 14.</source>
+					<target>Figure 14.</target>
+				</segment>
+			</unit>
+			<unit id="216" translate="yes">
+				<segment state="initial">
+					<source>Successful unenrollment from SEMM</source>
+					<target>Successful unenrollment from SEMM</target>
+				</segment>
+			</unit>
+			<unit id="217" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">End</pc> in Microsoft Surface UEFI Configurator to complete the Recovery Request (Reset Request) process and close Microsoft Surface UEFI Configurator.</source>
+					<target>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">End</pc> in Microsoft Surface UEFI Configurator to complete the Recovery Request (Reset Request) process and close Microsoft Surface UEFI Configurator.</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>
