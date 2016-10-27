@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="ja-jp" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">46e16218cb38f277f34b327e9c4926be5614fa22</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\choose-how-to-deploy-ie11.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">98044d8dd5f20c36d250d2c34381eb622a493d64</mda:meta><mda:meta type="olxliffhash">568550fd637625fcce894c75776e763f9f6633cf</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Choose how to deploy Internet Explorer 11 (IE11)</source>
+					<target>Choose how to deploy Internet Explorer 11 (IE11)</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Choose how to deploy Internet Explorer 11 (IE11) (Internet Explorer 11 for IT Pros)</source>
+					<target>Choose how to deploy Internet Explorer 11 (IE11) (Internet Explorer 11 for IT Pros)</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Choose how to deploy Internet Explorer 11 (IE11)</source>
+					<target>Choose how to deploy Internet Explorer 11 (IE11)</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>In this section, you can learn about how to deploy your custom version of Internet Explorer using Automatic Version Synchronization (AVS) or using your software distribution tools.</source>
+					<target>In this section, you can learn about how to deploy your custom version of Internet Explorer using Automatic Version Synchronization (AVS) or using your software distribution tools.</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>In this section</source>
+					<target>In this section</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Topic</source>
+					<target>Topic</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Description</source>
+					<target>Description</target>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Deploy IE11 using Automatic Version Synchronization (AVS)</source>
+					<target>Deploy IE11 using Automatic Version Synchronization (AVS)</target>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>Guidance about how to deploy your custom browser packages using Automatic Version Synchronization (AVS).</source>
+					<target>Guidance about how to deploy your custom browser packages using Automatic Version Synchronization (AVS).</target>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Deploy IE11 using software distribution tools</source>
+					<target>Deploy IE11 using software distribution tools</target>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Guidance about how to deploy your custom browser packages using System Center 2012 R2, Windows Server Update Services (WSUS), Group Policy software installation, or Microsoft Deployment toolkit (MDT).</source>
+					<target>Guidance about how to deploy your custom browser packages using System Center 2012 R2, Windows Server Update Services (WSUS), Group Policy software installation, or Microsoft Deployment toolkit (MDT).</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

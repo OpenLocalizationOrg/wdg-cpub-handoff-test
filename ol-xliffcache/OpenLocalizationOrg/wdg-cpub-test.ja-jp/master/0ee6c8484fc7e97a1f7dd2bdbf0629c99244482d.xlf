@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="ja-jp" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-00ddeee</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">0ee6c8484fc7e97a1f7dd2bdbf0629c99244482d</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\HoverTest\browsers\edge\TOC.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">766403e5622186656430b44faf87df0e2b73a10e</mda:meta><mda:meta type="olxliffhash">b88312929afb6bb9ae81a552aa7e040f2f9a0488</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Edge - Deployment Guide for IT Pros</source>
+					<target>Microsoft Edge - Deployment Guide for IT Pros</target>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Change history for Microsoft Edge</source>
+					<target>Change history for Microsoft Edge</target>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Enterprise guidance about using Microsoft Edge and Internet Explorer 11</source>
+					<target>Enterprise guidance about using Microsoft Edge and Internet Explorer 11</target>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Edge requirements and language support</source>
+					<target>Microsoft Edge requirements and language support</target>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Available policies for Microsoft Edge</source>
+					<target>Available policies for Microsoft Edge</target>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Use Enterprise Mode to improve compatibility</source>
+					<target>Use Enterprise Mode to improve compatibility</target>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Security enhancements for Microsoft Edge</source>
+					<target>Security enhancements for Microsoft Edge</target>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>
