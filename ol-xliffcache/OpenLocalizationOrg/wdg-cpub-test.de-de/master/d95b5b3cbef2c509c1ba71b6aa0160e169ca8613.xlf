@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="de-de" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-10daaac</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="olfilehash">d95b5b3cbef2c509c1ba71b6aa0160e169ca8613</mda:meta><mda:meta type="olfilepath">wdg-cpub-test\iawilt\iawilt_test\test.md</mda:meta><mda:meta type="oltranslationpriority"></mda:meta><mda:meta type="oltranslationtype">Human Translation</mda:meta><mda:meta type="olskeletonhash">65e4b3c25478ca20c38d28adb11cd4ffb1788c65</mda:meta><mda:meta type="olxliffhash">79cacc43729b135642217621da90f1f9314e0b1a</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>This is Iaan's test md page using VS2015.</source>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>So what did I do?</source>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Here's some answers yo:</source>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>So you can check-in/check-out and manage files in the GitHub repos:</source>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Install VS2015 and choose the 'custom' option.</source>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>On the next screen, at the bottom, you need to select the two Git-related options.</source>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>So you can see a preview of your .md files in VS2015:</source>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">]</data>
+					<data id="id3">(http://vswebessentials.com/download "</data>
+					<data id="id4">")</data>
+				</originalData>
+				<segment state="initial">
+					<source>Install <pc dataRefEnd="id2" dataRefStart="id1" id="p1">VS Web Essentials</pc><pc dataRefEnd="id4" dataRefStart="id3" id="p2">Link to download the latest Web Essentials version - you can also search for it in the extensions manager in VS</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>To understand more about how to use GitHub and VS2015, check these out:</source>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>WDG-CPUB test instructions</source>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>The WDG repo on github.com</source>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>Preview (and live) version of the WDG repo on MSDN</source>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>Channel 9 guide to connecting GitHub repos to VS2015</source>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>Tutorial on creating a GitHub project</source>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>Here's what we're going to do in our little excursion</source>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>1.1 Make changes and review them all on github.com</source>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>Go to the wdg-cpub-test repo on github.com and navigate to the readme.md file</source>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Make an update on the site to include this URL for msdnstage:</source>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>https://msdnstage.redmond.corp.microsoft.com/wdg-cpub-test/HelloWorld</source>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>Request a pull change</source>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>1.2a Use VS2015 to pull files from a repo</source>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Manage Connections</pc> icon at the top of the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Team Explorer</pc> window.</source>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>You should see a GitHub section  (if this doesn't appear, you may need to sign in first).</source>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">*</data>
+					<data id="id4">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Clone</pc> and search for a project (eg <pc dataRefEnd="id4" dataRefStart="id3" id="p2">wdg-cpub</pc>) from the list.</source>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>Make sure it's going in your dedicated GitHub syncs folder.</source>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Clone</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>This will pull all the files in the repo onto your local machine.</source>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>Use File Explorer to go to the location of the repo and you can see the files.</source>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>You can copy the files to somewhere else on your machine to open them and play around with them without fear that you will make changes on the server.</source>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>1.2b Use VS2015 to push files to a repo</source>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>To make changes appear on the server, open up the file from within your local folder and make the changes.</source>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<segment state="initial">
+					<source>Save the file and go back to VS2015.</source>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<segment state="initial">
+					<source>Generally, you should make branches when you are making changes.</source>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://msdnstage.redmond.corp.microsoft.com/en-us/wdg-cpub-test/tedhudek/workflow)</data>
+				</originalData>
+				<segment state="initial">
+					<source>See <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Team Workflow for more information</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Manage Connections</pc> icon at the top of the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Team Explorer</pc> window.</source>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>You should see a GitHub section  (if this doesn't appear, you may need to sign in first).</source>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Double-click the repo you want to update in the list of <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Local Git Respositories</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>This will open the repo and take you to <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Team Explorer</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Branches</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<originalData>
+					<data id="id1">*</data>
+					<data id="id2">*</data>
+					<data id="id3">*</data>
+					<data id="id4">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>right click on <pc dataRefEnd="id2" dataRefStart="id1" id="p1">master</pc> and click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">New local branch from...</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<segment state="initial">
+					<source>Enter a name for the new branch (describing what you did or the date maybe).</source>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Create Branch</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Go to <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Changes</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="144" translate="yes">
+				<segment state="initial">
+					<source>You'll see the files you updated, and the new branch should be selected by default.</source>
+				</segment>
+			</unit>
+			<unit id="145" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If not, click on the branch name, which will take you to <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Branches</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="146" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Double-click the new branch, then go back to <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Changes</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="147" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Enter a description and click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Commit</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="148" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Go to <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Sync</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="149" translate="yes">
+				<segment state="initial">
+					<source>You'll see the an open publish request.</source>
+				</segment>
+			</unit>
+			<unit id="150" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Publish</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="151" translate="yes">
+				<segment state="initial">
+					<source>Your local changes are now on the github.com server.</source>
+				</segment>
+			</unit>
+			<unit id="152" translate="yes">
+				<segment state="initial">
+					<source>You can go there to see them.</source>
+				</segment>
+			</unit>
+			<unit id="153" translate="yes">
+				<segment state="initial">
+					<source>1.3 Use VS2015 to do it all (connect to a github repo, make changes, sync with github.com)</source>
+				</segment>
+			</unit>
+			<unit id="154" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Manage Connections</pc> icon at the top of the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Team Explorer</pc> window.</source>
+				</segment>
+			</unit>
+			<unit id="155" translate="yes">
+				<segment state="initial">
+					<source>You should see a GitHub section  (if this doesn't appear, you may need to sign in first).</source>
+				</segment>
+			</unit>
+			<unit id="156" translate="yes">
+				<segment state="initial">
+					<source>You have two options, which depend on whether you've created a repo on github.com already and want to use it, or if you want to create a new repo right now:</source>
+				</segment>
+			</unit>
+			<unit id="157" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Under GitHub, click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Create</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="158" translate="yes">
+				<segment state="initial">
+					<source>Enter the name, a description, the local sync path you want to use (it's a good idea to keep all your syncs in one folder, on a non-OS partition).</source>
+				</segment>
+			</unit>
+			<unit id="159" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Create</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="160" translate="yes">
+				<originalData>
+					<data id="id1">*</data>
+					<data id="id2">*</data>
+					<data id="id3">*</data>
+					<data id="id4">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>In this example we'll use <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Testing</pc> for the name, and <pc dataRefEnd="id4" dataRefStart="id3" id="p2">F:\Gits</pc> for the path.</source>
+				</segment>
+			</unit>
+			<unit id="161" translate="yes">
+				<originalData>
+					<data id="id1">*</data>
+					<data id="id2">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you have an existing repo, click *<pc dataRefEnd="id2" dataRefStart="id1" id="p1">Clone</pc> and select it from the list.</source>
+				</segment>
+			</unit>
+			<unit id="162" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Clone</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="163" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Your repo will appear in the list of <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Local Git Respositories</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="164" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Double-click it to open the repo in <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Team Explorer</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="165" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Under <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Solutions</pc> click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">New...</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="166" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&lt;b&gt;</data>
+					<data id="id4">&lt;/b&gt;</data>
+					<data id="id5">*</data>
+					<data id="id6">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>Under <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Templates\Other Project Types\Visual Studio Solutions</pc> select <ph dataRef="id3" id="ph1" />Blank Solution<ph dataRef="id4" id="ph2" />, give it the same name as the repo you just created: <pc dataRefEnd="id6" dataRefStart="id5" id="p2">Testing</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="167" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">*</data>
+					<data id="id4">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>Change the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Location</pc> to be the parent folder of the repo you just created: <pc dataRefEnd="id4" dataRefStart="id3" id="p2">F:\Gits</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="168" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">&lt;b&gt;</data>
+					<data id="id4">&lt;/b&gt;</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Add to source control</pc> and click <ph dataRef="id3" id="ph1" />OK<ph dataRef="id4" id="ph2" />.</source>
+				</segment>
+			</unit>
+			<unit id="169" translate="yes">
+				<segment state="initial">
+					<source>Go to Changes, enter a description and click Commit.</source>
+				</segment>
+			</unit>
+			<unit id="170" translate="yes">
+				<segment state="initial">
+					<source>Go to Sync.</source>
+				</segment>
+			</unit>
+			<unit id="171" translate="yes">
+				<segment state="initial">
+					<source>You'll see an open push request.</source>
+				</segment>
+			</unit>
+			<unit id="172" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Click <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Push</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="173" translate="yes">
+				<segment state="initial">
+					<source>You've now created a repo on github.com, and synced it with your local copy.</source>
+				</segment>
+			</unit>
+			<unit id="174" translate="yes">
+				<segment state="initial">
+					<source>It only contains a readme.md, but if you go to github.com, you'll see the repo has been created.</source>
+				</segment>
+			</unit>
+			<unit id="175" translate="yes">
+				<segment state="initial">
+					<source>Now you can start working on files.</source>
+				</segment>
+			</unit>
+			<unit id="176" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Go to the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Solution Explorer</pc> in VS2015.</source>
+				</segment>
+			</unit>
+			<unit id="177" translate="yes">
+				<segment state="initial">
+					<source>Here you'll see the files you have.</source>
+				</segment>
+			</unit>
+			<unit id="178" translate="yes">
+				<segment state="initial">
+					<source>Right-click to add a new file, choose a text document, and call it whatever you want.</source>
+				</segment>
+			</unit>
+			<unit id="179" translate="yes">
+				<segment state="initial">
+					<source>Make sure it has .md as the extension (this ensures it is a MarkDown document).</source>
+				</segment>
+			</unit>
+			<unit id="180" translate="yes">
+				<segment state="initial">
+					<source>You can now edit it in VS2015.</source>
+				</segment>
+			</unit>
+			<unit id="181" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>To push your changes, go to <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Team Explorer</pc>, then follow Steps 8 and 9 in Section 1.3 above.</source>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>
